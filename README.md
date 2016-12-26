@@ -13,7 +13,10 @@ This project served for me as a mean to learn more about React Native. It is ope
 Installation
 ------------
 
-I haven't tried but I guess that you won't need much apart from adding your signing keys. More documentation later, hopefully.
+To install from the source, I guess that you won't need much apart from adding your signing keys. I haven't tried so more documentation later, hopefully.
+
+[![Play Store](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=net.fmcorz.pocketgo)
+[![Apple Store](https://devimages.apple.com.edgekey.net/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://itunes.apple.com/us/app/pocket-go/id1143900642)
 
 License
 -------
