@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+v1.6.1
+------
+
+- Fix some invalid Pokémon names
+
 v1.6
 ----
 
