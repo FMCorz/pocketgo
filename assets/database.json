@@ -6692,31 +6692,31 @@
       "evolution_cost": 25, 
       "i18n": {
         "fr": {
-          "name": "Maraiste"
+          "name": "Pichu"
         }, 
         "en": {
-          "name": "Quagsire"
+          "name": "Pichu"
         }, 
         "zh": {
-          "name": "\u6cbc\u738b"
+          "name": "\u76ae\u4e18"
         }, 
         "roomaji": {
-          "name": "Nuoh"
+          "name": "Pichu"
         }, 
         "de": {
-          "name": "Morlord"
+          "name": "Pichu"
         }, 
         "ko": {
-          "name": "\ub204\uc624"
+          "name": "\ud53c\uce04"
         }, 
         "it": {
-          "name": "Quagsire"
+          "name": "Pichu"
         }, 
         "ja": {
-          "name": "\u30cc\u30aa\u30fc"
+          "name": "\u30d4\u30c1\u30e5\u30fc"
         }, 
         "es": {
-          "name": "Quagsire"
+          "name": "Pichu"
         }
       }, 
       "egg_type": 5, 
@@ -6733,6 +6733,49 @@
       ]
     }, 
     "173": {
+      "evolution_cost": 25, 
+      "i18n": {
+        "fr": {
+          "name": "M\u00e9lo"
+        }, 
+        "en": {
+          "name": "Cleffa"
+        }, 
+        "zh": {
+          "name": "\u76ae\u5bf6\u5bf6"
+        }, 
+        "roomaji": {
+          "name": "Py"
+        }, 
+        "de": {
+          "name": "Pii"
+        }, 
+        "ko": {
+          "name": "\uc090"
+        }, 
+        "it": {
+          "name": "Cleffa"
+        }, 
+        "ja": {
+          "name": "\u30d4\u30a3"
+        }, 
+        "es": {
+          "name": "Cleffa"
+        }
+      }, 
+      "egg_type": 2, 
+      "moves": [
+        "zen-headbutt", 
+        "pound", 
+        "signal-beam", 
+        "psychic"
+      ], 
+      "id": 173, 
+      "types": [
+        "fairy"
+      ]
+    }, 
+    "174": {
       "evolution_cost": 25, 
       "i18n": {
         "fr": {
@@ -6765,49 +6808,6 @@
       }, 
       "egg_type": 2, 
       "moves": [
-        "zen-headbutt", 
-        "pound", 
-        "signal-beam", 
-        "psychic"
-      ], 
-      "id": 173, 
-      "types": [
-        "fairy"
-      ]
-    }, 
-    "174": {
-      "evolution_cost": 25, 
-      "i18n": {
-        "fr": {
-          "name": "Donphan"
-        }, 
-        "en": {
-          "name": "Donphan"
-        }, 
-        "zh": {
-          "name": "\u9813\u7532"
-        }, 
-        "roomaji": {
-          "name": "Donfan"
-        }, 
-        "de": {
-          "name": "Donphan"
-        }, 
-        "ko": {
-          "name": "\ucf54\ub9ac\uac11"
-        }, 
-        "it": {
-          "name": "Donphan"
-        }, 
-        "ja": {
-          "name": "\u30c9\u30f3\u30d5\u30a1\u30f3"
-        }, 
-        "es": {
-          "name": "Donphan"
-        }
-      }, 
-      "egg_type": 2, 
-      "moves": [
         "pound", 
         "feint-attack", 
         "shadow-ball", 
@@ -6824,31 +6824,31 @@
       "evolution_cost": 50, 
       "i18n": {
         "fr": {
-          "name": "Natu"
+          "name": "Togepi"
         }, 
         "en": {
-          "name": "Natu"
+          "name": "Togepi"
         }, 
         "zh": {
-          "name": "\u5929\u7136\u96c0"
+          "name": "\u6ce2\u514b\u6bd4"
         }, 
         "roomaji": {
-          "name": "Naty"
+          "name": "Togepy"
         }, 
         "de": {
-          "name": "Natu"
+          "name": "Togepi"
         }, 
         "ko": {
-          "name": "\ub124\uc774\ud2f0"
+          "name": "\ud1a0\uac8c\ud53c"
         }, 
         "it": {
-          "name": "Natu"
+          "name": "Togepi"
         }, 
         "ja": {
-          "name": "\u30cd\u30a4\u30c6\u30a3"
+          "name": "\u30c8\u30b2\u30d4\u30fc"
         }, 
         "es": {
-          "name": "Natu"
+          "name": "Togepi"
         }
       }, 
       "egg_type": 5, 
@@ -6868,31 +6868,31 @@
       "evolution_cost": null, 
       "i18n": {
         "fr": {
-          "name": "Farfuret"
+          "name": "Togetic"
         }, 
         "en": {
-          "name": "Sneasel"
+          "name": "Togetic"
         }, 
         "zh": {
-          "name": "\u72c3\u62c9"
+          "name": "\u6ce2\u514b\u57fa\u53e4"
         }, 
         "roomaji": {
-          "name": "Nyula"
+          "name": "Togechick"
         }, 
         "de": {
-          "name": "Sniebel"
+          "name": "Togetic"
         }, 
         "ko": {
-          "name": "\ud3ec\ud478\ub2c8"
+          "name": "\ud1a0\uac8c\ud2f1"
         }, 
         "it": {
-          "name": "Sneasel"
+          "name": "Togetic"
         }, 
         "ja": {
-          "name": "\u30cb\u30e5\u30fc\u30e9"
+          "name": "\u30c8\u30b2\u30c1\u30c3\u30af"
         }, 
         "es": {
-          "name": "Sneasel"
+          "name": "Togetic"
         }
       }, 
       "egg_type": null, 
@@ -6910,95 +6910,6 @@
       ]
     }, 
     "238": {
-      "evolution_cost": 25, 
-      "i18n": {
-        "fr": {
-          "name": "Ursaring"
-        }, 
-        "en": {
-          "name": "Ursaring"
-        }, 
-        "zh": {
-          "name": "\u5708\u5708\u718a"
-        }, 
-        "roomaji": {
-          "name": "Ringuma"
-        }, 
-        "de": {
-          "name": "Ursaring"
-        }, 
-        "ko": {
-          "name": "\ub9c1\uacf0"
-        }, 
-        "it": {
-          "name": "Ursaring"
-        }, 
-        "ja": {
-          "name": "\u30ea\u30f3\u30b0\u30de"
-        }, 
-        "es": {
-          "name": "Ursaring"
-        }
-      }, 
-      "egg_type": 10, 
-      "moves": [
-        "frost-breath", 
-        "pound", 
-        "ice-beam", 
-        "ice-punch", 
-        "psyshock"
-      ], 
-      "id": 238, 
-      "types": [
-        "ice", 
-        "psychic"
-      ]
-    }, 
-    "239": {
-      "evolution_cost": 25, 
-      "i18n": {
-        "fr": {
-          "name": "Joliflor"
-        }, 
-        "en": {
-          "name": "Bellossom"
-        }, 
-        "zh": {
-          "name": "\u7f8e\u9e97\u82b1"
-        }, 
-        "roomaji": {
-          "name": "Kireihana"
-        }, 
-        "de": {
-          "name": "Blubella"
-        }, 
-        "ko": {
-          "name": "\uc544\ub974\ucf54"
-        }, 
-        "it": {
-          "name": "Bellossom"
-        }, 
-        "ja": {
-          "name": "\u30ad\u30ec\u30a4\u30cf\u30ca"
-        }, 
-        "es": {
-          "name": "Bellossom"
-        }
-      }, 
-      "egg_type": 10, 
-      "moves": [
-        "thunder-shock", 
-        "low-kick", 
-        "thunder-punch", 
-        "thunderbolt", 
-        "discharge"
-      ], 
-      "id": 239, 
-      "types": [
-        "electric"
-      ]
-    }, 
-    "240": {
       "evolution_cost": 25, 
       "i18n": {
         "fr": {
@@ -7027,6 +6938,95 @@
         }, 
         "es": {
           "name": "Smoochum"
+        }
+      }, 
+      "egg_type": 10, 
+      "moves": [
+        "frost-breath", 
+        "pound", 
+        "ice-beam", 
+        "ice-punch", 
+        "psyshock"
+      ], 
+      "id": 238, 
+      "types": [
+        "ice", 
+        "psychic"
+      ]
+    }, 
+    "239": {
+      "evolution_cost": 25, 
+      "i18n": {
+        "fr": {
+          "name": "\u00c9lekid"
+        }, 
+        "en": {
+          "name": "Elekid"
+        }, 
+        "zh": {
+          "name": "\u96fb\u64ca\u602a"
+        }, 
+        "roomaji": {
+          "name": "Elekid"
+        }, 
+        "de": {
+          "name": "Elekid"
+        }, 
+        "ko": {
+          "name": "\uc5d0\ub808\ud0a4\ub4dc"
+        }, 
+        "it": {
+          "name": "Elekid"
+        }, 
+        "ja": {
+          "name": "\u30a8\u30ec\u30ad\u30c3\u30c9"
+        }, 
+        "es": {
+          "name": "Elekid"
+        }
+      }, 
+      "egg_type": 10, 
+      "moves": [
+        "thunder-shock", 
+        "low-kick", 
+        "thunder-punch", 
+        "thunderbolt", 
+        "discharge"
+      ], 
+      "id": 239, 
+      "types": [
+        "electric"
+      ]
+    }, 
+    "240": {
+      "evolution_cost": 25, 
+      "i18n": {
+        "fr": {
+          "name": "Magby"
+        }, 
+        "en": {
+          "name": "Magby"
+        }, 
+        "zh": {
+          "name": "\u5c0f\u9d28\u5634\u9f8d"
+        }, 
+        "roomaji": {
+          "name": "Buby"
+        }, 
+        "de": {
+          "name": "Magby"
+        }, 
+        "ko": {
+          "name": "\ub9c8\uadf8\ube44"
+        }, 
+        "it": {
+          "name": "Magby"
+        }, 
+        "ja": {
+          "name": "\u30d6\u30d3\u30a3"
+        }, 
+        "es": {
+          "name": "Magby"
         }
       }, 
       "egg_type": 10, 
