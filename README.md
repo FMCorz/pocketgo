@@ -18,6 +18,21 @@ To install from the source, I guess that you won't need much apart from adding y
 [![Play Store](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=net.fmcorz.pocketgo)
 [![Apple Store](https://devimages.apple.com.edgekey.net/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://itunes.apple.com/us/app/pocket-go/id1143900642)
 
+Android keys
+------------
+
+Set-up the following in the file `~/.grade/grade.properties`:
+
+    POCKETGO_RELEASE_STORE_FILE=<path-to-keystore-file>.keystore
+    POCKETGO_RELEASE_KEY_ALIAS=<key-alias>
+    POCKETGO_RELEASE_STORE_PASSWORD=<store-password>
+    POCKETGO_RELEASE_KEY_PASSWORD=<key-password>
+
+Running
+-------
+
+    react-native run-android --variant devDebug
+
 License
 -------
 

@@ -10,10 +10,11 @@
     "preset": "react-native"
   },
   "dependencies": {
-    "react": "^15.4.1",
-    "react-native": "^0.39.2",
-    "react-native-localization": "^0.1.15",
-    "react-native-vector-icons": "^2.0.3",
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.47.1",
+    "react-native-deprecated-custom-components": "^0.1.1",
+    "react-native-localization": "^0.1.31",
+    "react-native-vector-icons": "^4.3.0",
     "react-native-viewpager": "github:fmcorz/react-native-viewpager#stable",
     "react-redux": "^4.4.5",
     "redux": "^3.5.2"
