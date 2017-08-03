@@ -6688,8 +6688,96 @@
         "psychic"
       ]
     }, 
-    "172": {
-      "evolution_cost": 25, 
+    "152": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Malosse"
+        }, 
+        "en": {
+          "name": "Houndour"
+        }, 
+        "zh": {
+          "name": "\u6234\u9b6f\u6bd4"
+        }, 
+        "roomaji": {
+          "name": "Delvil"
+        }, 
+        "de": {
+          "name": "Hunduster"
+        }, 
+        "ko": {
+          "name": "\ub378\ube4c"
+        }, 
+        "it": {
+          "name": "Houndour"
+        }, 
+        "ja": {
+          "name": "\u30c7\u30eb\u30d3\u30eb"
+        }, 
+        "es": {
+          "name": "Houndour"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "vine-whip", 
+        "tackle", 
+        "energy-ball", 
+        "grass-knot", 
+        "body-slam"
+      ], 
+      "id": 152, 
+      "types": [
+        "grass"
+      ]
+    }, 
+    "153": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Qulbutok\u00e9"
+        }, 
+        "en": {
+          "name": "Wobbuffet"
+        }, 
+        "zh": {
+          "name": "\u679c\u7136\u7fc1"
+        }, 
+        "roomaji": {
+          "name": "Sonans"
+        }, 
+        "de": {
+          "name": "Woingenau"
+        }, 
+        "ko": {
+          "name": "\ub9c8\uc790\uc6a9"
+        }, 
+        "it": {
+          "name": "Wobbuffet"
+        }, 
+        "ja": {
+          "name": "\u30bd\u30fc\u30ca\u30f3\u30b9"
+        }, 
+        "es": {
+          "name": "Wobbuffet"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "razor-leaf", 
+        "tackle", 
+        "energy-ball", 
+        "grass-knot", 
+        "ancient-power"
+      ], 
+      "id": 153, 
+      "types": [
+        "grass"
+      ]
+    }, 
+    "154": {
+      "evolution_cost": 3, 
       "i18n": {
         "fr": {
           "name": "Pichu"
@@ -6719,11 +6807,810 @@
           "name": "Pichu"
         }
       }, 
+      "egg_type": null, 
+      "moves": [
+        "razor-leaf", 
+        "vine-whip", 
+        "petal-blizzard", 
+        "solar-beam", 
+        "earthquake"
+      ], 
+      "id": 154, 
+      "types": [
+        "grass"
+      ]
+    }, 
+    "155": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Entei"
+        }, 
+        "en": {
+          "name": "Entei"
+        }, 
+        "zh": {
+          "name": "\u708e\u5e1d"
+        }, 
+        "roomaji": {
+          "name": "Entei"
+        }, 
+        "de": {
+          "name": "Entei"
+        }, 
+        "ko": {
+          "name": "\uc564\ud14c\uc774"
+        }, 
+        "it": {
+          "name": "Entei"
+        }, 
+        "ja": {
+          "name": "\u30a8\u30f3\u30c6\u30a4"
+        }, 
+        "es": {
+          "name": "Entei"
+        }
+      }, 
       "egg_type": 5, 
       "moves": [
-        "thunder-shock", 
+        "ember", 
+        "tackle", 
+        "flame-charge", 
+        "swift", 
+        "flamethrower"
+      ], 
+      "id": 155, 
+      "types": [
+        "fire"
+      ]
+    }, 
+    "156": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Pomdepik"
+        }, 
+        "en": {
+          "name": "Pineco"
+        }, 
+        "zh": {
+          "name": "\u699b\u679c\u7403"
+        }, 
+        "roomaji": {
+          "name": "Kunugidama"
+        }, 
+        "de": {
+          "name": "Tannza"
+        }, 
+        "ko": {
+          "name": "\ud53c\ucf58"
+        }, 
+        "it": {
+          "name": "Pineco"
+        }, 
+        "ja": {
+          "name": "\u30af\u30cc\u30ae\u30c0\u30de"
+        }, 
+        "es": {
+          "name": "Pineco"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "ember", 
+        "tackle", 
+        "flame-charge", 
+        "dig", 
+        "flamethrower"
+      ], 
+      "id": 156, 
+      "types": [
+        "fire"
+      ]
+    }, 
+    "157": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Migalos"
+        }, 
+        "en": {
+          "name": "Ariados"
+        }, 
+        "zh": {
+          "name": "\u963f\u5229\u591a\u65af"
+        }, 
+        "roomaji": {
+          "name": "Ariados"
+        }, 
+        "de": {
+          "name": "Ariados"
+        }, 
+        "ko": {
+          "name": "\uc544\ub9ac\uc544\ub3c4\uc2a4"
+        }, 
+        "it": {
+          "name": "Ariados"
+        }, 
+        "ja": {
+          "name": "\u30a2\u30ea\u30a2\u30c9\u30b9"
+        }, 
+        "es": {
+          "name": "Ariados"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "ember", 
+        "shadow-claw", 
+        "fire-blast", 
+        "overheat", 
+        "solar-beam"
+      ], 
+      "id": 157, 
+      "types": [
+        "fire"
+      ]
+    }, 
+    "158": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Coxy"
+        }, 
+        "en": {
+          "name": "Ledyba"
+        }, 
+        "zh": {
+          "name": "\u82ad\u74e2\u87f2"
+        }, 
+        "roomaji": {
+          "name": "Rediba"
+        }, 
+        "de": {
+          "name": "Ledyba"
+        }, 
+        "ko": {
+          "name": "\ub808\ub514\ubc14"
+        }, 
+        "it": {
+          "name": "Ledyba"
+        }, 
+        "ja": {
+          "name": "\u30ec\u30c7\u30a3\u30d0"
+        }, 
+        "es": {
+          "name": "Ledyba"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "water-gun", 
+        "scratch", 
+        "crunch", 
+        "aqua-jet", 
+        "water-pulse"
+      ], 
+      "id": 158, 
+      "types": [
+        "water"
+      ]
+    }, 
+    "159": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Fouinar"
+        }, 
+        "en": {
+          "name": "Furret"
+        }, 
+        "zh": {
+          "name": "\u5927\u5c3e\u7acb"
+        }, 
+        "roomaji": {
+          "name": "Ootachi"
+        }, 
+        "de": {
+          "name": "Wiesenior"
+        }, 
+        "ko": {
+          "name": "\ub2e4\uaf2c\ub9ac"
+        }, 
+        "it": {
+          "name": "Furret"
+        }, 
+        "ja": {
+          "name": "\u30aa\u30aa\u30bf\u30c1"
+        }, 
+        "es": {
+          "name": "Furret"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "water-gun", 
+        "scratch", 
+        "crunch", 
+        "ice-punch", 
+        "water-pulse"
+      ], 
+      "id": 159, 
+      "types": [
+        "water"
+      ]
+    }, 
+    "160": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Magby"
+        }, 
+        "en": {
+          "name": "Magby"
+        }, 
+        "zh": {
+          "name": "\u5c0f\u9d28\u5634\u9f8d"
+        }, 
+        "roomaji": {
+          "name": "Buby"
+        }, 
+        "de": {
+          "name": "Magby"
+        }, 
+        "ko": {
+          "name": "\ub9c8\uadf8\ube44"
+        }, 
+        "it": {
+          "name": "Magby"
+        }, 
+        "ja": {
+          "name": "\u30d6\u30d3\u30a3"
+        }, 
+        "es": {
+          "name": "Magby"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "water-gun", 
+        "bite", 
+        "crunch", 
+        "hydro-pump", 
+        "ice-beam"
+      ], 
+      "id": 160, 
+      "types": [
+        "water"
+      ]
+    }, 
+    "161": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Queulorior"
+        }, 
+        "en": {
+          "name": "Smeargle"
+        }, 
+        "zh": {
+          "name": "\u5716\u5716\u72ac"
+        }, 
+        "roomaji": {
+          "name": "Doble"
+        }, 
+        "de": {
+          "name": "Farbeagle"
+        }, 
+        "ko": {
+          "name": "\ub8e8\ube0c\ub3c4"
+        }, 
+        "it": {
+          "name": "Smeargle"
+        }, 
+        "ja": {
+          "name": "\u30c9\u30fc\u30d6\u30eb"
+        }, 
+        "es": {
+          "name": "Smeargle"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "scratch", 
         "quick-attack", 
+        "dig", 
+        "brick-break", 
+        "grass-knot"
+      ], 
+      "id": 161, 
+      "types": [
+        "normal"
+      ]
+    }, 
+    "162": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Yanma"
+        }, 
+        "en": {
+          "name": "Yanma"
+        }, 
+        "zh": {
+          "name": "\u967d\u967d\u746a"
+        }, 
+        "roomaji": {
+          "name": "Yanyanma"
+        }, 
+        "de": {
+          "name": "Yanma"
+        }, 
+        "ko": {
+          "name": "\uc655\uc790\ub9ac"
+        }, 
+        "it": {
+          "name": "Yanma"
+        }, 
+        "ja": {
+          "name": "\u30e4\u30f3\u30e4\u30f3\u30de"
+        }, 
+        "es": {
+          "name": "Yanma"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "quick-attack", 
+        "sucker-punch", 
+        "dig", 
+        "brick-break", 
+        "hyper-beam"
+      ], 
+      "id": 162, 
+      "types": [
+        "normal"
+      ]
+    }, 
+    "163": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Loupio"
+        }, 
+        "en": {
+          "name": "Chinchou"
+        }, 
+        "zh": {
+          "name": "\u71c8\u7c60\u9b5a"
+        }, 
+        "roomaji": {
+          "name": "Chonchie"
+        }, 
+        "de": {
+          "name": "Lampi"
+        }, 
+        "ko": {
+          "name": "\ucd08\ub77c\uae30"
+        }, 
+        "it": {
+          "name": "Chinchou"
+        }, 
+        "ja": {
+          "name": "\u30c1\u30e7\u30f3\u30c1\u30fc"
+        }, 
+        "es": {
+          "name": "Chinchou"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "feint-attack", 
+        "peck", 
+        "aerial-ace", 
+        "sky-attack", 
+        "night-shade"
+      ], 
+      "id": 163, 
+      "types": [
+        "normal", 
+        "flying"
+      ]
+    }, 
+    "164": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "M\u00e9ganium"
+        }, 
+        "en": {
+          "name": "Meganium"
+        }, 
+        "zh": {
+          "name": "\u5927\u83ca\u82b1"
+        }, 
+        "roomaji": {
+          "name": "Meganium"
+        }, 
+        "de": {
+          "name": "Meganie"
+        }, 
+        "ko": {
+          "name": "\uba54\uac00\ub2c8\uc6c0"
+        }, 
+        "it": {
+          "name": "Meganium"
+        }, 
+        "ja": {
+          "name": "\u30e1\u30ac\u30cb\u30a6\u30e0"
+        }, 
+        "es": {
+          "name": "Meganium"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "wing-attack", 
+        "extrasensory", 
+        "psychic", 
+        "sky-attack", 
+        "night-shade"
+      ], 
+      "id": 164, 
+      "types": [
+        "normal", 
+        "flying"
+      ]
+    }, 
+    "165": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Suicune"
+        }, 
+        "en": {
+          "name": "Suicune"
+        }, 
+        "zh": {
+          "name": "\u6c34\u541b"
+        }, 
+        "roomaji": {
+          "name": "Suikun"
+        }, 
+        "de": {
+          "name": "Suicune"
+        }, 
+        "ko": {
+          "name": "\uc2a4\uc774\ucfe4"
+        }, 
+        "it": {
+          "name": "Suicune"
+        }, 
+        "ja": {
+          "name": "\u30b9\u30a4\u30af\u30f3"
+        }, 
+        "es": {
+          "name": "Suicune"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "tackle", 
+        "bug-bite", 
+        "silver-wind", 
+        "swift", 
+        "aerial-ace"
+      ], 
+      "id": 165, 
+      "types": [
+        "bug", 
+        "flying"
+      ]
+    }, 
+    "166": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Kapoera"
+        }, 
+        "en": {
+          "name": "Hitmontop"
+        }, 
+        "zh": {
+          "name": "\u67ef\u6ce2\u6717"
+        }, 
+        "roomaji": {
+          "name": "Kapoerer"
+        }, 
+        "de": {
+          "name": "Kapoera"
+        }, 
+        "ko": {
+          "name": "\uce74\ud3ec\uc5d0\ub77c"
+        }, 
+        "it": {
+          "name": "Hitmontop"
+        }, 
+        "ja": {
+          "name": "\u30ab\u30dd\u30a8\u30e9\u30fc"
+        }, 
+        "es": {
+          "name": "Hitmontop"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "struggle-bug", 
+        "bug-bite", 
+        "bug-buzz", 
+        "silver-wind", 
+        "aerial-ace"
+      ], 
+      "id": 166, 
+      "types": [
+        "bug", 
+        "flying"
+      ]
+    }, 
+    "167": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Teddiursa"
+        }, 
+        "en": {
+          "name": "Teddiursa"
+        }, 
+        "zh": {
+          "name": "\u718a\u5bf6\u5bf6"
+        }, 
+        "roomaji": {
+          "name": "Himeguma"
+        }, 
+        "de": {
+          "name": "Teddiursa"
+        }, 
+        "ko": {
+          "name": "\uae5c\uc9c0\uacf0"
+        }, 
+        "it": {
+          "name": "Teddiursa"
+        }, 
+        "ja": {
+          "name": "\u30d2\u30e1\u30b0\u30de"
+        }, 
+        "es": {
+          "name": "Teddiursa"
+        }
+      }, 
+      "egg_type": 2, 
+      "moves": [
+        "poison-sting", 
+        "bug-bite", 
+        "night-slash", 
+        "signal-beam", 
+        "cross-poison"
+      ], 
+      "id": 167, 
+      "types": [
+        "bug", 
+        "poison"
+      ]
+    }, 
+    "168": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Pharamp"
+        }, 
+        "en": {
+          "name": "Ampharos"
+        }, 
+        "zh": {
+          "name": "\u96fb\u9f8d"
+        }, 
+        "roomaji": {
+          "name": "Denryu"
+        }, 
+        "de": {
+          "name": "Ampharos"
+        }, 
+        "ko": {
+          "name": "\uc804\ub8e1"
+        }, 
+        "it": {
+          "name": "Ampharos"
+        }, 
+        "ja": {
+          "name": "\u30c7\u30f3\u30ea\u30e5\u30a6"
+        }, 
+        "es": {
+          "name": "Ampharos"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "poison-sting", 
+        "infestation", 
+        "shadow-sneak", 
+        "megahorn", 
+        "cross-poison"
+      ], 
+      "id": 168, 
+      "types": [
+        "bug", 
+        "poison"
+      ]
+    }, 
+    "169": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Crocrodil"
+        }, 
+        "en": {
+          "name": "Croconaw"
+        }, 
+        "zh": {
+          "name": "\u85cd\u9c77"
+        }, 
+        "roomaji": {
+          "name": "Alligates"
+        }, 
+        "de": {
+          "name": "Tyracroc"
+        }, 
+        "ko": {
+          "name": "\uc5d8\ub9ac\uac8c\uc774"
+        }, 
+        "it": {
+          "name": "Croconaw"
+        }, 
+        "ja": {
+          "name": "\u30a2\u30ea\u30b2\u30a4\u30c4"
+        }, 
+        "es": {
+          "name": "Croconaw"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "air-slash", 
+        "bite", 
+        "shadow-ball", 
+        "air-cutter", 
+        "sludge-bomb"
+      ], 
+      "id": 169, 
+      "types": [
+        "poison", 
+        "flying"
+      ]
+    }, 
+    "170": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Floravol"
+        }, 
+        "en": {
+          "name": "Skiploom"
+        }, 
+        "zh": {
+          "name": "\u6bfd\u5b50\u82b1"
+        }, 
+        "roomaji": {
+          "name": "Popocco"
+        }, 
+        "de": {
+          "name": "Hubelupf"
+        }, 
+        "ko": {
+          "name": "\ub450\ucf54"
+        }, 
+        "it": {
+          "name": "Skiploom"
+        }, 
+        "ja": {
+          "name": "\u30dd\u30dd\u30c3\u30b3"
+        }, 
+        "es": {
+          "name": "Skiploom"
+        }
+      }, 
+      "egg_type": 10, 
+      "moves": [
+        "bubble", 
+        "spark", 
+        "water-pulse", 
         "thunderbolt", 
+        "bubble-beam"
+      ], 
+      "id": 170, 
+      "types": [
+        "water", 
+        "electric"
+      ]
+    }, 
+    "171": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Corn\u00e8bre"
+        }, 
+        "en": {
+          "name": "Murkrow"
+        }, 
+        "zh": {
+          "name": "\u9ed1\u6697\u9d09"
+        }, 
+        "roomaji": {
+          "name": "Yamikarasu"
+        }, 
+        "de": {
+          "name": "Kramurx"
+        }, 
+        "ko": {
+          "name": "\ub2c8\ub85c\uc6b0"
+        }, 
+        "it": {
+          "name": "Murkrow"
+        }, 
+        "ja": {
+          "name": "\u30e4\u30df\u30ab\u30e9\u30b9"
+        }, 
+        "es": {
+          "name": "Murkrow"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "water-gun", 
+        "charge-beam", 
+        "hydro-pump", 
+        "thunderbolt", 
+        "thunder"
+      ], 
+      "id": 171, 
+      "types": [
+        "water", 
+        "electric"
+      ]
+    }, 
+    "172": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Maraiste"
+        }, 
+        "en": {
+          "name": "Quagsire"
+        }, 
+        "zh": {
+          "name": "\u6cbc\u738b"
+        }, 
+        "roomaji": {
+          "name": "Nuoh"
+        }, 
+        "de": {
+          "name": "Morlord"
+        }, 
+        "ko": {
+          "name": "\ub204\uc624"
+        }, 
+        "it": {
+          "name": "Quagsire"
+        }, 
+        "ja": {
+          "name": "\u30cc\u30aa\u30fc"
+        }, 
+        "es": {
+          "name": "Quagsire"
+        }
+      }, 
+      "egg_type": 2, 
+      "moves": [
+        "thunder-shock", 
         "disarming-voice", 
         "thunder-punch"
       ], 
@@ -6733,50 +7620,7 @@
       ]
     }, 
     "173": {
-      "evolution_cost": 25, 
-      "i18n": {
-        "fr": {
-          "name": "M\u00e9lo"
-        }, 
-        "en": {
-          "name": "Cleffa"
-        }, 
-        "zh": {
-          "name": "\u76ae\u5bf6\u5bf6"
-        }, 
-        "roomaji": {
-          "name": "Py"
-        }, 
-        "de": {
-          "name": "Pii"
-        }, 
-        "ko": {
-          "name": "\uc090"
-        }, 
-        "it": {
-          "name": "Cleffa"
-        }, 
-        "ja": {
-          "name": "\u30d4\u30a3"
-        }, 
-        "es": {
-          "name": "Cleffa"
-        }
-      }, 
-      "egg_type": 2, 
-      "moves": [
-        "zen-headbutt", 
-        "pound", 
-        "signal-beam", 
-        "psychic"
-      ], 
-      "id": 173, 
-      "types": [
-        "fairy"
-      ]
-    }, 
-    "174": {
-      "evolution_cost": 25, 
+      "evolution_cost": 1, 
       "i18n": {
         "fr": {
           "name": "Toudoudou"
@@ -6809,9 +7653,53 @@
       "egg_type": 2, 
       "moves": [
         "pound", 
+        "zen-headbutt", 
+        "grass-knot", 
+        "psyshock", 
+        "signal-beam"
+      ], 
+      "id": 173, 
+      "types": [
+        "fairy"
+      ]
+    }, 
+    "174": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Donphan"
+        }, 
+        "en": {
+          "name": "Donphan"
+        }, 
+        "zh": {
+          "name": "\u9813\u7532"
+        }, 
+        "roomaji": {
+          "name": "Donfan"
+        }, 
+        "de": {
+          "name": "Donphan"
+        }, 
+        "ko": {
+          "name": "\ucf54\ub9ac\uac11"
+        }, 
+        "it": {
+          "name": "Donphan"
+        }, 
+        "ja": {
+          "name": "\u30c9\u30f3\u30d5\u30a1\u30f3"
+        }, 
+        "es": {
+          "name": "Donphan"
+        }
+      }, 
+      "egg_type": 2, 
+      "moves": [
+        "pound", 
         "feint-attack", 
+        "wild-charge", 
         "shadow-ball", 
-        "body-slam", 
         "psychic"
       ], 
       "id": 174, 
@@ -6821,7 +7709,1737 @@
       ]
     }, 
     "175": {
-      "evolution_cost": 50, 
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Natu"
+        }, 
+        "en": {
+          "name": "Natu"
+        }, 
+        "zh": {
+          "name": "\u5929\u7136\u96c0"
+        }, 
+        "roomaji": {
+          "name": "Naty"
+        }, 
+        "de": {
+          "name": "Natu"
+        }, 
+        "ko": {
+          "name": "\ub124\uc774\ud2f0"
+        }, 
+        "it": {
+          "name": "Natu"
+        }, 
+        "ja": {
+          "name": "\u30cd\u30a4\u30c6\u30a3"
+        }, 
+        "es": {
+          "name": "Natu"
+        }
+      }, 
+      "egg_type": 2, 
+      "moves": [
+        "hidden-power", 
+        "peck", 
+        "ancient-power", 
+        "psyshock", 
+        "dazzling-gleam"
+      ], 
+      "id": 175, 
+      "types": [
+        "fairy"
+      ]
+    }, 
+    "176": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Farfuret"
+        }, 
+        "en": {
+          "name": "Sneasel"
+        }, 
+        "zh": {
+          "name": "\u72c3\u62c9"
+        }, 
+        "roomaji": {
+          "name": "Nyula"
+        }, 
+        "de": {
+          "name": "Sniebel"
+        }, 
+        "ko": {
+          "name": "\ud3ec\ud478\ub2c8"
+        }, 
+        "it": {
+          "name": "Sneasel"
+        }, 
+        "ja": {
+          "name": "\u30cb\u30e5\u30fc\u30e9"
+        }, 
+        "es": {
+          "name": "Sneasel"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "extrasensory", 
+        "hidden-power", 
+        "ancient-power", 
+        "dazzling-gleam", 
+        "aerial-ace"
+      ], 
+      "id": 176, 
+      "types": [
+        "fairy", 
+        "flying"
+      ]
+    }, 
+    "177": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Qwilfish"
+        }, 
+        "en": {
+          "name": "Qwilfish"
+        }, 
+        "zh": {
+          "name": "\u5343\u91dd\u9b5a"
+        }, 
+        "roomaji": {
+          "name": "Harysen"
+        }, 
+        "de": {
+          "name": "Baldorfish"
+        }, 
+        "ko": {
+          "name": "\uce68\ubc14\ub8e8"
+        }, 
+        "it": {
+          "name": "Qwilfish"
+        }, 
+        "ja": {
+          "name": "\u30cf\u30ea\u30fc\u30bb\u30f3"
+        }, 
+        "es": {
+          "name": "Qwilfish"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "peck", 
+        "quick-attack", 
+        "night-shade", 
+        "psyshock", 
+        "drill-peck"
+      ], 
+      "id": 177, 
+      "types": [
+        "psychic", 
+        "flying"
+      ]
+    }, 
+    "178": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Nostenfer"
+        }, 
+        "en": {
+          "name": "Crobat"
+        }, 
+        "zh": {
+          "name": "\u53c9\u5b57\u8760"
+        }, 
+        "roomaji": {
+          "name": "Crobat"
+        }, 
+        "de": {
+          "name": "Iksbat"
+        }, 
+        "ko": {
+          "name": "\ud06c\ub85c\ubc43"
+        }, 
+        "it": {
+          "name": "Crobat"
+        }, 
+        "ja": {
+          "name": "\u30af\u30ed\u30d0\u30c3\u30c8"
+        }, 
+        "es": {
+          "name": "Crobat"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "air-slash", 
+        "feint-attack", 
+        "ominous-wind", 
+        "future-sight", 
+        "aerial-ace"
+      ], 
+      "id": 178, 
+      "types": [
+        "psychic", 
+        "flying"
+      ]
+    }, 
+    "179": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Cochignon"
+        }, 
+        "en": {
+          "name": "Piloswine"
+        }, 
+        "zh": {
+          "name": "\u9577\u6bdb\u8c6c"
+        }, 
+        "roomaji": {
+          "name": "Inomoo"
+        }, 
+        "de": {
+          "name": "Keifel"
+        }, 
+        "ko": {
+          "name": "\uba54\uafb8\ub9ac"
+        }, 
+        "it": {
+          "name": "Piloswine"
+        }, 
+        "ja": {
+          "name": "\u30a4\u30ce\u30e0\u30fc"
+        }, 
+        "es": {
+          "name": "Piloswine"
+        }
+      }, 
+      "egg_type": 10, 
+      "moves": [
+        "tackle", 
+        "thunder-shock", 
+        "body-slam", 
+        "thunderbolt", 
+        "discharge"
+      ], 
+      "id": 179, 
+      "types": [
+        "electric"
+      ]
+    }, 
+    "180": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Limagma"
+        }, 
+        "en": {
+          "name": "Slugma"
+        }, 
+        "zh": {
+          "name": "\u7194\u5ca9\u87f2"
+        }, 
+        "roomaji": {
+          "name": "Magmag"
+        }, 
+        "de": {
+          "name": "Schneckmag"
+        }, 
+        "ko": {
+          "name": "\ub9c8\uadf8\ub9c8\uadf8"
+        }, 
+        "it": {
+          "name": "Slugma"
+        }, 
+        "ja": {
+          "name": "\u30de\u30b0\u30de\u30c3\u30b0"
+        }, 
+        "es": {
+          "name": "Slugma"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "tackle", 
+        "charge-beam", 
+        "power-gem", 
+        "thunderbolt", 
+        "discharge"
+      ], 
+      "id": 180, 
+      "types": [
+        "electric"
+      ]
+    }, 
+    "181": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Lainergie"
+        }, 
+        "en": {
+          "name": "Flaaffy"
+        }, 
+        "zh": {
+          "name": "\u7dbf\u7dbf"
+        }, 
+        "roomaji": {
+          "name": "Mokoko"
+        }, 
+        "de": {
+          "name": "Waaty"
+        }, 
+        "ko": {
+          "name": "\ubcf4\uc1a1\uc1a1"
+        }, 
+        "it": {
+          "name": "Flaaffy"
+        }, 
+        "ja": {
+          "name": "\u30e2\u30b3\u30b3"
+        }, 
+        "es": {
+          "name": "Flaaffy"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "charge-beam", 
+        "volt-switch", 
+        "zap-cannon", 
+        "focus-blast", 
+        "thunder"
+      ], 
+      "id": 181, 
+      "types": [
+        "electric"
+      ]
+    }, 
+    "182": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Girafarig"
+        }, 
+        "en": {
+          "name": "Girafarig"
+        }, 
+        "zh": {
+          "name": "\u9e92\u9e9f\u5947"
+        }, 
+        "roomaji": {
+          "name": "Kirinriki"
+        }, 
+        "de": {
+          "name": "Girafarig"
+        }, 
+        "ko": {
+          "name": "\ud0a4\ub9c1\ud0a4"
+        }, 
+        "it": {
+          "name": "Girafarig"
+        }, 
+        "ja": {
+          "name": "\u30ad\u30ea\u30f3\u30ea\u30ad"
+        }, 
+        "es": {
+          "name": "Girafarig"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "razor-leaf", 
+        "acid", 
+        "leaf-blade", 
+        "petal-blizzard", 
+        "dazzling-gleam"
+      ], 
+      "id": 182, 
+      "types": [
+        "grass"
+      ]
+    }, 
+    "183": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Cerfrousse"
+        }, 
+        "en": {
+          "name": "Stantler"
+        }, 
+        "zh": {
+          "name": "\u9a5a\u89d2\u9e7f"
+        }, 
+        "roomaji": {
+          "name": "Odoshishi"
+        }, 
+        "de": {
+          "name": "Damhirplex"
+        }, 
+        "ko": {
+          "name": "\ub178\ub77c\ud0a4"
+        }, 
+        "it": {
+          "name": "Stantler"
+        }, 
+        "ja": {
+          "name": "\u30aa\u30c9\u30b7\u30b7"
+        }, 
+        "es": {
+          "name": "Stantler"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "tackle", 
+        "bubble", 
+        "bubble-beam", 
+        "aqua-tail", 
+        "body-slam"
+      ], 
+      "id": 183, 
+      "types": [
+        "water", 
+        "fairy"
+      ]
+    }, 
+    "184": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Lugia"
+        }, 
+        "en": {
+          "name": "Lugia"
+        }, 
+        "zh": {
+          "name": "\u6d1b\u5947\u4e9e"
+        }, 
+        "roomaji": {
+          "name": "Lugia"
+        }, 
+        "de": {
+          "name": "Lugia"
+        }, 
+        "ko": {
+          "name": "\ub8e8\uae30\uc544"
+        }, 
+        "it": {
+          "name": "Lugia"
+        }, 
+        "ja": {
+          "name": "\u30eb\u30ae\u30a2"
+        }, 
+        "es": {
+          "name": "Lugia"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "rock-smash", 
+        "bubble", 
+        "play-rough", 
+        "hydro-pump", 
+        "ice-beam"
+      ], 
+      "id": 184, 
+      "types": [
+        "water", 
+        "fairy"
+      ]
+    }, 
+    "185": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Embrylex"
+        }, 
+        "en": {
+          "name": "Larvitar"
+        }, 
+        "zh": {
+          "name": "\u7531\u57fa\u62c9"
+        }, 
+        "roomaji": {
+          "name": "Yogiras"
+        }, 
+        "de": {
+          "name": "Larvitar"
+        }, 
+        "ko": {
+          "name": "\uc560\ubc84\ub77c\uc2a4"
+        }, 
+        "it": {
+          "name": "Larvitar"
+        }, 
+        "ja": {
+          "name": "\u30e8\u30fc\u30ae\u30e9\u30b9"
+        }, 
+        "es": {
+          "name": "Larvitar"
+        }
+      }, 
+      "egg_type": 10, 
+      "moves": [
+        "rock-throw", 
+        "counter", 
+        "stone-edge", 
+        "earthquake", 
+        "rock-slide"
+      ], 
+      "id": 185, 
+      "types": [
+        "rock"
+      ]
+    }, 
+    "186": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Granbull"
+        }, 
+        "en": {
+          "name": "Granbull"
+        }, 
+        "zh": {
+          "name": "\u5e03\u76e7\u7687"
+        }, 
+        "roomaji": {
+          "name": "Granbulu"
+        }, 
+        "de": {
+          "name": "Granbull"
+        }, 
+        "ko": {
+          "name": "\uadf8\ub791\ube14\ub8e8"
+        }, 
+        "it": {
+          "name": "Granbull"
+        }, 
+        "ja": {
+          "name": "\u30b0\u30e9\u30f3\u30d6\u30eb"
+        }, 
+        "es": {
+          "name": "Granbull"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "mud-shot", 
+        "bubble", 
+        "hydro-pump", 
+        "blizzard", 
+        "earthquake"
+      ], 
+      "id": 186, 
+      "types": [
+        "water"
+      ]
+    }, 
+    "187": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Hyporoi"
+        }, 
+        "en": {
+          "name": "Kingdra"
+        }, 
+        "zh": {
+          "name": "\u523a\u9f8d\u738b"
+        }, 
+        "roomaji": {
+          "name": "Kingdra"
+        }, 
+        "de": {
+          "name": "Seedraking"
+        }, 
+        "ko": {
+          "name": "\ud0b9\ub4dc\ub77c"
+        }, 
+        "it": {
+          "name": "Kingdra"
+        }, 
+        "ja": {
+          "name": "\u30ad\u30f3\u30b0\u30c9\u30e9"
+        }, 
+        "es": {
+          "name": "Kingdra"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "tackle", 
+        "bullet-seed", 
+        "grass-knot", 
+        "dazzling-gleam", 
+        "seed-bomb"
+      ], 
+      "id": 187, 
+      "types": [
+        "grass", 
+        "flying"
+      ]
+    }, 
+    "188": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Cizayox"
+        }, 
+        "en": {
+          "name": "Scizor"
+        }, 
+        "zh": {
+          "name": "\u5de8\u9257\u87b3\u8782"
+        }, 
+        "roomaji": {
+          "name": "Hassam"
+        }, 
+        "de": {
+          "name": "Scherox"
+        }, 
+        "ko": {
+          "name": "\ud56b\uc0bc"
+        }, 
+        "it": {
+          "name": "Scizor"
+        }, 
+        "ja": {
+          "name": "\u30cf\u30c3\u30b5\u30e0"
+        }, 
+        "es": {
+          "name": "Scizor"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "tackle", 
+        "bullet-seed", 
+        "grass-knot", 
+        "dazzling-gleam", 
+        "energy-ball"
+      ], 
+      "id": 188, 
+      "types": [
+        "grass", 
+        "flying"
+      ]
+    }, 
+    "189": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Leuphorie"
+        }, 
+        "en": {
+          "name": "Blissey"
+        }, 
+        "zh": {
+          "name": "\u5e78\u798f\u86cb"
+        }, 
+        "roomaji": {
+          "name": "Happinas"
+        }, 
+        "de": {
+          "name": "Heiteira"
+        }, 
+        "ko": {
+          "name": "\ud574\ud53c\ub108\uc2a4"
+        }, 
+        "it": {
+          "name": "Blissey"
+        }, 
+        "ja": {
+          "name": "\u30cf\u30d4\u30ca\u30b9"
+        }, 
+        "es": {
+          "name": "Blissey"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "infestation", 
+        "bullet-seed", 
+        "energy-ball", 
+        "dazzling-gleam", 
+        "solar-beam"
+      ], 
+      "id": 189, 
+      "types": [
+        "grass", 
+        "flying"
+      ]
+    }, 
+    "190": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Mimigal"
+        }, 
+        "en": {
+          "name": "Spinarak"
+        }, 
+        "zh": {
+          "name": "\u7dda\u7403"
+        }, 
+        "roomaji": {
+          "name": "Itomaru"
+        }, 
+        "de": {
+          "name": "Webarak"
+        }, 
+        "ko": {
+          "name": "\ud398\uc774\uac80"
+        }, 
+        "it": {
+          "name": "Spinarak"
+        }, 
+        "ja": {
+          "name": "\u30a4\u30c8\u30de\u30eb"
+        }, 
+        "es": {
+          "name": "Spinarak"
+        }
+      }, 
+      "egg_type": 2, 
+      "moves": [
+        "scratch", 
+        "astonish", 
+        "low-sweep", 
+        "swift", 
+        "aerial-ace"
+      ], 
+      "id": 190, 
+      "types": [
+        "normal"
+      ]
+    }, 
+    "191": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Hoothoot"
+        }, 
+        "en": {
+          "name": "Hoothoot"
+        }, 
+        "zh": {
+          "name": "\u5495\u5495"
+        }, 
+        "roomaji": {
+          "name": "Hoho"
+        }, 
+        "de": {
+          "name": "Hoothoot"
+        }, 
+        "ko": {
+          "name": "\ubd80\uc6b0\ubd80"
+        }, 
+        "it": {
+          "name": "Hoothoot"
+        }, 
+        "ja": {
+          "name": "\u30db\u30fc\u30db\u30fc"
+        }, 
+        "es": {
+          "name": "Hoothoot"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "razor-leaf", 
+        "cut", 
+        "energy-ball", 
+        "grass-knot", 
+        "seed-bomb"
+      ], 
+      "id": 191, 
+      "types": [
+        "grass"
+      ]
+    }, 
+    "192": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Aligatueur"
+        }, 
+        "en": {
+          "name": "Feraligatr"
+        }, 
+        "zh": {
+          "name": "\u5927\u529b\u9c77"
+        }, 
+        "roomaji": {
+          "name": "Ordile"
+        }, 
+        "de": {
+          "name": "Impergator"
+        }, 
+        "ko": {
+          "name": "\uc7a5\ud06c\ub85c\ub2e4\uc77c"
+        }, 
+        "it": {
+          "name": "Feraligatr"
+        }, 
+        "ja": {
+          "name": "\u30aa\u30fc\u30c0\u30a4\u30eb"
+        }, 
+        "es": {
+          "name": "Feraligatr"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "razor-leaf", 
+        "bullet-seed", 
+        "solar-beam", 
+        "petal-blizzard", 
+        "sludge-bomb"
+      ], 
+      "id": 192, 
+      "types": [
+        "grass"
+      ]
+    }, 
+    "193": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Tarpaud"
+        }, 
+        "en": {
+          "name": "Politoed"
+        }, 
+        "zh": {
+          "name": "\u725b\u86d9\u541b"
+        }, 
+        "roomaji": {
+          "name": "Nyorotono"
+        }, 
+        "de": {
+          "name": "Quaxo"
+        }, 
+        "ko": {
+          "name": "\uc655\uad6c\ub9ac"
+        }, 
+        "it": {
+          "name": "Politoed"
+        }, 
+        "ja": {
+          "name": "\u30cb\u30e7\u30ed\u30c8\u30ce"
+        }, 
+        "es": {
+          "name": "Politoed"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "quick-attack", 
+        "wing-attack", 
+        "ancient-power", 
+        "aerial-ace", 
+        "silver-wind"
+      ], 
+      "id": 193, 
+      "types": [
+        "bug", 
+        "flying"
+      ]
+    }, 
+    "194": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Foretress"
+        }, 
+        "en": {
+          "name": "Forretress"
+        }, 
+        "zh": {
+          "name": "\u4f5b\u70c8\u6258\u65af"
+        }, 
+        "roomaji": {
+          "name": "Foretos"
+        }, 
+        "de": {
+          "name": "Forstellka"
+        }, 
+        "ko": {
+          "name": "\uc3d8\ucf58"
+        }, 
+        "it": {
+          "name": "Forretress"
+        }, 
+        "ja": {
+          "name": "\u30d5\u30a9\u30ec\u30c8\u30b9"
+        }, 
+        "es": {
+          "name": "Forretress"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "water-gun", 
+        "mud-shot", 
+        "mud-bomb", 
+        "dig", 
+        "body-slam"
+      ], 
+      "id": 194, 
+      "types": [
+        "water", 
+        "ground"
+      ]
+    }, 
+    "195": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Wattouat"
+        }, 
+        "en": {
+          "name": "Mareep"
+        }, 
+        "zh": {
+          "name": "\u54a9\u5229\u7f8a"
+        }, 
+        "roomaji": {
+          "name": "Merriep"
+        }, 
+        "de": {
+          "name": "Voltilamm"
+        }, 
+        "ko": {
+          "name": "\uba54\ub9ac\ud504"
+        }, 
+        "it": {
+          "name": "Mareep"
+        }, 
+        "ja": {
+          "name": "\u30e1\u30ea\u30fc\u30d7"
+        }, 
+        "es": {
+          "name": "Mareep"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "water-gun", 
+        "mud-shot", 
+        "sludge-bomb", 
+        "earthquake", 
+        "stone-edge"
+      ], 
+      "id": 195, 
+      "types": [
+        "water", 
+        "ground"
+      ]
+    }, 
+    "196": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "D\u00e9manta"
+        }, 
+        "en": {
+          "name": "Mantine"
+        }, 
+        "zh": {
+          "name": "\u5de8\u7fc5\u98db\u9b5a"
+        }, 
+        "roomaji": {
+          "name": "Mantain"
+        }, 
+        "de": {
+          "name": "Mantax"
+        }, 
+        "ko": {
+          "name": "\ub9cc\ud0c0\uc778"
+        }, 
+        "it": {
+          "name": "Mantine"
+        }, 
+        "ja": {
+          "name": "\u30de\u30f3\u30bf\u30a4\u30f3"
+        }, 
+        "es": {
+          "name": "Mantine"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "confusion", 
+        "zen-headbutt", 
+        "psybeam", 
+        "psychic", 
+        "future-sight"
+      ], 
+      "id": 196, 
+      "types": [
+        "psychic"
+      ]
+    }, 
+    "197": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Celebi"
+        }, 
+        "en": {
+          "name": "Celebi"
+        }, 
+        "zh": {
+          "name": "\u96ea\u62c9\u6bd4"
+        }, 
+        "roomaji": {
+          "name": "Celebi"
+        }, 
+        "de": {
+          "name": "Celebi"
+        }, 
+        "ko": {
+          "name": "\uc138\ub808\ube44"
+        }, 
+        "it": {
+          "name": "Celebi"
+        }, 
+        "ja": {
+          "name": "\u30bb\u30ec\u30d3\u30a3"
+        }, 
+        "es": {
+          "name": "Celebi"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "feint-attack", 
+        "snarl", 
+        "dark-pulse", 
+        "foul-play"
+      ], 
+      "id": 197, 
+      "types": [
+        "dark"
+      ]
+    }, 
+    "198": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Insolourdo"
+        }, 
+        "en": {
+          "name": "Dunsparce"
+        }, 
+        "zh": {
+          "name": "\u571f\u9f8d\u5f1f\u5f1f"
+        }, 
+        "roomaji": {
+          "name": "Nokocchi"
+        }, 
+        "de": {
+          "name": "Dummisel"
+        }, 
+        "ko": {
+          "name": "\ub178\uace0\uce58"
+        }, 
+        "it": {
+          "name": "Dunsparce"
+        }, 
+        "ja": {
+          "name": "\u30ce\u30b3\u30c3\u30c1"
+        }, 
+        "es": {
+          "name": "Dunsparce"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "peck", 
+        "feint-attack", 
+        "drill-peck", 
+        "foul-play", 
+        "dark-pulse"
+      ], 
+      "id": 198, 
+      "types": [
+        "dark", 
+        "flying"
+      ]
+    }, 
+    "199": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Caratroc"
+        }, 
+        "en": {
+          "name": "Shuckle"
+        }, 
+        "zh": {
+          "name": "\u58fa\u58fa"
+        }, 
+        "roomaji": {
+          "name": "Tsubotsubo"
+        }, 
+        "de": {
+          "name": "Pottrott"
+        }, 
+        "ko": {
+          "name": "\ub2e8\ub2e8\uc9c0"
+        }, 
+        "it": {
+          "name": "Shuckle"
+        }, 
+        "ja": {
+          "name": "\u30c4\u30dc\u30c4\u30dc"
+        }, 
+        "es": {
+          "name": "Shuckle"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "water-gun", 
+        "confusion", 
+        "blizzard", 
+        "psychic", 
+        "fire-blast"
+      ], 
+      "id": 199, 
+      "types": [
+        "water", 
+        "psychic"
+      ]
+    }, 
+    "200": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Phanpy"
+        }, 
+        "en": {
+          "name": "Phanpy"
+        }, 
+        "zh": {
+          "name": "\u5c0f\u5c0f\u8c61"
+        }, 
+        "roomaji": {
+          "name": "Gomazou"
+        }, 
+        "de": {
+          "name": "Phanpy"
+        }, 
+        "ko": {
+          "name": "\ucf54\ucf54\ub9ac"
+        }, 
+        "it": {
+          "name": "Phanpy"
+        }, 
+        "ja": {
+          "name": "\u30b4\u30de\u30be\u30a6"
+        }, 
+        "es": {
+          "name": "Phanpy"
+        }
+      }, 
+      "egg_type": 2, 
+      "moves": [
+        "astonish", 
+        "hex", 
+        "shadow-sneak", 
+        "dark-pulse", 
+        "ominous-wind"
+      ], 
+      "id": 200, 
+      "types": [
+        "ghost"
+      ]
+    }, 
+    "201": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Ho-Oh"
+        }, 
+        "en": {
+          "name": "Ho-Oh"
+        }, 
+        "zh": {
+          "name": "\u9cf3\u738b"
+        }, 
+        "roomaji": {
+          "name": "Houou"
+        }, 
+        "de": {
+          "name": "Ho-Oh"
+        }, 
+        "ko": {
+          "name": "\uce60\uc0c9\uc870"
+        }, 
+        "it": {
+          "name": "Ho-Oh"
+        }, 
+        "ja": {
+          "name": "\u30db\u30a6\u30aa\u30a6"
+        }, 
+        "es": {
+          "name": "Ho-Oh"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "hidden-power", 
+        "struggle-bug"
+      ], 
+      "id": 201, 
+      "types": [
+        "psychic"
+      ]
+    }, 
+    "202": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Capumain"
+        }, 
+        "en": {
+          "name": "Aipom"
+        }, 
+        "zh": {
+          "name": "\u9577\u5c3e\u602a\u624b"
+        }, 
+        "roomaji": {
+          "name": "Eipam"
+        }, 
+        "de": {
+          "name": "Griffel"
+        }, 
+        "ko": {
+          "name": "\uc5d0\uc774\ud31c"
+        }, 
+        "it": {
+          "name": "Aipom"
+        }, 
+        "ja": {
+          "name": "\u30a8\u30a4\u30d1\u30e0"
+        }, 
+        "es": {
+          "name": "Aipom"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "counter", 
+        "splash", 
+        "mirror-coat"
+      ], 
+      "id": 202, 
+      "types": [
+        "psychic"
+      ]
+    }, 
+    "203": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Fouinette"
+        }, 
+        "en": {
+          "name": "Sentret"
+        }, 
+        "zh": {
+          "name": "\u5c3e\u7acb"
+        }, 
+        "roomaji": {
+          "name": "Otachi"
+        }, 
+        "de": {
+          "name": "Wiesor"
+        }, 
+        "ko": {
+          "name": "\uaf2c\ub9ac\uc120"
+        }, 
+        "it": {
+          "name": "Sentret"
+        }, 
+        "ja": {
+          "name": "\u30aa\u30bf\u30c1"
+        }, 
+        "es": {
+          "name": "Sentret"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "tackle", 
+        "confusion", 
+        "psychic", 
+        "thunderbolt", 
+        "mirror-coat"
+      ], 
+      "id": 203, 
+      "types": [
+        "normal", 
+        "psychic"
+      ]
+    }, 
+    "204": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Germignon"
+        }, 
+        "en": {
+          "name": "Chikorita"
+        }, 
+        "zh": {
+          "name": "\u83ca\u8349\u8449"
+        }, 
+        "roomaji": {
+          "name": "Chicorita"
+        }, 
+        "de": {
+          "name": "Endivie"
+        }, 
+        "ko": {
+          "name": "\uce58\ucf54\ub9ac\ud0c0"
+        }, 
+        "it": {
+          "name": "Chikorita"
+        }, 
+        "ja": {
+          "name": "\u30c1\u30b3\u30ea\u30fc\u30bf"
+        }, 
+        "es": {
+          "name": "Chikorita"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "tackle", 
+        "bug-bite", 
+        "gyro-ball", 
+        "rock-tomb", 
+        "sand-tomb"
+      ], 
+      "id": 204, 
+      "types": [
+        "bug"
+      ]
+    }, 
+    "205": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Airmure"
+        }, 
+        "en": {
+          "name": "Skarmory"
+        }, 
+        "zh": {
+          "name": "\u76d4\u7532\u9ce5"
+        }, 
+        "roomaji": {
+          "name": "Airmd"
+        }, 
+        "de": {
+          "name": "Panzaeron"
+        }, 
+        "ko": {
+          "name": "\ubb34\uc7a5\uc870"
+        }, 
+        "it": {
+          "name": "Skarmory"
+        }, 
+        "ja": {
+          "name": "\u30a8\u30a2\u30fc\u30e0\u30c9"
+        }, 
+        "es": {
+          "name": "Skarmory"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "bug-bite", 
+        "struggle-bug", 
+        "heavy-slam", 
+        "earthquake", 
+        "rock-tomb"
+      ], 
+      "id": 205, 
+      "types": [
+        "bug", 
+        "steel"
+      ]
+    }, 
+    "206": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Azumarill"
+        }, 
+        "en": {
+          "name": "Azumarill"
+        }, 
+        "zh": {
+          "name": "\u746a\u529b\u9732\u9e97"
+        }, 
+        "roomaji": {
+          "name": "Marilli"
+        }, 
+        "de": {
+          "name": "Azumarill"
+        }, 
+        "ko": {
+          "name": "\ub9c8\ub9b4\ub9ac"
+        }, 
+        "it": {
+          "name": "Azumarill"
+        }, 
+        "ja": {
+          "name": "\u30de\u30ea\u30eb\u30ea"
+        }, 
+        "es": {
+          "name": "Azumarill"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "bite", 
+        "astonish", 
+        "dig", 
+        "rock-slide", 
+        "drill-run"
+      ], 
+      "id": 206, 
+      "types": [
+        "normal"
+      ]
+    }, 
+    "207": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Cotovol"
+        }, 
+        "en": {
+          "name": "Jumpluff"
+        }, 
+        "zh": {
+          "name": "\u6bfd\u5b50\u7dbf"
+        }, 
+        "roomaji": {
+          "name": "Watacco"
+        }, 
+        "de": {
+          "name": "Papungha"
+        }, 
+        "ko": {
+          "name": "\uc19c\uc19c\ucf54"
+        }, 
+        "it": {
+          "name": "Jumpluff"
+        }, 
+        "ja": {
+          "name": "\u30ef\u30bf\u30c3\u30b3"
+        }, 
+        "es": {
+          "name": "Jumpluff"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "fury-cutter", 
+        "wing-attack", 
+        "dig", 
+        "aerial-ace", 
+        "night-slash"
+      ], 
+      "id": 207, 
+      "types": [
+        "ground", 
+        "flying"
+      ]
+    }, 
+    "208": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Feurisson"
+        }, 
+        "en": {
+          "name": "Quilava"
+        }, 
+        "zh": {
+          "name": "\u706b\u5ca9\u9f20"
+        }, 
+        "roomaji": {
+          "name": "Magmarashi"
+        }, 
+        "de": {
+          "name": "Igelavar"
+        }, 
+        "ko": {
+          "name": "\ub9c8\uadf8\ucf00\uc778"
+        }, 
+        "it": {
+          "name": "Quilava"
+        }, 
+        "ja": {
+          "name": "\u30de\u30b0\u30de\u30e9\u30b7"
+        }, 
+        "es": {
+          "name": "Quilava"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "iron-tail", 
+        "dragon-tail", 
+        "earthquake", 
+        "heavy-slam", 
+        "crunch"
+      ], 
+      "id": 208, 
+      "types": [
+        "steel", 
+        "ground"
+      ]
+    }, 
+    "209": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Noctali"
+        }, 
+        "en": {
+          "name": "Umbreon"
+        }, 
+        "zh": {
+          "name": "\u6708\u7cbe\u9748"
+        }, 
+        "roomaji": {
+          "name": "Blacky"
+        }, 
+        "de": {
+          "name": "Nachtara"
+        }, 
+        "ko": {
+          "name": "\ube14\ub798\ud0a4"
+        }, 
+        "it": {
+          "name": "Umbreon"
+        }, 
+        "ja": {
+          "name": "\u30d6\u30e9\u30c3\u30ad\u30fc"
+        }, 
+        "es": {
+          "name": "Umbreon"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "tackle", 
+        "bite", 
+        "crunch", 
+        "dazzling-gleam", 
+        "brick-break"
+      ], 
+      "id": 209, 
+      "types": [
+        "fairy"
+      ]
+    }, 
+    "210": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "D\u00e9molosse"
+        }, 
+        "en": {
+          "name": "Houndoom"
+        }, 
+        "zh": {
+          "name": "\u9ed1\u9b6f\u52a0"
+        }, 
+        "roomaji": {
+          "name": "Hellgar"
+        }, 
+        "de": {
+          "name": "Hundemon"
+        }, 
+        "ko": {
+          "name": "\ud5ec\uac00"
+        }, 
+        "it": {
+          "name": "Houndoom"
+        }, 
+        "ja": {
+          "name": "\u30d8\u30eb\u30ac\u30fc"
+        }, 
+        "es": {
+          "name": "Houndoom"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "bite", 
+        "snarl", 
+        "crunch", 
+        "play-rough", 
+        "close-combat"
+      ], 
+      "id": 210, 
+      "types": [
+        "fairy"
+      ]
+    }, 
+    "211": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Tyranocif"
+        }, 
+        "en": {
+          "name": "Tyranitar"
+        }, 
+        "zh": {
+          "name": "\u73ed\u5409\u62c9"
+        }, 
+        "roomaji": {
+          "name": "Bangiras"
+        }, 
+        "de": {
+          "name": "Despotar"
+        }, 
+        "ko": {
+          "name": "\ub9c8\uae30\ub77c\uc2a4"
+        }, 
+        "it": {
+          "name": "Tyranitar"
+        }, 
+        "ja": {
+          "name": "\u30d0\u30f3\u30ae\u30e9\u30b9"
+        }, 
+        "es": {
+          "name": "Tyranitar"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "poison-sting", 
+        "water-gun", 
+        "aqua-tail", 
+        "ice-beam", 
+        "sludge-wave"
+      ], 
+      "id": 211, 
+      "types": [
+        "water", 
+        "poison"
+      ]
+    }, 
+    "212": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Feufor\u00eave"
+        }, 
+        "en": {
+          "name": "Misdreavus"
+        }, 
+        "zh": {
+          "name": "\u5922\u5996"
+        }, 
+        "roomaji": {
+          "name": "Muma"
+        }, 
+        "de": {
+          "name": "Traunfugil"
+        }, 
+        "ko": {
+          "name": "\ubb34\uc6b0\ub9c8"
+        }, 
+        "it": {
+          "name": "Misdreavus"
+        }, 
+        "ja": {
+          "name": "\u30e0\u30a6\u30de"
+        }, 
+        "es": {
+          "name": "Misdreavus"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "bullet-punch", 
+        "fury-cutter", 
+        "x-scissor", 
+        "iron-head", 
+        "night-slash"
+      ], 
+      "id": 212, 
+      "types": [
+        "bug", 
+        "steel"
+      ]
+    }, 
+    "213": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Scorplane"
+        }, 
+        "en": {
+          "name": "Gligar"
+        }, 
+        "zh": {
+          "name": "\u5929\u880d"
+        }, 
+        "roomaji": {
+          "name": "Gliger"
+        }, 
+        "de": {
+          "name": "Skorgla"
+        }, 
+        "ko": {
+          "name": "\uae00\ub77c\uc774\uac70"
+        }, 
+        "it": {
+          "name": "Gligar"
+        }, 
+        "ja": {
+          "name": "\u30b0\u30e9\u30a4\u30ac\u30fc"
+        }, 
+        "es": {
+          "name": "Gligar"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "struggle-bug", 
+        "rock-throw", 
+        "rock-blast", 
+        "stone-edge", 
+        "gyro-ball"
+      ], 
+      "id": 213, 
+      "types": [
+        "bug", 
+        "rock"
+      ]
+    }, 
+    "214": {
+      "evolution_cost": 3, 
       "i18n": {
         "fr": {
           "name": "Togepi"
@@ -6851,20 +9469,1618 @@
           "name": "Togepi"
         }
       }, 
-      "egg_type": 5, 
+      "egg_type": null, 
       "moves": [
-        "zen-headbutt", 
-        "peck", 
-        "ancient-power", 
-        "psyshock", 
-        "dazzling-gleam"
+        "counter", 
+        "struggle-bug", 
+        "megahorn", 
+        "close-combat", 
+        "earthquake"
       ], 
-      "id": 175, 
+      "id": 214, 
       "types": [
-        "fairy"
+        "bug", 
+        "fighting"
       ]
     }, 
-    "176": {
+    "215": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Scarhino"
+        }, 
+        "en": {
+          "name": "Heracross"
+        }, 
+        "zh": {
+          "name": "\u8d6b\u62c9\u524b\u7f85\u65af"
+        }, 
+        "roomaji": {
+          "name": "Heracros"
+        }, 
+        "de": {
+          "name": "Skaraborn"
+        }, 
+        "ko": {
+          "name": "\ud5e4\ub77c\ud06c\ub85c\uc2a4"
+        }, 
+        "it": {
+          "name": "Heracross"
+        }, 
+        "ja": {
+          "name": "\u30d8\u30e9\u30af\u30ed\u30b9"
+        }, 
+        "es": {
+          "name": "Heracross"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "ice-shard", 
+        "feint-attack", 
+        "avalanche", 
+        "ice-punch", 
+        "foul-play"
+      ], 
+      "id": 215, 
+      "types": [
+        "dark", 
+        "ice"
+      ]
+    }, 
+    "216": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Tournegrin"
+        }, 
+        "en": {
+          "name": "Sunkern"
+        }, 
+        "zh": {
+          "name": "\u5411\u65e5\u7a2e\u5b50"
+        }, 
+        "roomaji": {
+          "name": "Himanuts"
+        }, 
+        "de": {
+          "name": "Sonnkern"
+        }, 
+        "ko": {
+          "name": "\ud574\ub108\uce20"
+        }, 
+        "it": {
+          "name": "Sunkern"
+        }, 
+        "ja": {
+          "name": "\u30d2\u30de\u30ca\u30c3\u30c4"
+        }, 
+        "es": {
+          "name": "Sunkern"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "scratch", 
+        "lick", 
+        "cross-chop", 
+        "crunch", 
+        "play-rough"
+      ], 
+      "id": 216, 
+      "types": [
+        "normal"
+      ]
+    }, 
+    "217": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Ymphect"
+        }, 
+        "en": {
+          "name": "Pupitar"
+        }, 
+        "zh": {
+          "name": "\u6c99\u57fa\u62c9"
+        }, 
+        "roomaji": {
+          "name": "Sanagiras"
+        }, 
+        "de": {
+          "name": "Pupitar"
+        }, 
+        "ko": {
+          "name": "\ub370\uae30\ub77c\uc2a4"
+        }, 
+        "it": {
+          "name": "Pupitar"
+        }, 
+        "ja": {
+          "name": "\u30b5\u30ca\u30ae\u30e9\u30b9"
+        }, 
+        "es": {
+          "name": "Pupitar"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "metal-claw", 
+        "counter", 
+        "close-combat", 
+        "hyper-beam", 
+        "play-rough"
+      ], 
+      "id": 217, 
+      "types": [
+        "normal"
+      ]
+    }, 
+    "218": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Coxyclaque"
+        }, 
+        "en": {
+          "name": "Ledian"
+        }, 
+        "zh": {
+          "name": "\u5b89\u74e2\u87f2"
+        }, 
+        "roomaji": {
+          "name": "Redian"
+        }, 
+        "de": {
+          "name": "Ledian"
+        }, 
+        "ko": {
+          "name": "\ub808\ub514\uc548"
+        }, 
+        "it": {
+          "name": "Ledian"
+        }, 
+        "ja": {
+          "name": "\u30ec\u30c7\u30a3\u30a2\u30f3"
+        }, 
+        "es": {
+          "name": "Ledian"
+        }
+      }, 
+      "egg_type": 2, 
+      "moves": [
+        "ember", 
+        "rock-throw", 
+        "flame-burst", 
+        "flame-charge", 
+        "rock-slide"
+      ], 
+      "id": 218, 
+      "types": [
+        "fire"
+      ]
+    }, 
+    "219": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Roigada"
+        }, 
+        "en": {
+          "name": "Slowking"
+        }, 
+        "zh": {
+          "name": "\u6cb3\u99ac\u738b"
+        }, 
+        "roomaji": {
+          "name": "Yadoking"
+        }, 
+        "de": {
+          "name": "Laschoking"
+        }, 
+        "ko": {
+          "name": "\uc57c\ub3c4\ud0b9"
+        }, 
+        "it": {
+          "name": "Slowking"
+        }, 
+        "ja": {
+          "name": "\u30e4\u30c9\u30ad\u30f3\u30b0"
+        }, 
+        "es": {
+          "name": "Slowking"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "ember", 
+        "rock-throw", 
+        "heat-wave", 
+        "overheat", 
+        "stone-edge"
+      ], 
+      "id": 219, 
+      "types": [
+        "fire", 
+        "rock"
+      ]
+    }, 
+    "220": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Porygon2"
+        }, 
+        "en": {
+          "name": "Porygon2"
+        }, 
+        "zh": {
+          "name": "3D\u9f8d2"
+        }, 
+        "roomaji": {
+          "name": "Porygon2"
+        }, 
+        "de": {
+          "name": "Porygon2"
+        }, 
+        "ko": {
+          "name": "\ud3f4\ub9ac\uace42"
+        }, 
+        "it": {
+          "name": "Porygon2"
+        }, 
+        "ja": {
+          "name": "\u30dd\u30ea\u30b4\u30f3\uff12"
+        }, 
+        "es": {
+          "name": "Porygon2"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "tackle", 
+        "powder-snow", 
+        "icy-wind", 
+        "body-slam", 
+        "rock-slide"
+      ], 
+      "id": 220, 
+      "types": [
+        "ice", 
+        "ground"
+      ]
+    }, 
+    "221": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Marcacrin"
+        }, 
+        "en": {
+          "name": "Swinub"
+        }, 
+        "zh": {
+          "name": "\u5c0f\u5c71\u8c6c"
+        }, 
+        "roomaji": {
+          "name": "Urimoo"
+        }, 
+        "de": {
+          "name": "Quiekel"
+        }, 
+        "ko": {
+          "name": "\uafb8\uafb8\ub9ac"
+        }, 
+        "it": {
+          "name": "Swinub"
+        }, 
+        "ja": {
+          "name": "\u30a6\u30ea\u30e0\u30fc"
+        }, 
+        "es": {
+          "name": "Swinub"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "ice-shard", 
+        "powder-snow", 
+        "avalanche", 
+        "bulldoze", 
+        "stone-edge"
+      ], 
+      "id": 221, 
+      "types": [
+        "ice", 
+        "ground"
+      ]
+    }, 
+    "222": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Marill"
+        }, 
+        "en": {
+          "name": "Marill"
+        }, 
+        "zh": {
+          "name": "\u746a\u529b\u9732"
+        }, 
+        "roomaji": {
+          "name": "Maril"
+        }, 
+        "de": {
+          "name": "Marill"
+        }, 
+        "ko": {
+          "name": "\ub9c8\ub9b4"
+        }, 
+        "it": {
+          "name": "Marill"
+        }, 
+        "ja": {
+          "name": "\u30de\u30ea\u30eb"
+        }, 
+        "es": {
+          "name": "Marill"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "tackle", 
+        "bubble", 
+        "rock-blast", 
+        "power-gem", 
+        "bubble-beam"
+      ], 
+      "id": 222, 
+      "types": [
+        "water", 
+        "rock"
+      ]
+    }, 
+    "223": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Kaiminus"
+        }, 
+        "en": {
+          "name": "Totodile"
+        }, 
+        "zh": {
+          "name": "\u5c0f\u92f8\u9c77"
+        }, 
+        "roomaji": {
+          "name": "Waninoko"
+        }, 
+        "de": {
+          "name": "Karnimani"
+        }, 
+        "ko": {
+          "name": "\ub9ac\uc544\ucf54"
+        }, 
+        "it": {
+          "name": "Totodile"
+        }, 
+        "ja": {
+          "name": "\u30ef\u30cb\u30ce\u30b3"
+        }, 
+        "es": {
+          "name": "Totodile"
+        }
+      }, 
+      "egg_type": 2, 
+      "moves": [
+        "water-gun", 
+        "mud-shot", 
+        "aurora-beam", 
+        "water-pulse", 
+        "rock-blast"
+      ], 
+      "id": 223, 
+      "types": [
+        "water"
+      ]
+    }, 
+    "224": {
+      "evolution_cost": 1, 
+      "i18n": {
+        "fr": {
+          "name": "Volcaropod"
+        }, 
+        "en": {
+          "name": "Magcargo"
+        }, 
+        "zh": {
+          "name": "\u7194\u5ca9\u8778\u725b"
+        }, 
+        "roomaji": {
+          "name": "Magcargot"
+        }, 
+        "de": {
+          "name": "Magcargo"
+        }, 
+        "ko": {
+          "name": "\ub9c8\uadf8\uce74\ub974\uace0"
+        }, 
+        "it": {
+          "name": "Magcargo"
+        }, 
+        "ja": {
+          "name": "\u30de\u30b0\u30ab\u30eb\u30b4"
+        }, 
+        "es": {
+          "name": "Magcargo"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "water-gun", 
+        "mud-shot", 
+        "gunk-shot", 
+        "water-pulse", 
+        "aurora-beam"
+      ], 
+      "id": 224, 
+      "types": [
+        "water"
+      ]
+    }, 
+    "225": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "H\u00e9ricendre"
+        }, 
+        "en": {
+          "name": "Cyndaquil"
+        }, 
+        "zh": {
+          "name": "\u706b\u7403\u9f20"
+        }, 
+        "roomaji": {
+          "name": "Hinoarashi"
+        }, 
+        "de": {
+          "name": "Feurigel"
+        }, 
+        "ko": {
+          "name": "\ube0c\ucf00\uc778"
+        }, 
+        "it": {
+          "name": "Cyndaquil"
+        }, 
+        "ja": {
+          "name": "\u30d2\u30ce\u30a2\u30e9\u30b7"
+        }, 
+        "es": {
+          "name": "Cyndaquil"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "ice-shard", 
+        "quick-attack", 
+        "ice-punch", 
+        "icy-wind", 
+        "aerial-ace"
+      ], 
+      "id": 225, 
+      "types": [
+        "ice", 
+        "flying"
+      ]
+    }, 
+    "226": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Axoloto"
+        }, 
+        "en": {
+          "name": "Wooper"
+        }, 
+        "zh": {
+          "name": "\u70cf\u6ce2"
+        }, 
+        "roomaji": {
+          "name": "Upah"
+        }, 
+        "de": {
+          "name": "Felino"
+        }, 
+        "ko": {
+          "name": "\uc6b0\ud30c"
+        }, 
+        "it": {
+          "name": "Wooper"
+        }, 
+        "ja": {
+          "name": "\u30a6\u30d1\u30fc"
+        }, 
+        "es": {
+          "name": "Wooper"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "bubble", 
+        "wing-attack", 
+        "water-pulse", 
+        "ice-beam", 
+        "aerial-ace"
+      ], 
+      "id": 226, 
+      "types": [
+        "water", 
+        "flying"
+      ]
+    }, 
+    "227": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Noarfang"
+        }, 
+        "en": {
+          "name": "Noctowl"
+        }, 
+        "zh": {
+          "name": "\u8c93\u982d\u591c\u9df9"
+        }, 
+        "roomaji": {
+          "name": "Yorunozuku"
+        }, 
+        "de": {
+          "name": "Noctuh"
+        }, 
+        "ko": {
+          "name": "\uc57c\ubd80\uc5c9"
+        }, 
+        "it": {
+          "name": "Noctowl"
+        }, 
+        "ja": {
+          "name": "\u30e8\u30eb\u30ce\u30ba\u30af"
+        }, 
+        "es": {
+          "name": "Noctowl"
+        }
+      }, 
+      "egg_type": 10, 
+      "moves": [
+        "steel-wing", 
+        "air-slash", 
+        "brave-bird", 
+        "sky-attack", 
+        "flash-cannon"
+      ], 
+      "id": 227, 
+      "types": [
+        "steel", 
+        "flying"
+      ]
+    }, 
+    "228": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Typhlosion"
+        }, 
+        "en": {
+          "name": "Typhlosion"
+        }, 
+        "zh": {
+          "name": "\u706b\u66b4\u7378"
+        }, 
+        "roomaji": {
+          "name": "Bakphoon"
+        }, 
+        "de": {
+          "name": "Tornupto"
+        }, 
+        "ko": {
+          "name": "\ube14\ub808\uc774\ubc94"
+        }, 
+        "it": {
+          "name": "Typhlosion"
+        }, 
+        "ja": {
+          "name": "\u30d0\u30af\u30d5\u30fc\u30f3"
+        }, 
+        "es": {
+          "name": "Typhlosion"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "feint-attack", 
+        "ember", 
+        "crunch", 
+        "flamethrower", 
+        "dark-pulse"
+      ], 
+      "id": 228, 
+      "types": [
+        "dark", 
+        "fire"
+      ]
+    }, 
+    "229": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "R\u00e9moraid"
+        }, 
+        "en": {
+          "name": "Remoraid"
+        }, 
+        "zh": {
+          "name": "\u9435\u7832\u9b5a"
+        }, 
+        "roomaji": {
+          "name": "Teppouo"
+        }, 
+        "de": {
+          "name": "Remoraid"
+        }, 
+        "ko": {
+          "name": "\ucd1d\uc5b4"
+        }, 
+        "it": {
+          "name": "Remoraid"
+        }, 
+        "ja": {
+          "name": "\u30c6\u30c3\u30dd\u30a6\u30aa"
+        }, 
+        "es": {
+          "name": "Remoraid"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "snarl", 
+        "fire-fang", 
+        "crunch", 
+        "fire-blast", 
+        "foul-play"
+      ], 
+      "id": 229, 
+      "types": [
+        "dark", 
+        "fire"
+      ]
+    }, 
+    "230": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Zarbi"
+        }, 
+        "en": {
+          "name": "Unown"
+        }, 
+        "zh": {
+          "name": "\u672a\u77e5\u5716\u9a30"
+        }, 
+        "roomaji": {
+          "name": "Unknown"
+        }, 
+        "de": {
+          "name": "Icognito"
+        }, 
+        "ko": {
+          "name": "\uc548\ub18d"
+        }, 
+        "it": {
+          "name": "Unown"
+        }, 
+        "ja": {
+          "name": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+        }, 
+        "es": {
+          "name": "Unown"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "water-gun", 
+        "dragon-breath", 
+        "hydro-pump", 
+        "blizzard", 
+        "outrage"
+      ], 
+      "id": 230, 
+      "types": [
+        "water", 
+        "dragon"
+      ]
+    }, 
+    "231": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Mentali"
+        }, 
+        "en": {
+          "name": "Espeon"
+        }, 
+        "zh": {
+          "name": "\u592a\u967d\u7cbe\u9748"
+        }, 
+        "roomaji": {
+          "name": "Eifie"
+        }, 
+        "de": {
+          "name": "Psiana"
+        }, 
+        "ko": {
+          "name": "\uc5d0\ube0c\uc774"
+        }, 
+        "it": {
+          "name": "Espeon"
+        }, 
+        "ja": {
+          "name": "\u30a8\u30fc\u30d5\u30a3"
+        }, 
+        "es": {
+          "name": "Espeon"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "tackle", 
+        "rock-smash", 
+        "bulldoze", 
+        "rock-slide", 
+        "body-slam"
+      ], 
+      "id": 231, 
+      "types": [
+        "ground"
+      ]
+    }, 
+    "232": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "H\u00e9liatronc"
+        }, 
+        "en": {
+          "name": "Sunflora"
+        }, 
+        "zh": {
+          "name": "\u5411\u65e5\u82b1\u602a"
+        }, 
+        "roomaji": {
+          "name": "Kimawari"
+        }, 
+        "de": {
+          "name": "Sonnflora"
+        }, 
+        "ko": {
+          "name": "\ud574\ub8e8\ubbf8"
+        }, 
+        "it": {
+          "name": "Sunflora"
+        }, 
+        "ja": {
+          "name": "\u30ad\u30de\u30ef\u30ea"
+        }, 
+        "es": {
+          "name": "Sunflora"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "tackle", 
+        "counter", 
+        "earthquake", 
+        "heavy-slam", 
+        "play-rough"
+      ], 
+      "id": 232, 
+      "types": [
+        "ground"
+      ]
+    }, 
+    "233": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "\u00c9cr\u00e9meuh"
+        }, 
+        "en": {
+          "name": "Miltank"
+        }, 
+        "zh": {
+          "name": "\u5927\u5976\u7f50"
+        }, 
+        "roomaji": {
+          "name": "Miltank"
+        }, 
+        "de": {
+          "name": "Miltank"
+        }, 
+        "ko": {
+          "name": "\ubc00\ud0f1\ud06c"
+        }, 
+        "it": {
+          "name": "Miltank"
+        }, 
+        "ja": {
+          "name": "\u30df\u30eb\u30bf\u30f3\u30af"
+        }, 
+        "es": {
+          "name": "Miltank"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "hidden-power", 
+        "charge-beam", 
+        "solar-beam", 
+        "hyper-beam", 
+        "zap-cannon"
+      ], 
+      "id": 233, 
+      "types": [
+        "normal"
+      ]
+    }, 
+    "234": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Xatu"
+        }, 
+        "en": {
+          "name": "Xatu"
+        }, 
+        "zh": {
+          "name": "\u5929\u7136\u9ce5"
+        }, 
+        "roomaji": {
+          "name": "Natio"
+        }, 
+        "de": {
+          "name": "Xatu"
+        }, 
+        "ko": {
+          "name": "\ub124\uc774\ud2f0\uc624"
+        }, 
+        "it": {
+          "name": "Xatu"
+        }, 
+        "ja": {
+          "name": "\u30cd\u30a4\u30c6\u30a3\u30aa"
+        }, 
+        "es": {
+          "name": "Xatu"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "tackle", 
+        "zen-headbutt", 
+        "stomp", 
+        "wild-charge", 
+        "megahorn"
+      ], 
+      "id": 234, 
+      "types": [
+        "normal"
+      ]
+    }, 
+    "235": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Simularbre"
+        }, 
+        "en": {
+          "name": "Sudowoodo"
+        }, 
+        "zh": {
+          "name": "\u80e1\u8aaa\u6a39"
+        }, 
+        "roomaji": {
+          "name": "Usokkie"
+        }, 
+        "de": {
+          "name": "Mogelbaum"
+        }, 
+        "ko": {
+          "name": "\uaf2c\uc9c0\ubaa8"
+        }, 
+        "it": {
+          "name": "Sudowoodo"
+        }, 
+        "ja": {
+          "name": "\u30a6\u30bd\u30c3\u30ad\u30fc"
+        }, 
+        "es": {
+          "name": "Sudowoodo"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "tackle"
+      ], 
+      "id": 235, 
+      "types": [
+        "normal"
+      ]
+    }, 
+    "236": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Steelix"
+        }, 
+        "en": {
+          "name": "Steelix"
+        }, 
+        "zh": {
+          "name": "\u5927\u92fc\u86c7"
+        }, 
+        "roomaji": {
+          "name": "Haganeil"
+        }, 
+        "de": {
+          "name": "Stahlos"
+        }, 
+        "ko": {
+          "name": "\uac15\ucca0\ud1a4"
+        }, 
+        "it": {
+          "name": "Steelix"
+        }, 
+        "ja": {
+          "name": "\u30cf\u30ac\u30cd\u30fc\u30eb"
+        }, 
+        "es": {
+          "name": "Steelix"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "rock-smash", 
+        "tackle", 
+        "brick-break", 
+        "rock-slide", 
+        "low-sweep"
+      ], 
+      "id": 236, 
+      "types": [
+        "fighting"
+      ]
+    }, 
+    "237": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Granivol"
+        }, 
+        "en": {
+          "name": "Hoppip"
+        }, 
+        "zh": {
+          "name": "\u6bfd\u5b50\u8349"
+        }, 
+        "roomaji": {
+          "name": "Hanecco"
+        }, 
+        "de": {
+          "name": "Hoppspross"
+        }, 
+        "ko": {
+          "name": "\ud1b5\ud1b5\ucf54"
+        }, 
+        "it": {
+          "name": "Hoppip"
+        }, 
+        "ja": {
+          "name": "\u30cf\u30cd\u30c3\u30b3"
+        }, 
+        "es": {
+          "name": "Hoppip"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "rock-smash", 
+        "counter", 
+        "close-combat", 
+        "gyro-ball", 
+        "stone-edge"
+      ], 
+      "id": 237, 
+      "types": [
+        "fighting"
+      ]
+    }, 
+    "238": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "Ursaring"
+        }, 
+        "en": {
+          "name": "Ursaring"
+        }, 
+        "zh": {
+          "name": "\u5708\u5708\u718a"
+        }, 
+        "roomaji": {
+          "name": "Ringuma"
+        }, 
+        "de": {
+          "name": "Ursaring"
+        }, 
+        "ko": {
+          "name": "\ub9c1\uacf0"
+        }, 
+        "it": {
+          "name": "Ursaring"
+        }, 
+        "ja": {
+          "name": "\u30ea\u30f3\u30b0\u30de"
+        }, 
+        "es": {
+          "name": "Ursaring"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "powder-snow", 
+        "pound", 
+        "ice-beam", 
+        "ice-punch", 
+        "psyshock"
+      ], 
+      "id": 238, 
+      "types": [
+        "ice", 
+        "psychic"
+      ]
+    }, 
+    "239": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Joliflor"
+        }, 
+        "en": {
+          "name": "Bellossom"
+        }, 
+        "zh": {
+          "name": "\u7f8e\u9e97\u82b1"
+        }, 
+        "roomaji": {
+          "name": "Kireihana"
+        }, 
+        "de": {
+          "name": "Blubella"
+        }, 
+        "ko": {
+          "name": "\uc544\ub974\ucf54"
+        }, 
+        "it": {
+          "name": "Bellossom"
+        }, 
+        "ja": {
+          "name": "\u30ad\u30ec\u30a4\u30cf\u30ca"
+        }, 
+        "es": {
+          "name": "Bellossom"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "thunder-shock", 
+        "low-kick", 
+        "thunder-punch", 
+        "brick-break", 
+        "discharge"
+      ], 
+      "id": 239, 
+      "types": [
+        "electric"
+      ]
+    }, 
+    "240": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Lippouti"
+        }, 
+        "en": {
+          "name": "Smoochum"
+        }, 
+        "zh": {
+          "name": "\u8ff7\u5507\u5a03"
+        }, 
+        "roomaji": {
+          "name": "Muchul"
+        }, 
+        "de": {
+          "name": "Kussilla"
+        }, 
+        "ko": {
+          "name": "\ubf40\ubf40\ub77c"
+        }, 
+        "it": {
+          "name": "Smoochum"
+        }, 
+        "ja": {
+          "name": "\u30e0\u30c1\u30e5\u30fc\u30eb"
+        }, 
+        "es": {
+          "name": "Smoochum"
+        }
+      }, 
+      "egg_type": 5, 
+      "moves": [
+        "ember", 
+        "karate-chop", 
+        "brick-break", 
+        "fire-punch", 
+        "flame-burst"
+      ], 
+      "id": 240, 
+      "types": [
+        "fire"
+      ]
+    }, 
+    "241": {
+      "evolution_cost": 3, 
+      "i18n": {
+        "fr": {
+          "name": "\u00c9lekid"
+        }, 
+        "en": {
+          "name": "Elekid"
+        }, 
+        "zh": {
+          "name": "\u96fb\u64ca\u602a"
+        }, 
+        "roomaji": {
+          "name": "Elekid"
+        }, 
+        "de": {
+          "name": "Elekid"
+        }, 
+        "ko": {
+          "name": "\uc5d0\ub808\ud0a4\ub4dc"
+        }, 
+        "it": {
+          "name": "Elekid"
+        }, 
+        "ja": {
+          "name": "\u30a8\u30ec\u30ad\u30c3\u30c9"
+        }, 
+        "es": {
+          "name": "Elekid"
+        }
+      }, 
+      "egg_type": 10, 
+      "moves": [
+        "tackle", 
+        "zen-headbutt", 
+        "stomp", 
+        "body-slam", 
+        "gyro-ball"
+      ], 
+      "id": 241, 
+      "types": [
+        "normal"
+      ]
+    }, 
+    "242": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Cadoizo"
+        }, 
+        "en": {
+          "name": "Delibird"
+        }, 
+        "zh": {
+          "name": "\u4fe1\u4f7f\u9ce5"
+        }, 
+        "roomaji": {
+          "name": "Delibird"
+        }, 
+        "de": {
+          "name": "Botogel"
+        }, 
+        "ko": {
+          "name": "\ub51c\ub9ac\ubc84\ub4dc"
+        }, 
+        "it": {
+          "name": "Delibird"
+        }, 
+        "ja": {
+          "name": "\u30c7\u30ea\u30d0\u30fc\u30c9"
+        }, 
+        "es": {
+          "name": "Delibird"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "pound", 
+        "zen-headbutt", 
+        "psychic", 
+        "hyper-beam", 
+        "dazzling-gleam"
+      ], 
+      "id": 242, 
+      "types": [
+        "normal"
+      ]
+    }, 
+    "243": {
+      "evolution_cost": null, 
+      "i18n": {
+        "fr": {
+          "name": "Macronium"
+        }, 
+        "en": {
+          "name": "Bayleef"
+        }, 
+        "zh": {
+          "name": "\u6708\u6842\u8449"
+        }, 
+        "roomaji": {
+          "name": "Bayleaf"
+        }, 
+        "de": {
+          "name": "Lorblatt"
+        }, 
+        "ko": {
+          "name": "\ubca0\uc774\ub9ac\ud504"
+        }, 
+        "it": {
+          "name": "Bayleef"
+        }, 
+        "ja": {
+          "name": "\u30d9\u30a4\u30ea\u30fc\u30d5"
+        }, 
+        "es": {
+          "name": "Bayleef"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "thunder-shock", 
+        "volt-switch", 
+        "thunder", 
+        "thunderbolt", 
+        "wild-charge"
+      ], 
+      "id": 243, 
+      "types": [
+        "electric"
+      ]
+    }, 
+    "244": {
+      "evolution_cost": null, 
+      "i18n": {
+        "fr": {
+          "name": "Lanturn"
+        }, 
+        "en": {
+          "name": "Lanturn"
+        }, 
+        "zh": {
+          "name": "\u96fb\u71c8\u602a"
+        }, 
+        "roomaji": {
+          "name": "Lantern"
+        }, 
+        "de": {
+          "name": "Lanturn"
+        }, 
+        "ko": {
+          "name": "\ub79c\ud134"
+        }, 
+        "it": {
+          "name": "Lanturn"
+        }, 
+        "ja": {
+          "name": "\u30e9\u30f3\u30bf\u30fc\u30f3"
+        }, 
+        "es": {
+          "name": "Lanturn"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "fire-spin", 
+        "fire-fang", 
+        "flamethrower", 
+        "fire-blast", 
+        "overheat"
+      ], 
+      "id": 244, 
+      "types": [
+        "fire"
+      ]
+    }, 
+    "245": {
+      "evolution_cost": null, 
+      "i18n": {
+        "fr": {
+          "name": "M\u00e9lo"
+        }, 
+        "en": {
+          "name": "Cleffa"
+        }, 
+        "zh": {
+          "name": "\u76ae\u5bf6\u5bf6"
+        }, 
+        "roomaji": {
+          "name": "Py"
+        }, 
+        "de": {
+          "name": "Pii"
+        }, 
+        "ko": {
+          "name": "\uc090"
+        }, 
+        "it": {
+          "name": "Cleffa"
+        }, 
+        "ja": {
+          "name": "\u30d4\u30a3"
+        }, 
+        "es": {
+          "name": "Cleffa"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "extrasensory", 
+        "snarl", 
+        "hydro-pump", 
+        "bubble-beam", 
+        "water-pulse"
+      ], 
+      "id": 245, 
+      "types": [
+        "water"
+      ]
+    }, 
+    "246": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Debugant"
+        }, 
+        "en": {
+          "name": "Tyrogue"
+        }, 
+        "zh": {
+          "name": "\u5df4\u723e\u90ce"
+        }, 
+        "roomaji": {
+          "name": "Balkie"
+        }, 
+        "de": {
+          "name": "Rabauz"
+        }, 
+        "ko": {
+          "name": "\ubc30\ub8e8\ud0a4"
+        }, 
+        "it": {
+          "name": "Tyrogue"
+        }, 
+        "ja": {
+          "name": "\u30d0\u30eb\u30ad\u30fc"
+        }, 
+        "es": {
+          "name": "Tyrogue"
+        }
+      }, 
+      "egg_type": 10, 
+      "moves": [
+        "bite", 
+        "rock-smash", 
+        "stomp", 
+        "crunch", 
+        "ancient-power"
+      ], 
+      "id": 246, 
+      "types": [
+        "rock", 
+        "ground"
+      ]
+    }, 
+    "247": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Octillery"
+        }, 
+        "en": {
+          "name": "Octillery"
+        }, 
+        "zh": {
+          "name": "\u7ae0\u9b5a\u6876"
+        }, 
+        "roomaji": {
+          "name": "Okutank"
+        }, 
+        "de": {
+          "name": "Octillery"
+        }, 
+        "ko": {
+          "name": "\ub300\ud3ec\ubb34\ub178"
+        }, 
+        "it": {
+          "name": "Octillery"
+        }, 
+        "ja": {
+          "name": "\u30aa\u30af\u30bf\u30f3"
+        }, 
+        "es": {
+          "name": "Octillery"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "bite", 
+        "rock-smash", 
+        "dig", 
+        "crunch", 
+        "ancient-power"
+      ], 
+      "id": 247, 
+      "types": [
+        "rock", 
+        "ground"
+      ]
+    }, 
+    "248": {
+      "evolution_cost": 5, 
+      "i18n": {
+        "fr": {
+          "name": "Raikou"
+        }, 
+        "en": {
+          "name": "Raikou"
+        }, 
+        "zh": {
+          "name": "\u96f7\u516c"
+        }, 
+        "roomaji": {
+          "name": "Raikou"
+        }, 
+        "de": {
+          "name": "Raikou"
+        }, 
+        "ko": {
+          "name": "\ub77c\uc774\ucf54"
+        }, 
+        "it": {
+          "name": "Raikou"
+        }, 
+        "ja": {
+          "name": "\u30e9\u30a4\u30b3\u30a6"
+        }, 
+        "es": {
+          "name": "Raikou"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "bite", 
+        "iron-tail", 
+        "fire-blast", 
+        "crunch", 
+        "stone-edge"
+      ], 
+      "id": 248, 
+      "types": [
+        "rock", 
+        "dark"
+      ]
+    }, 
+    "249": {
+      "evolution_cost": 20, 
+      "i18n": {
+        "fr": {
+          "name": "Lugia"
+        }, 
+        "en": {
+          "name": "Lugia"
+        }, 
+        "zh": {
+          "name": "\u6d1b\u5947\u4e9e"
+        }, 
+        "roomaji": {
+          "name": "Lugia"
+        }, 
+        "de": {
+          "name": "Lugia"
+        }, 
+        "ko": {
+          "name": "\ub8e8\uae30\uc544"
+        }, 
+        "it": {
+          "name": "Lugia"
+        }, 
+        "ja": {
+          "name": "\u30eb\u30ae\u30a2"
+        }, 
+        "es": {
+          "name": "Lugia"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "extrasensory", 
+        "dragon-tail", 
+        "sky-attack", 
+        "hydro-pump", 
+        "future-sight"
+      ], 
+      "id": 249, 
+      "types": [
+        "psychic", 
+        "flying"
+      ]
+    }, 
+    "250": {
+      "evolution_cost": null, 
+      "i18n": {
+        "fr": {
+          "name": "Corayon"
+        }, 
+        "en": {
+          "name": "Corsola"
+        }, 
+        "zh": {
+          "name": "\u592a\u967d\u73ca\u745a"
+        }, 
+        "roomaji": {
+          "name": "Sunnygo"
+        }, 
+        "de": {
+          "name": "Corasonn"
+        }, 
+        "ko": {
+          "name": "\ucf54\uc0b0\ud638"
+        }, 
+        "it": {
+          "name": "Corsola"
+        }, 
+        "ja": {
+          "name": "\u30b5\u30cb\u30fc\u30b4"
+        }, 
+        "es": {
+          "name": "Corsola"
+        }
+      }, 
+      "egg_type": null, 
+      "moves": [
+        "extrasensory", 
+        "steel-wing", 
+        "brave-bird", 
+        "fire-blast", 
+        "solar-beam"
+      ], 
+      "id": 250, 
+      "types": [
+        "fire", 
+        "flying"
+      ]
+    }, 
+    "251": {
       "evolution_cost": null, 
       "i18n": {
         "fr": {
@@ -6897,149 +11113,16 @@
       }, 
       "egg_type": null, 
       "moves": [
-        "zen-headbutt", 
-        "steel-wing", 
-        "ancient-power", 
-        "dazzling-gleam", 
-        "aerial-ace"
+        "confusion", 
+        "charge-beam", 
+        "hyper-beam", 
+        "psychic", 
+        "dazzling-gleam"
       ], 
-      "id": 176, 
+      "id": 251, 
       "types": [
-        "fairy", 
-        "flying"
-      ]
-    }, 
-    "238": {
-      "evolution_cost": 25, 
-      "i18n": {
-        "fr": {
-          "name": "Lippouti"
-        }, 
-        "en": {
-          "name": "Smoochum"
-        }, 
-        "zh": {
-          "name": "\u8ff7\u5507\u5a03"
-        }, 
-        "roomaji": {
-          "name": "Muchul"
-        }, 
-        "de": {
-          "name": "Kussilla"
-        }, 
-        "ko": {
-          "name": "\ubf40\ubf40\ub77c"
-        }, 
-        "it": {
-          "name": "Smoochum"
-        }, 
-        "ja": {
-          "name": "\u30e0\u30c1\u30e5\u30fc\u30eb"
-        }, 
-        "es": {
-          "name": "Smoochum"
-        }
-      }, 
-      "egg_type": 10, 
-      "moves": [
-        "frost-breath", 
-        "pound", 
-        "ice-beam", 
-        "ice-punch", 
-        "psyshock"
-      ], 
-      "id": 238, 
-      "types": [
-        "ice", 
-        "psychic"
-      ]
-    }, 
-    "239": {
-      "evolution_cost": 25, 
-      "i18n": {
-        "fr": {
-          "name": "\u00c9lekid"
-        }, 
-        "en": {
-          "name": "Elekid"
-        }, 
-        "zh": {
-          "name": "\u96fb\u64ca\u602a"
-        }, 
-        "roomaji": {
-          "name": "Elekid"
-        }, 
-        "de": {
-          "name": "Elekid"
-        }, 
-        "ko": {
-          "name": "\uc5d0\ub808\ud0a4\ub4dc"
-        }, 
-        "it": {
-          "name": "Elekid"
-        }, 
-        "ja": {
-          "name": "\u30a8\u30ec\u30ad\u30c3\u30c9"
-        }, 
-        "es": {
-          "name": "Elekid"
-        }
-      }, 
-      "egg_type": 10, 
-      "moves": [
-        "thunder-shock", 
-        "low-kick", 
-        "thunder-punch", 
-        "thunderbolt", 
-        "discharge"
-      ], 
-      "id": 239, 
-      "types": [
-        "electric"
-      ]
-    }, 
-    "240": {
-      "evolution_cost": 25, 
-      "i18n": {
-        "fr": {
-          "name": "Magby"
-        }, 
-        "en": {
-          "name": "Magby"
-        }, 
-        "zh": {
-          "name": "\u5c0f\u9d28\u5634\u9f8d"
-        }, 
-        "roomaji": {
-          "name": "Buby"
-        }, 
-        "de": {
-          "name": "Magby"
-        }, 
-        "ko": {
-          "name": "\ub9c8\uadf8\ube44"
-        }, 
-        "it": {
-          "name": "Magby"
-        }, 
-        "ja": {
-          "name": "\u30d6\u30d3\u30a3"
-        }, 
-        "es": {
-          "name": "Magby"
-        }
-      }, 
-      "egg_type": 10, 
-      "moves": [
-        "ember", 
-        "karate-chop", 
-        "brick-break", 
-        "fire-punch", 
-        "flamethrower"
-      ], 
-      "id": 240, 
-      "types": [
-        "fire"
+        "psychic", 
+        "grass"
       ]
     }
   }, 
@@ -7068,12 +11151,12 @@
           "name": "Finta"
         }
       }, 
-      "duration": 1040, 
+      "duration": 900, 
       "critical": null, 
-      "dps": 11.538461538461538, 
-      "power": 12, 
+      "dps": 11.11111111111111, 
+      "power": 10, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 9, 
       "type": "dark", 
       "id": "feint-attack"
     }, 
@@ -7106,7 +11189,7 @@
       "dps": 12.0, 
       "power": 6, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 4, 
       "type": "normal", 
       "id": "scratch"
     }, 
@@ -7134,47 +11217,80 @@
           "name": "Pu\u00f1o Hielo"
         }
       }, 
-      "duration": 3500, 
-      "critical": 0.05, 
-      "dps": 12.857142857142858, 
-      "power": 45, 
+      "duration": 1900, 
+      "critical": 0.0, 
+      "dps": 26.31578947368421, 
+      "power": 50, 
       "charges": 3, 
       "energy": 0, 
       "type": "ice", 
       "id": "ice-punch"
     }, 
-    "struggle-bug": {
+    "play-rough": {
       "i18n": {
         "fr": {
-          "name": "Survinsecte"
+          "name": "C\u00e2linerie"
         }, 
         "en": {
-          "name": "Struggle Bug"
+          "name": "Play Rough"
         }, 
         "de": {
-          "name": "K\u00e4fertrutz"
+          "name": "Knuddler"
         }, 
         "ko": {
-          "name": "\ubc8c\ub808\uc758\uc800\ud56d"
+          "name": "\uce58\uadfc\uac70\ub9ac\uae30"
         }, 
         "it": {
-          "name": "Entomoblocco"
+          "name": "Carineria"
         }, 
         "ja": {
-          "name": "\u3080\u3057\u306e\u3066\u3044\u3053\u3046"
+          "name": "\u3058\u3083\u308c\u3064\u304f"
         }, 
         "es": {
-          "name": "Estoicismo"
+          "name": "Caranto\u00f1a"
         }
       }, 
-      "duration": 1695, 
+      "duration": 2900, 
       "critical": 0.0, 
-      "dps": 8.849557522123893, 
-      "power": 15, 
-      "charges": 5, 
+      "dps": 31.03448275862069, 
+      "power": 90, 
+      "charges": 3, 
       "energy": 0, 
-      "type": "bug", 
-      "id": "struggle-bug"
+      "type": "fairy", 
+      "id": "play-rough"
+    }, 
+    "avalanche": {
+      "i18n": {
+        "fr": {
+          "name": "Avalanche"
+        }, 
+        "en": {
+          "name": "Avalanche"
+        }, 
+        "de": {
+          "name": "Lawine"
+        }, 
+        "ko": {
+          "name": "\ub208\uc0ac\ud0dc"
+        }, 
+        "it": {
+          "name": "Slavina"
+        }, 
+        "ja": {
+          "name": "\u3086\u304d\u306a\u3060\u308c"
+        }, 
+        "es": {
+          "name": "Alud"
+        }
+      }, 
+      "duration": 2700, 
+      "critical": 0.0, 
+      "dps": 33.333333333333336, 
+      "power": 90, 
+      "charges": 1, 
+      "energy": 0, 
+      "type": "ice", 
+      "id": "avalanche"
     }, 
     "brine": {
       "i18n": {
@@ -7235,10 +11351,10 @@
       }, 
       "duration": 600, 
       "critical": null, 
-      "dps": 8.333333333333334, 
-      "power": 5, 
+      "dps": 10.0, 
+      "power": 6, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 6, 
       "type": "fighting", 
       "id": "low-kick"
     }, 
@@ -7299,11 +11415,11 @@
           "name": "Taladradora"
         }
       }, 
-      "duration": 3400, 
-      "critical": 0.25, 
-      "dps": 14.705882352941176, 
-      "power": 50, 
-      "charges": 3, 
+      "duration": 2800, 
+      "critical": 0.0, 
+      "dps": 28.57142857142857, 
+      "power": 80, 
+      "charges": 2, 
       "energy": 0, 
       "type": "ground", 
       "id": "drill-run"
@@ -7332,14 +11448,47 @@
           "name": "Terratemblor"
         }
       }, 
-      "duration": 3400, 
-      "critical": 0.05, 
-      "dps": 10.294117647058824, 
-      "power": 35, 
-      "charges": 4, 
+      "duration": 3500, 
+      "critical": 0.0, 
+      "dps": 22.857142857142858, 
+      "power": 80, 
+      "charges": 1, 
       "energy": 0, 
       "type": "ground", 
       "id": "bulldoze"
+    }, 
+    "sky-attack": {
+      "i18n": {
+        "fr": {
+          "name": "Piqu\u00e9"
+        }, 
+        "en": {
+          "name": "Sky Attack"
+        }, 
+        "de": {
+          "name": "Himmelsfeger"
+        }, 
+        "ko": {
+          "name": "\ubd88\uc0c8"
+        }, 
+        "it": {
+          "name": "Aeroattacco"
+        }, 
+        "ja": {
+          "name": "\u30b4\u30c3\u30c9\u30d0\u30fc\u30c9"
+        }, 
+        "es": {
+          "name": "Ataque A\u00e9reo"
+        }
+      }, 
+      "duration": 2000, 
+      "critical": 0.0, 
+      "dps": 35.0, 
+      "power": 70, 
+      "charges": 2, 
+      "energy": 0, 
+      "type": "flying", 
+      "id": "sky-attack"
     }, 
     "sludge-bomb": {
       "i18n": {
@@ -7365,11 +11514,11 @@
           "name": "Bomba Lodo"
         }
       }, 
-      "duration": 2600, 
-      "critical": 0.05, 
-      "dps": 21.153846153846153, 
-      "power": 55, 
-      "charges": 2, 
+      "duration": 2300, 
+      "critical": 0.0, 
+      "dps": 34.78260869565217, 
+      "power": 80, 
+      "charges": 1, 
       "energy": 0, 
       "type": "poison", 
       "id": "sludge-bomb"
@@ -7398,12 +11547,12 @@
           "name": "Corte"
         }
       }, 
-      "duration": 1130, 
+      "duration": 500, 
       "critical": null, 
-      "dps": 10.619469026548673, 
-      "power": 12, 
+      "dps": 10.0, 
+      "power": 5, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 5, 
       "type": "normal", 
       "id": "cut"
     }, 
@@ -7431,14 +11580,47 @@
           "name": "Hoja Afilada"
         }
       }, 
-      "duration": 1450, 
+      "duration": 1000, 
       "critical": null, 
-      "dps": 10.344827586206897, 
-      "power": 15, 
+      "dps": 13.0, 
+      "power": 13, 
       "charges": 0, 
       "energy": 7, 
       "type": "grass", 
       "id": "razor-leaf"
+    }, 
+    "sand-tomb": {
+      "i18n": {
+        "fr": {
+          "name": "Tourbi-Sable"
+        }, 
+        "en": {
+          "name": "Sand Tomb"
+        }, 
+        "de": {
+          "name": "Sandgrab"
+        }, 
+        "ko": {
+          "name": "\ubaa8\ub798\uc9c0\uc625"
+        }, 
+        "it": {
+          "name": "Sabbiotomba"
+        }, 
+        "ja": {
+          "name": "\u3059\u306a\u3058\u3054\u304f"
+        }, 
+        "es": {
+          "name": "Bucle Arena"
+        }
+      }, 
+      "duration": 4000, 
+      "critical": 0.0, 
+      "dps": 20.0, 
+      "power": 80, 
+      "charges": 2, 
+      "energy": 0, 
+      "type": "ground", 
+      "id": "sand-tomb"
     }, 
     "bug-bite": {
       "i18n": {
@@ -7464,14 +11646,47 @@
           "name": "Picadura"
         }
       }, 
-      "duration": 450, 
+      "duration": 500, 
       "critical": null, 
-      "dps": 11.11111111111111, 
+      "dps": 10.0, 
       "power": 5, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 6, 
       "type": "bug", 
       "id": "bug-bite"
+    }, 
+    "energy-ball": {
+      "i18n": {
+        "fr": {
+          "name": "\u00c9co-Sph\u00e8re"
+        }, 
+        "en": {
+          "name": "Energy Ball"
+        }, 
+        "de": {
+          "name": "Energieball"
+        }, 
+        "ko": {
+          "name": "\uc5d0\ub108\uc9c0\ubcfc"
+        }, 
+        "it": {
+          "name": "Energipalla"
+        }, 
+        "ja": {
+          "name": "\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb"
+        }, 
+        "es": {
+          "name": "Energibola"
+        }
+      }, 
+      "duration": 3900, 
+      "critical": 0.0, 
+      "dps": 23.076923076923077, 
+      "power": 90, 
+      "charges": 1, 
+      "energy": 0, 
+      "type": "grass", 
+      "id": "energy-ball"
     }, 
     "aqua-jet": {
       "i18n": {
@@ -7497,11 +11712,11 @@
           "name": "Acua Jet"
         }
       }, 
-      "duration": 2350, 
-      "critical": 0.05, 
-      "dps": 10.638297872340425, 
-      "power": 25, 
-      "charges": 5, 
+      "duration": 2600, 
+      "critical": 0.0, 
+      "dps": 17.30769230769231, 
+      "power": 45, 
+      "charges": 3, 
       "energy": 0, 
       "type": "water", 
       "id": "aqua-jet"
@@ -7530,80 +11745,113 @@
           "name": "Rayo Hielo"
         }
       }, 
-      "duration": 3650, 
-      "critical": 0.05, 
-      "dps": 17.80821917808219, 
-      "power": 65, 
-      "charges": 2, 
+      "duration": 3300, 
+      "critical": 0.0, 
+      "dps": 27.27272727272727, 
+      "power": 90, 
+      "charges": 3, 
       "energy": 0, 
       "type": "ice", 
       "id": "ice-beam"
     }, 
-    "water-gun": {
+    "astonish": {
       "i18n": {
         "fr": {
-          "name": "Pistolet \u00e0 O"
+          "name": "\u00c9tonnement"
         }, 
         "en": {
-          "name": "Water Gun"
+          "name": "Astonish"
         }, 
         "de": {
-          "name": "Aquaknarre"
+          "name": "Erstauner"
         }, 
         "ko": {
-          "name": "\ubb3c\ub300\ud3ec"
+          "name": "\ub180\ub798\ud0a4\uae30"
         }, 
         "it": {
-          "name": "Pistolacqua"
+          "name": "Sgomento"
         }, 
         "ja": {
-          "name": "\u307f\u305a\u3067\u3063\u307d\u3046"
+          "name": "\u304a\u3069\u308d\u304b\u3059"
         }, 
         "es": {
-          "name": "Pistola Agua"
+          "name": "Impresionar"
         }
       }, 
-      "duration": 500, 
+      "duration": 1100, 
       "critical": null, 
-      "dps": 12.0, 
-      "power": 6, 
+      "dps": 7.2727272727272725, 
+      "power": 8, 
       "charges": 0, 
-      "energy": 7, 
-      "type": "water", 
-      "id": "water-gun"
+      "energy": 14, 
+      "type": "ghost", 
+      "id": "astonish"
     }, 
-    "seed-bomb": {
+    "outrage": {
       "i18n": {
         "fr": {
-          "name": "Canon Graine"
+          "name": "Col\u00e8re"
         }, 
         "en": {
-          "name": "Seed Bomb"
+          "name": "Outrage"
         }, 
         "de": {
-          "name": "Samenbomben"
+          "name": "Wutanfall"
         }, 
         "ko": {
-          "name": "\uc528\ud3ed\ud0c4"
+          "name": "\uc5ed\ub9b0"
         }, 
         "it": {
-          "name": "Semebomba"
+          "name": "Oltraggio"
         }, 
         "ja": {
-          "name": "\u30bf\u30cd\u3070\u304f\u3060\u3093"
+          "name": "\u3052\u304d\u308a\u3093"
         }, 
         "es": {
-          "name": "Bomba Germen"
+          "name": "Enfado"
         }
       }, 
-      "duration": 2400, 
-      "critical": 0.05, 
-      "dps": 16.666666666666668, 
-      "power": 40, 
+      "duration": 3900, 
+      "critical": 0.0, 
+      "dps": 28.205128205128204, 
+      "power": 110, 
+      "charges": 1, 
+      "energy": 0, 
+      "type": "dragon", 
+      "id": "outrage"
+    }, 
+    "wild-charge": {
+      "i18n": {
+        "fr": {
+          "name": "\u00c9clair Fou"
+        }, 
+        "en": {
+          "name": "Wild Charge"
+        }, 
+        "de": {
+          "name": "Stromsto\u00df"
+        }, 
+        "ko": {
+          "name": "\uc640\uc77c\ub4dc\ubcfc\ud2b8"
+        }, 
+        "it": {
+          "name": "Sprizzalampo"
+        }, 
+        "ja": {
+          "name": "\u30ef\u30a4\u30eb\u30c9\u30dc\u30eb\u30c8"
+        }, 
+        "es": {
+          "name": "Voltio Cruel"
+        }
+      }, 
+      "duration": 2600, 
+      "critical": 0.0, 
+      "dps": 34.61538461538462, 
+      "power": 90, 
       "charges": 3, 
       "energy": 0, 
-      "type": "grass", 
-      "id": "seed-bomb"
+      "type": "electric", 
+      "id": "wild-charge"
     }, 
     "shadow-claw": {
       "i18n": {
@@ -7629,12 +11877,12 @@
           "name": "Garra Umbr\u00eda"
         }
       }, 
-      "duration": 950, 
+      "duration": 700, 
       "critical": null, 
-      "dps": 11.578947368421053, 
-      "power": 11, 
+      "dps": 12.857142857142858, 
+      "power": 9, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 6, 
       "type": "ghost", 
       "id": "shadow-claw"
     }, 
@@ -7667,9 +11915,42 @@
       "dps": 10.0, 
       "power": 7, 
       "charges": 0, 
-      "energy": 4, 
+      "energy": 8, 
       "type": "dark", 
       "id": "sucker-punch"
+    }, 
+    "extrasensory": {
+      "i18n": {
+        "fr": {
+          "name": "Extrasenseur"
+        }, 
+        "en": {
+          "name": "Extrasensory"
+        }, 
+        "de": {
+          "name": "Sondersensor"
+        }, 
+        "ko": {
+          "name": "\uc2e0\ud1b5\ub825"
+        }, 
+        "it": {
+          "name": "Extrasenso"
+        }, 
+        "ja": {
+          "name": "\u3058\u3093\u3064\u3046\u308a\u304d"
+        }, 
+        "es": {
+          "name": "Paranormal"
+        }
+      }, 
+      "duration": 1100, 
+      "critical": null, 
+      "dps": 10.90909090909091, 
+      "power": 12, 
+      "charges": 0, 
+      "energy": 12, 
+      "type": "psychic", 
+      "id": "extrasensory"
     }, 
     "dazzling-gleam": {
       "i18n": {
@@ -7695,11 +11976,11 @@
           "name": "Brillo M\u00e1gico"
         }
       }, 
-      "duration": 4200, 
-      "critical": 0.05, 
-      "dps": 13.095238095238095, 
-      "power": 55, 
-      "charges": 3, 
+      "duration": 3500, 
+      "critical": 0.0, 
+      "dps": 28.57142857142857, 
+      "power": 100, 
+      "charges": 2, 
       "energy": 0, 
       "type": "fairy", 
       "id": "dazzling-gleam"
@@ -7728,14 +12009,47 @@
           "name": "Pisot\u00f3n"
         }
       }, 
-      "duration": 2100, 
-      "critical": 0.05, 
-      "dps": 14.285714285714285, 
-      "power": 30, 
-      "charges": 4, 
+      "duration": 1700, 
+      "critical": 0.0, 
+      "dps": 32.352941176470594, 
+      "power": 55, 
+      "charges": 1, 
       "energy": 0, 
       "type": "normal", 
       "id": "stomp"
+    }, 
+    "shadow-sneak": {
+      "i18n": {
+        "fr": {
+          "name": "Ombre Port\u00e9e"
+        }, 
+        "en": {
+          "name": "Shadow Sneak"
+        }, 
+        "de": {
+          "name": "Schattensto\u00df"
+        }, 
+        "ko": {
+          "name": "\uc57c\uc2b5"
+        }, 
+        "it": {
+          "name": "Furtivombra"
+        }, 
+        "ja": {
+          "name": "\u304b\u3052\u3046\u3061"
+        }, 
+        "es": {
+          "name": "Sombra Vil"
+        }
+      }, 
+      "duration": 2900, 
+      "critical": 0.0, 
+      "dps": 17.241379310344826, 
+      "power": 50, 
+      "charges": 2, 
+      "energy": 0, 
+      "type": "ghost", 
+      "id": "shadow-sneak"
     }, 
     "air-cutter": {
       "i18n": {
@@ -7761,47 +12075,80 @@
           "name": "Aire Afilado"
         }
       }, 
-      "duration": 3300, 
-      "critical": 0.25, 
-      "dps": 9.09090909090909, 
-      "power": 30, 
-      "charges": 4, 
+      "duration": 2700, 
+      "critical": 0.0, 
+      "dps": 22.22222222222222, 
+      "power": 60, 
+      "charges": 3, 
       "energy": 0, 
       "type": "flying", 
       "id": "air-cutter"
     }, 
-    "play-rough": {
+    "snarl": {
       "i18n": {
         "fr": {
-          "name": "C\u00e2linerie"
+          "name": "Aboiement"
         }, 
         "en": {
-          "name": "Play Rough"
+          "name": "Snarl"
         }, 
         "de": {
-          "name": "Knuddler"
+          "name": "Standpauke"
         }, 
         "ko": {
-          "name": "\uce58\uadfc\uac70\ub9ac\uae30"
+          "name": "\ubc14\ud06c\uc544\uc6c3"
         }, 
         "it": {
-          "name": "Carineria"
+          "name": "Urlorabbia"
         }, 
         "ja": {
-          "name": "\u3058\u3083\u308c\u3064\u304f"
+          "name": "\u30d0\u30fc\u30af\u30a2\u30a6\u30c8"
         }, 
         "es": {
-          "name": "Caranto\u00f1a"
+          "name": "Alarido"
         }
       }, 
-      "duration": 2900, 
-      "critical": 0.05, 
-      "dps": 18.96551724137931, 
-      "power": 55, 
-      "charges": 2, 
-      "energy": 0, 
-      "type": "fairy", 
-      "id": "play-rough"
+      "duration": 1100, 
+      "critical": null, 
+      "dps": 10.90909090909091, 
+      "power": 12, 
+      "charges": 0, 
+      "energy": 12, 
+      "type": "dark", 
+      "id": "snarl"
+    }, 
+    "struggle-bug": {
+      "i18n": {
+        "fr": {
+          "name": "Survinsecte"
+        }, 
+        "en": {
+          "name": "Struggle Bug"
+        }, 
+        "de": {
+          "name": "K\u00e4fertrutz"
+        }, 
+        "ko": {
+          "name": "\ubc8c\ub808\uc758\uc800\ud56d"
+        }, 
+        "it": {
+          "name": "Entomoblocco"
+        }, 
+        "ja": {
+          "name": "\u3080\u3057\u306e\u3066\u3044\u3053\u3046"
+        }, 
+        "es": {
+          "name": "Estoicismo"
+        }
+      }, 
+      "duration": 1500, 
+      "critical": null, 
+      "dps": 10.0, 
+      "power": 15, 
+      "charges": 0, 
+      "energy": 15, 
+      "type": "bug", 
+      "id": "struggle-bug"
     }, 
     "poison-fang": {
       "i18n": {
@@ -7861,10 +12208,10 @@
         }
       }, 
       "duration": 1500, 
-      "critical": 0.25, 
-      "dps": 16.666666666666668, 
-      "power": 25, 
-      "charges": 4, 
+      "critical": 0.0, 
+      "dps": 26.666666666666668, 
+      "power": 40, 
+      "charges": 3, 
       "energy": 0, 
       "type": "poison", 
       "id": "cross-poison"
@@ -7902,38 +12249,38 @@
       "type": "fighting", 
       "id": "submission"
     }, 
-    "power-whip": {
+    "hyper-beam": {
       "i18n": {
         "fr": {
-          "name": "M\u00e9gafouet"
+          "name": "Ultralaser"
         }, 
         "en": {
-          "name": "Power Whip"
+          "name": "Hyper Beam"
         }, 
         "de": {
-          "name": "Blattgei\u00dfel"
+          "name": "Hyperstrahl"
         }, 
         "ko": {
-          "name": "\ud30c\uc6cc\ud729"
+          "name": "\ud30c\uad34\uad11\uc120"
         }, 
         "it": {
-          "name": "Vigorcolpo"
+          "name": "Iper Raggio"
         }, 
         "ja": {
-          "name": "\u30d1\u30ef\u30fc\u30a6\u30a3\u30c3\u30d7"
+          "name": "\u306f\u304b\u3044\u3053\u3046\u305b\u3093"
         }, 
         "es": {
-          "name": "Latigazo"
+          "name": "Hiperrayo"
         }
       }, 
-      "duration": 2800, 
-      "critical": 0.12, 
-      "dps": 25.0, 
-      "power": 70, 
-      "charges": 1, 
+      "duration": 3800, 
+      "critical": 0.0, 
+      "dps": 39.473684210526315, 
+      "power": 150, 
+      "charges": 2, 
       "energy": 0, 
-      "type": "grass", 
-      "id": "power-whip"
+      "type": "normal", 
+      "id": "hyper-beam"
     }, 
     "dig": {
       "i18n": {
@@ -7959,47 +12306,80 @@
           "name": "Excavar"
         }
       }, 
-      "duration": 5800, 
-      "critical": 0.05, 
-      "dps": 12.068965517241379, 
-      "power": 70, 
+      "duration": 4700, 
+      "critical": 0.0, 
+      "dps": 21.27659574468085, 
+      "power": 100, 
       "charges": 3, 
       "energy": 0, 
       "type": "ground", 
       "id": "dig"
     }, 
-    "fury-cutter": {
+    "silver-wind": {
       "i18n": {
         "fr": {
-          "name": "Taillade"
+          "name": "Vent Argent\u00e9"
         }, 
         "en": {
-          "name": "Fury Cutter"
+          "name": "Silver Wind"
         }, 
         "de": {
-          "name": "Zornklinge"
+          "name": "Silberhauch"
         }, 
         "ko": {
-          "name": "\uc5f0\uc18d\uc790\ub974\uae30"
+          "name": "\uc740\ube5b\ubc14\ub78c"
         }, 
         "it": {
-          "name": "Tagliofuria"
+          "name": "Ventargenteo"
         }, 
         "ja": {
-          "name": "\u308c\u3093\u305e\u304f\u304e\u308a"
+          "name": "\u304e\u3093\u3044\u308d\u306e\u304b\u305c"
         }, 
         "es": {
-          "name": "Corte Furia"
+          "name": "Viento Plata"
         }
       }, 
-      "duration": 400, 
-      "critical": null, 
-      "dps": 7.5, 
-      "power": 3, 
-      "charges": 0, 
-      "energy": 12, 
+      "duration": 3700, 
+      "critical": 0.0, 
+      "dps": 18.91891891891892, 
+      "power": 70, 
+      "charges": 2, 
+      "energy": 0, 
       "type": "bug", 
-      "id": "fury-cutter"
+      "id": "silver-wind"
+    }, 
+    "cross-chop": {
+      "i18n": {
+        "fr": {
+          "name": "Coup-Croix"
+        }, 
+        "en": {
+          "name": "Cross Chop"
+        }, 
+        "de": {
+          "name": "Kreuzhieb"
+        }, 
+        "ko": {
+          "name": "\ud06c\ub85c\uc2a4\ucd19"
+        }, 
+        "it": {
+          "name": "Incrocolpo"
+        }, 
+        "ja": {
+          "name": "\u30af\u30ed\u30b9\u30c1\u30e7\u30c3\u30d7"
+        }, 
+        "es": {
+          "name": "Tajo Cruzado"
+        }
+      }, 
+      "duration": 1500, 
+      "critical": 0.0, 
+      "dps": 33.333333333333336, 
+      "power": 50, 
+      "charges": 3, 
+      "energy": 0, 
+      "type": "fighting", 
+      "id": "cross-chop"
     }, 
     "rock-tomb": {
       "i18n": {
@@ -8025,11 +12405,11 @@
           "name": "Tumba Rocas"
         }
       }, 
-      "duration": 3400, 
-      "critical": 0.25, 
-      "dps": 8.823529411764707, 
-      "power": 30, 
-      "charges": 4, 
+      "duration": 3200, 
+      "critical": 0.0, 
+      "dps": 21.875, 
+      "power": 70, 
+      "charges": 2, 
       "energy": 0, 
       "type": "rock", 
       "id": "rock-tomb"
@@ -8058,10 +12438,10 @@
           "name": "Tormenta Floral"
         }
       }, 
-      "duration": 3200, 
-      "critical": 0.05, 
-      "dps": 20.3125, 
-      "power": 65, 
+      "duration": 2600, 
+      "critical": 0.0, 
+      "dps": 42.30769230769231, 
+      "power": 110, 
       "charges": 2, 
       "energy": 0, 
       "type": "grass", 
@@ -8091,47 +12471,80 @@
           "name": "Pu\u00f1o Fuego"
         }
       }, 
-      "duration": 2800, 
-      "critical": 0.05, 
-      "dps": 14.285714285714285, 
-      "power": 40, 
-      "charges": 3, 
+      "duration": 2200, 
+      "critical": 0.0, 
+      "dps": 25.0, 
+      "power": 55, 
+      "charges": 2, 
       "energy": 0, 
       "type": "fire", 
       "id": "fire-punch"
     }, 
-    "bubble-beam": {
+    "seed-bomb": {
       "i18n": {
         "fr": {
-          "name": "Bulles d'O"
+          "name": "Canon Graine"
         }, 
         "en": {
-          "name": "Bubble Beam"
+          "name": "Seed Bomb"
         }, 
         "de": {
-          "name": "Blubbstrahl"
+          "name": "Samenbomben"
         }, 
         "ko": {
-          "name": "\uac70\ud488\uad11\uc120"
+          "name": "\uc528\ud3ed\ud0c4"
         }, 
         "it": {
-          "name": "Bollaraggio"
+          "name": "Semebomba"
         }, 
         "ja": {
-          "name": "\u30d0\u30d6\u30eb\u3053\u3046\u305b\u3093"
+          "name": "\u30bf\u30cd\u3070\u304f\u3060\u3093"
         }, 
         "es": {
-          "name": "Rayo Burbuja"
+          "name": "Bomba Germen"
         }
       }, 
-      "duration": 2900, 
-      "critical": 0.05, 
-      "dps": 10.344827586206897, 
-      "power": 30, 
-      "charges": 4, 
+      "duration": 2100, 
+      "critical": 0.0, 
+      "dps": 26.19047619047619, 
+      "power": 55, 
+      "charges": 2, 
       "energy": 0, 
-      "type": "water", 
-      "id": "bubble-beam"
+      "type": "grass", 
+      "id": "seed-bomb"
+    }, 
+    "aurora-beam": {
+      "i18n": {
+        "fr": {
+          "name": "Onde Bor\u00e9ale"
+        }, 
+        "en": {
+          "name": "Aurora Beam"
+        }, 
+        "de": {
+          "name": "Aurorastrahl"
+        }, 
+        "ko": {
+          "name": "\uc624\ub85c\ub77c\ube54"
+        }, 
+        "it": {
+          "name": "Raggiaurora"
+        }, 
+        "ja": {
+          "name": "\u30aa\u30fc\u30ed\u30e9\u30d3\u30fc\u30e0"
+        }, 
+        "es": {
+          "name": "Rayo Aurora"
+        }
+      }, 
+      "duration": 3550, 
+      "critical": 0.0, 
+      "dps": 22.535211267605636, 
+      "power": 80, 
+      "charges": 2, 
+      "energy": 0, 
+      "type": "ice", 
+      "id": "aurora-beam"
     }, 
     "disarming-voice": {
       "i18n": {
@@ -8158,10 +12571,10 @@
         }
       }, 
       "duration": 3900, 
-      "critical": 0.05, 
-      "dps": 6.41025641025641, 
-      "power": 25, 
-      "charges": 5, 
+      "critical": 0.0, 
+      "dps": 17.94871794871795, 
+      "power": 70, 
+      "charges": 3, 
       "energy": 0, 
       "type": "fairy", 
       "id": "disarming-voice"
@@ -8190,11 +12603,11 @@
           "name": "Rayo"
         }
       }, 
-      "duration": 2700, 
-      "critical": 0.05, 
-      "dps": 20.370370370370374, 
-      "power": 55, 
-      "charges": 2, 
+      "duration": 2500, 
+      "critical": 0.0, 
+      "dps": 32.0, 
+      "power": 80, 
+      "charges": 3, 
       "energy": 0, 
       "type": "electric", 
       "id": "thunderbolt"
@@ -8232,6 +12645,39 @@
       "type": "normal", 
       "id": "horn-attack"
     }, 
+    "foul-play": {
+      "i18n": {
+        "fr": {
+          "name": "Tricherie"
+        }, 
+        "en": {
+          "name": "Foul Play"
+        }, 
+        "de": {
+          "name": "Schmarotzer"
+        }, 
+        "ko": {
+          "name": "\uc18d\uc784\uc218"
+        }, 
+        "it": {
+          "name": "Ripicca"
+        }, 
+        "ja": {
+          "name": "\u30a4\u30ab\u30b5\u30de"
+        }, 
+        "es": {
+          "name": "Juego Sucio"
+        }
+      }, 
+      "duration": 2000, 
+      "critical": 0.0, 
+      "dps": 35.0, 
+      "power": 70, 
+      "charges": 1, 
+      "energy": 0, 
+      "type": "dark", 
+      "id": "foul-play"
+    }, 
     "dragon-pulse": {
       "i18n": {
         "fr": {
@@ -8265,6 +12711,39 @@
       "type": "dragon", 
       "id": "dragon-pulse"
     }, 
+    "rock-slide": {
+      "i18n": {
+        "fr": {
+          "name": "\u00c9boulement"
+        }, 
+        "en": {
+          "name": "Rock Slide"
+        }, 
+        "de": {
+          "name": "Steinhagel"
+        }, 
+        "ko": {
+          "name": "\uc2a4\ud1a4\uc0e4\uc6cc"
+        }, 
+        "it": {
+          "name": "Frana"
+        }, 
+        "ja": {
+          "name": "\u3044\u308f\u306a\u3060\u308c"
+        }, 
+        "es": {
+          "name": "Avalancha"
+        }
+      }, 
+      "duration": 2700, 
+      "critical": 0.0, 
+      "dps": 29.62962962962963, 
+      "power": 80, 
+      "charges": 2, 
+      "energy": 0, 
+      "type": "rock", 
+      "id": "rock-slide"
+    }, 
     "hydro-pump": {
       "i18n": {
         "fr": {
@@ -8289,10 +12768,10 @@
           "name": "Hidrobomba"
         }
       }, 
-      "duration": 3800, 
-      "critical": 0.05, 
-      "dps": 23.68421052631579, 
-      "power": 90, 
+      "duration": 3300, 
+      "critical": 0.0, 
+      "dps": 39.39393939393939, 
+      "power": 130, 
       "charges": 1, 
       "energy": 0, 
       "type": "water", 
@@ -8322,11 +12801,11 @@
           "name": "Viento Hielo"
         }
       }, 
-      "duration": 3800, 
-      "critical": 0.05, 
-      "dps": 6.578947368421052, 
-      "power": 25, 
-      "charges": 5, 
+      "duration": 3300, 
+      "critical": 0.0, 
+      "dps": 18.18181818181818, 
+      "power": 60, 
+      "charges": 2, 
       "energy": 0, 
       "type": "ice", 
       "id": "icy-wind"
@@ -8388,11 +12867,11 @@
           "name": "Hoja Aguda"
         }
       }, 
-      "duration": 2800, 
-      "critical": 0.25, 
-      "dps": 19.642857142857142, 
-      "power": 55, 
-      "charges": 2, 
+      "duration": 2400, 
+      "critical": 0.0, 
+      "dps": 29.166666666666668, 
+      "power": 70, 
+      "charges": 3, 
       "energy": 0, 
       "type": "grass", 
       "id": "leaf-blade"
@@ -8421,11 +12900,11 @@
           "name": "Golpe A\u00e9reo"
         }
       }, 
-      "duration": 2900, 
-      "critical": 0.05, 
-      "dps": 10.344827586206897, 
-      "power": 30, 
-      "charges": 4, 
+      "duration": 2400, 
+      "critical": 0.0, 
+      "dps": 22.916666666666664, 
+      "power": 55, 
+      "charges": 2, 
       "energy": 0, 
       "type": "flying", 
       "id": "aerial-ace"
@@ -8454,11 +12933,11 @@
           "name": "Bomba Fango"
         }
       }, 
-      "duration": 2600, 
-      "critical": 0.05, 
-      "dps": 11.538461538461538, 
-      "power": 30, 
-      "charges": 4, 
+      "duration": 2300, 
+      "critical": 0.0, 
+      "dps": 23.91304347826087, 
+      "power": 55, 
+      "charges": 2, 
       "energy": 0, 
       "type": "ground", 
       "id": "mud-bomb"
@@ -8520,11 +12999,11 @@
           "name": "Tajo Umbr\u00edo"
         }
       }, 
-      "duration": 2700, 
-      "critical": 0.25, 
-      "dps": 11.11111111111111, 
-      "power": 30, 
-      "charges": 4, 
+      "duration": 2200, 
+      "critical": 0.0, 
+      "dps": 22.727272727272727, 
+      "power": 50, 
+      "charges": 3, 
       "energy": 0, 
       "type": "dark", 
       "id": "night-slash"
@@ -8554,10 +13033,10 @@
         }
       }, 
       "duration": 2800, 
-      "critical": 0.05, 
-      "dps": 19.642857142857142, 
-      "power": 55, 
-      "charges": 2, 
+      "critical": 0.0, 
+      "dps": 35.714285714285715, 
+      "power": 100, 
+      "charges": 3, 
       "energy": 0, 
       "type": "psychic", 
       "id": "psychic"
@@ -8619,11 +13098,11 @@
           "name": "Lanza Mugre"
         }
       }, 
-      "duration": 3000, 
-      "critical": 0.05, 
-      "dps": 21.666666666666668, 
-      "power": 65, 
-      "charges": 1, 
+      "duration": 3100, 
+      "critical": 0.0, 
+      "dps": 41.935483870967744, 
+      "power": 130, 
+      "charges": 2, 
       "energy": 0, 
       "type": "poison", 
       "id": "gunk-shot"
@@ -8652,47 +13131,80 @@
           "name": "Puntapi\u00e9"
         }
       }, 
-      "duration": 2250, 
-      "critical": 0.05, 
-      "dps": 13.333333333333334, 
-      "power": 30, 
-      "charges": 4, 
+      "duration": 1900, 
+      "critical": 0.0, 
+      "dps": 21.052631578947366, 
+      "power": 40, 
+      "charges": 3, 
       "energy": 0, 
       "type": "fighting", 
       "id": "low-sweep"
     }, 
-    "dark-pulse": {
+    "fire-spin": {
       "i18n": {
         "fr": {
-          "name": "Vibrobscur"
+          "name": "Danse Flamme"
         }, 
         "en": {
-          "name": "Dark Pulse"
+          "name": "Fire Spin"
         }, 
         "de": {
-          "name": "Finsteraura"
+          "name": "Feuerwirbel"
         }, 
         "ko": {
-          "name": "\uc545\uc758\ud30c\ub3d9"
+          "name": "\ud68c\uc624\ub9ac\ubd88\uaf43"
         }, 
         "it": {
-          "name": "Neropulsar"
+          "name": "Turbofuoco"
         }, 
         "ja": {
-          "name": "\u3042\u304f\u306e\u306f\u3069\u3046"
+          "name": "\u307b\u306e\u304a\u306e\u3046\u305a"
         }, 
         "es": {
-          "name": "Pulso Umbr\u00edo"
+          "name": "Giro Fuego"
         }
       }, 
-      "duration": 3500, 
-      "critical": 0.05, 
-      "dps": 12.857142857142858, 
-      "power": 45, 
-      "charges": 3, 
+      "duration": 1100, 
+      "critical": null, 
+      "dps": 12.727272727272728, 
+      "power": 14, 
+      "charges": 0, 
+      "energy": 10, 
+      "type": "fire", 
+      "id": "fire-spin"
+    }, 
+    "aqua-tail": {
+      "i18n": {
+        "fr": {
+          "name": "Hydroqueue"
+        }, 
+        "en": {
+          "name": "Aqua Tail"
+        }, 
+        "de": {
+          "name": "Nassschweif"
+        }, 
+        "ko": {
+          "name": "\uc544\ucfe0\uc544\ud14c\uc77c"
+        }, 
+        "it": {
+          "name": "Idrondata"
+        }, 
+        "ja": {
+          "name": "\u30a2\u30af\u30a2\u30c6\u30fc\u30eb"
+        }, 
+        "es": {
+          "name": "Acua Cola"
+        }
+      }, 
+      "duration": 1900, 
+      "critical": 0.0, 
+      "dps": 26.31578947368421, 
+      "power": 50, 
+      "charges": 2, 
       "energy": 0, 
-      "type": "dark", 
-      "id": "dark-pulse"
+      "type": "water", 
+      "id": "aqua-tail"
     }, 
     "psyshock": {
       "i18n": {
@@ -8719,46 +13231,112 @@
         }
       }, 
       "duration": 2700, 
-      "critical": 0.05, 
-      "dps": 14.814814814814815, 
-      "power": 40, 
-      "charges": 3, 
+      "critical": 0.0, 
+      "dps": 24.074074074074073, 
+      "power": 65, 
+      "charges": 2, 
       "energy": 0, 
       "type": "psychic", 
       "id": "psyshock"
     }, 
-    "hyper-beam": {
+    "mirror-coat": {
       "i18n": {
         "fr": {
-          "name": "Ultralaser"
+          "name": "Voile Miroir"
         }, 
         "en": {
-          "name": "Hyper Beam"
+          "name": "Mirror Coat"
         }, 
         "de": {
-          "name": "Hyperstrahl"
+          "name": "Spiegelcape"
         }, 
         "ko": {
-          "name": "\ud30c\uad34\uad11\uc120"
+          "name": "\ubbf8\ub7ec\ucf54\ud2b8"
         }, 
         "it": {
-          "name": "Iper Raggio"
+          "name": "Specchiovelo"
         }, 
         "ja": {
-          "name": "\u306f\u304b\u3044\u3053\u3046\u305b\u3093"
+          "name": "\u30df\u30e9\u30fc\u30b3\u30fc\u30c8"
         }, 
         "es": {
-          "name": "Hiperrayo"
+          "name": "Manto Espejo"
         }
       }, 
-      "duration": 5000, 
-      "critical": 0.05, 
-      "dps": 24.0, 
-      "power": 120, 
+      "duration": 2600, 
+      "critical": 0.0, 
+      "dps": 23.076923076923077, 
+      "power": 60, 
       "charges": 1, 
       "energy": 0, 
-      "type": "normal", 
-      "id": "hyper-beam"
+      "type": "psychic", 
+      "id": "mirror-coat"
+    }, 
+    "power-whip": {
+      "i18n": {
+        "fr": {
+          "name": "M\u00e9gafouet"
+        }, 
+        "en": {
+          "name": "Power Whip"
+        }, 
+        "de": {
+          "name": "Blattgei\u00dfel"
+        }, 
+        "ko": {
+          "name": "\ud30c\uc6cc\ud729"
+        }, 
+        "it": {
+          "name": "Vigorcolpo"
+        }, 
+        "ja": {
+          "name": "\u30d1\u30ef\u30fc\u30a6\u30a3\u30c3\u30d7"
+        }, 
+        "es": {
+          "name": "Latigazo"
+        }
+      }, 
+      "duration": 2800, 
+      "critical": 0.12, 
+      "dps": 25.0, 
+      "power": 70, 
+      "charges": 1, 
+      "energy": 0, 
+      "type": "grass", 
+      "id": "power-whip"
+    }, 
+    "crunch": {
+      "i18n": {
+        "fr": {
+          "name": "M\u00e2chouille"
+        }, 
+        "en": {
+          "name": "Crunch"
+        }, 
+        "de": {
+          "name": "Knirscher"
+        }, 
+        "ko": {
+          "name": "\uae68\ubb3c\uc5b4\ubd80\uc218\uae30"
+        }, 
+        "it": {
+          "name": "Sgranocchio"
+        }, 
+        "ja": {
+          "name": "\u304b\u307f\u304f\u3060\u304f"
+        }, 
+        "es": {
+          "name": "Triturar"
+        }
+      }, 
+      "duration": 3200, 
+      "critical": 0.0, 
+      "dps": 21.875, 
+      "power": 70, 
+      "charges": 2, 
+      "energy": 0, 
+      "type": "dark", 
+      "id": "crunch"
     }, 
     "water-pulse": {
       "i18n": {
@@ -8784,11 +13362,11 @@
           "name": "Hidropulso"
         }
       }, 
-      "duration": 3300, 
-      "critical": 0.05, 
-      "dps": 10.606060606060607, 
-      "power": 35, 
-      "charges": 4, 
+      "duration": 3200, 
+      "critical": 0.0, 
+      "dps": 21.875, 
+      "power": 70, 
+      "charges": 2, 
       "energy": 0, 
       "type": "water", 
       "id": "water-pulse"
@@ -8817,14 +13395,47 @@
           "name": "Confusi\u00f3n"
         }
       }, 
-      "duration": 1510, 
+      "duration": 1600, 
       "critical": null, 
-      "dps": 9.933774834437086, 
-      "power": 15, 
+      "dps": 12.5, 
+      "power": 20, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 15, 
       "type": "psychic", 
       "id": "confusion"
+    }, 
+    "hidden-power": {
+      "i18n": {
+        "fr": {
+          "name": "Puissance Cach\u00e9e"
+        }, 
+        "en": {
+          "name": "Hidden Power"
+        }, 
+        "de": {
+          "name": "Kraftreserve"
+        }, 
+        "ko": {
+          "name": "\uc7a0\uc7ac\ud30c\uc6cc"
+        }, 
+        "it": {
+          "name": "Introforza"
+        }, 
+        "ja": {
+          "name": "\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc"
+        }, 
+        "es": {
+          "name": "Poder Oculto"
+        }
+      }, 
+      "duration": 1500, 
+      "critical": null, 
+      "dps": 10.0, 
+      "power": 15, 
+      "charges": 0, 
+      "energy": 15, 
+      "type": "normal", 
+      "id": "hidden-power"
     }, 
     "spark": {
       "i18n": {
@@ -8852,10 +13463,10 @@
       }, 
       "duration": 700, 
       "critical": null, 
-      "dps": 10.0, 
-      "power": 7, 
+      "dps": 8.571428571428571, 
+      "power": 6, 
       "charges": 0, 
-      "energy": 4, 
+      "energy": 9, 
       "type": "electric", 
       "id": "spark"
     }, 
@@ -8883,11 +13494,11 @@
           "name": "Rapidez"
         }
       }, 
-      "duration": 3000, 
-      "critical": 0.05, 
-      "dps": 10.0, 
-      "power": 30, 
-      "charges": 4, 
+      "duration": 2800, 
+      "critical": 0.0, 
+      "dps": 21.428571428571427, 
+      "power": 60, 
+      "charges": 1, 
       "energy": 0, 
       "type": "normal", 
       "id": "swift"
@@ -8916,47 +13527,80 @@
           "name": "Terremoto"
         }
       }, 
-      "duration": 4200, 
-      "critical": 0.05, 
-      "dps": 23.809523809523807, 
-      "power": 100, 
-      "charges": 1, 
+      "duration": 3600, 
+      "critical": 0.0, 
+      "dps": 33.333333333333336, 
+      "power": 120, 
+      "charges": 2, 
       "energy": 0, 
       "type": "ground", 
       "id": "earthquake"
     }, 
-    "power-gem": {
+    "bullet-seed": {
       "i18n": {
         "fr": {
-          "name": "Rayon Gemme"
+          "name": "Balle Graine"
         }, 
         "en": {
-          "name": "Power Gem"
+          "name": "Bullet Seed"
         }, 
         "de": {
-          "name": "Juwelenkraft"
+          "name": "Kugelsaat"
         }, 
         "ko": {
-          "name": "\ud30c\uc6cc\uc82c"
+          "name": "\uae30\uad00\ucd1d"
         }, 
         "it": {
-          "name": "Gemmoforza"
+          "name": "Semitraglia"
         }, 
         "ja": {
-          "name": "\u30d1\u30ef\u30fc\u30b8\u30a7\u30e0"
+          "name": "\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3"
         }, 
         "es": {
-          "name": "Joya de Luz"
+          "name": "Recurrente"
         }
       }, 
-      "duration": 2900, 
-      "critical": 0.05, 
-      "dps": 13.793103448275861, 
-      "power": 40, 
-      "charges": 3, 
+      "duration": 1100, 
+      "critical": null, 
+      "dps": 12.727272727272728, 
+      "power": 14, 
+      "charges": 0, 
+      "energy": 12, 
+      "type": "grass", 
+      "id": "bullet-seed"
+    }, 
+    "bubble-beam": {
+      "i18n": {
+        "fr": {
+          "name": "Bulles d'O"
+        }, 
+        "en": {
+          "name": "Bubble Beam"
+        }, 
+        "de": {
+          "name": "Blubbstrahl"
+        }, 
+        "ko": {
+          "name": "\uac70\ud488\uad11\uc120"
+        }, 
+        "it": {
+          "name": "Bollaraggio"
+        }, 
+        "ja": {
+          "name": "\u30d0\u30d6\u30eb\u3053\u3046\u305b\u3093"
+        }, 
+        "es": {
+          "name": "Rayo Burbuja"
+        }
+      }, 
+      "duration": 1900, 
+      "critical": 0.0, 
+      "dps": 23.68421052631579, 
+      "power": 45, 
+      "charges": 2, 
       "energy": 0, 
-      "type": "rock", 
-      "id": "power-gem"
+      "type": "water", 
+      "id": "bubble-beam"
     }, 
     "signal-beam": {
       "i18n": {
@@ -8982,14 +13626,80 @@
           "name": "Doble Rayo"
         }
       }, 
-      "duration": 3100, 
-      "critical": 0.05, 
-      "dps": 14.516129032258066, 
-      "power": 45, 
+      "duration": 2900, 
+      "critical": 0.0, 
+      "dps": 25.862068965517242, 
+      "power": 75, 
       "charges": 3, 
       "energy": 0, 
       "type": "bug", 
       "id": "signal-beam"
+    }, 
+    "heavy-slam": {
+      "i18n": {
+        "fr": {
+          "name": "Tacle Lourd"
+        }, 
+        "en": {
+          "name": "Heavy Slam"
+        }, 
+        "de": {
+          "name": "Rammboss"
+        }, 
+        "ko": {
+          "name": "\ud5e4\ube44\ubd04\ubc84"
+        }, 
+        "it": {
+          "name": "Pesobomba"
+        }, 
+        "ja": {
+          "name": "\u30d8\u30d3\u30fc\u30dc\u30f3\u30d0\u30fc"
+        }, 
+        "es": {
+          "name": "Cuerpo Pesado"
+        }
+      }, 
+      "duration": 2100, 
+      "critical": 0.0, 
+      "dps": 33.333333333333336, 
+      "power": 70, 
+      "charges": 3, 
+      "energy": 0, 
+      "type": "steel", 
+      "id": "heavy-slam"
+    }, 
+    "grass-knot": {
+      "i18n": {
+        "fr": {
+          "name": "N\u0153ud Herbe"
+        }, 
+        "en": {
+          "name": "Grass Knot"
+        }, 
+        "de": {
+          "name": "Strauchler"
+        }, 
+        "ko": {
+          "name": "\ud480\ubb36\uae30"
+        }, 
+        "it": {
+          "name": "Laccioerboso"
+        }, 
+        "ja": {
+          "name": "\u304f\u3055\u3080\u3059\u3073"
+        }, 
+        "es": {
+          "name": "Hierba Lazo"
+        }
+      }, 
+      "duration": 2600, 
+      "critical": 0.0, 
+      "dps": 34.61538461538462, 
+      "power": 90, 
+      "charges": 1, 
+      "energy": 0, 
+      "type": "grass", 
+      "id": "grass-knot"
     }, 
     "body-slam": {
       "i18n": {
@@ -9015,11 +13725,11 @@
           "name": "Golpe Cuerpo"
         }
       }, 
-      "duration": 1560, 
-      "critical": 0.05, 
-      "dps": 25.64102564102564, 
-      "power": 40, 
-      "charges": 2, 
+      "duration": 1900, 
+      "critical": 0.0, 
+      "dps": 26.31578947368421, 
+      "power": 50, 
+      "charges": 3, 
       "energy": 0, 
       "type": "normal", 
       "id": "body-slam"
@@ -9081,47 +13791,47 @@
           "name": "Ventisca"
         }
       }, 
-      "duration": 3900, 
-      "critical": 0.05, 
-      "dps": 25.64102564102564, 
-      "power": 100, 
-      "charges": 1, 
+      "duration": 3100, 
+      "critical": 0.0, 
+      "dps": 41.935483870967744, 
+      "power": 130, 
+      "charges": 3, 
       "energy": 0, 
       "type": "ice", 
       "id": "blizzard"
     }, 
-    "rock-slide": {
+    "dragon-tail": {
       "i18n": {
         "fr": {
-          "name": "\u00c9boulement"
+          "name": "Draco-Queue"
         }, 
         "en": {
-          "name": "Rock Slide"
+          "name": "Dragon Tail"
         }, 
         "de": {
-          "name": "Steinhagel"
+          "name": "Drachenrute"
         }, 
         "ko": {
-          "name": "\uc2a4\ud1a4\uc0e4\uc6cc"
+          "name": "\ub4dc\ub798\uace4\ud14c\uc77c"
         }, 
         "it": {
-          "name": "Frana"
+          "name": "Codadrago"
         }, 
         "ja": {
-          "name": "\u3044\u308f\u306a\u3060\u308c"
+          "name": "\u30c9\u30e9\u30b4\u30f3\u30c6\u30fc\u30eb"
         }, 
         "es": {
-          "name": "Avalancha"
+          "name": "Cola Drag\u00f3n"
         }
       }, 
-      "duration": 3200, 
-      "critical": 0.05, 
-      "dps": 15.625, 
-      "power": 50, 
-      "charges": 3, 
-      "energy": 0, 
-      "type": "rock", 
-      "id": "rock-slide"
+      "duration": 1100, 
+      "critical": null, 
+      "dps": 13.636363636363635, 
+      "power": 15, 
+      "charges": 0, 
+      "energy": 9, 
+      "type": "dragon", 
+      "id": "dragon-tail"
     }, 
     "flame-burst": {
       "i18n": {
@@ -9147,14 +13857,47 @@
           "name": "Pirotecnia"
         }
       }, 
-      "duration": 2100, 
-      "critical": 0.05, 
-      "dps": 14.285714285714285, 
-      "power": 30, 
-      "charges": 4, 
+      "duration": 2600, 
+      "critical": 0.0, 
+      "dps": 26.923076923076923, 
+      "power": 70, 
+      "charges": 3, 
       "energy": 0, 
       "type": "fire", 
       "id": "flame-burst"
+    }, 
+    "powder-snow": {
+      "i18n": {
+        "fr": {
+          "name": "Poudreuse"
+        }, 
+        "en": {
+          "name": "Powder Snow"
+        }, 
+        "de": {
+          "name": "Pulverschnee"
+        }, 
+        "ko": {
+          "name": "\ub208\uc2f8\ub77c\uae30"
+        }, 
+        "it": {
+          "name": "Polneve"
+        }, 
+        "ja": {
+          "name": "\u3053\u306a\u3086\u304d"
+        }, 
+        "es": {
+          "name": "Nieve Polvo"
+        }
+      }, 
+      "duration": 1000, 
+      "critical": null, 
+      "dps": 6.0, 
+      "power": 6, 
+      "charges": 0, 
+      "energy": 15, 
+      "type": "ice", 
+      "id": "powder-snow"
     }, 
     "steel-wing": {
       "i18n": {
@@ -9180,12 +13923,12 @@
           "name": "Ala de Acero"
         }
       }, 
-      "duration": 1330, 
+      "duration": 800, 
       "critical": null, 
-      "dps": 11.278195488721805, 
-      "power": 15, 
+      "dps": 13.75, 
+      "power": 11, 
       "charges": 0, 
-      "energy": 4, 
+      "energy": 6, 
       "type": "steel", 
       "id": "steel-wing"
     }, 
@@ -9246,12 +13989,12 @@
           "name": "Placaje"
         }
       }, 
-      "duration": 1100, 
+      "duration": 500, 
       "critical": null, 
-      "dps": 10.90909090909091, 
-      "power": 12, 
+      "dps": 10.0, 
+      "power": 5, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 5, 
       "type": "normal", 
       "id": "tackle"
     }, 
@@ -9284,42 +14027,42 @@
       "dps": 10.0, 
       "power": 5, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 6, 
       "type": "ghost", 
       "id": "lick"
     }, 
-    "discharge": {
+    "metal-claw": {
       "i18n": {
         "fr": {
-          "name": "Coup d'Jus"
+          "name": "Griffe Acier"
         }, 
         "en": {
-          "name": "Discharge"
+          "name": "Metal Claw"
         }, 
         "de": {
-          "name": "Ladungssto\u00df"
+          "name": "Metallklaue"
         }, 
         "ko": {
-          "name": "\ubc29\uc804"
+          "name": "\uba54\ud0c8\ud06c\ub85c\uc6b0"
         }, 
         "it": {
-          "name": "Scarica"
+          "name": "Ferrartigli"
         }, 
         "ja": {
-          "name": "\u307b\u3046\u3067\u3093"
+          "name": "\u30e1\u30bf\u30eb\u30af\u30ed\u30fc"
         }, 
         "es": {
-          "name": "Chispazo"
+          "name": "Garra Metal"
         }
       }, 
-      "duration": 2500, 
-      "critical": 0.05, 
-      "dps": 14.0, 
-      "power": 35, 
-      "charges": 3, 
-      "energy": 0, 
-      "type": "electric", 
-      "id": "discharge"
+      "duration": 700, 
+      "critical": null, 
+      "dps": 11.428571428571429, 
+      "power": 8, 
+      "charges": 0, 
+      "energy": 7, 
+      "type": "steel", 
+      "id": "metal-claw"
     }, 
     "wrap": {
       "i18n": {
@@ -9354,38 +14097,38 @@
       "type": "normal", 
       "id": "wrap"
     }, 
-    "aqua-tail": {
+    "dark-pulse": {
       "i18n": {
         "fr": {
-          "name": "Hydroqueue"
+          "name": "Vibrobscur"
         }, 
         "en": {
-          "name": "Aqua Tail"
+          "name": "Dark Pulse"
         }, 
         "de": {
-          "name": "Nassschweif"
+          "name": "Finsteraura"
         }, 
         "ko": {
-          "name": "\uc544\ucfe0\uc544\ud14c\uc77c"
+          "name": "\uc545\uc758\ud30c\ub3d9"
         }, 
         "it": {
-          "name": "Idrondata"
+          "name": "Neropulsar"
         }, 
         "ja": {
-          "name": "\u30a2\u30af\u30a2\u30c6\u30fc\u30eb"
+          "name": "\u3042\u304f\u306e\u306f\u3069\u3046"
         }, 
         "es": {
-          "name": "Acua Cola"
+          "name": "Pulso Umbr\u00edo"
         }
       }, 
-      "duration": 2350, 
-      "critical": 0.05, 
-      "dps": 19.148936170212767, 
-      "power": 45, 
+      "duration": 3000, 
+      "critical": 0.0, 
+      "dps": 26.666666666666668, 
+      "power": 80, 
       "charges": 2, 
       "energy": 0, 
-      "type": "water", 
-      "id": "aqua-tail"
+      "type": "dark", 
+      "id": "dark-pulse"
     }, 
     "bone-club": {
       "i18n": {
@@ -9420,6 +14163,39 @@
       "type": "ground", 
       "id": "bone-club"
     }, 
+    "overheat": {
+      "i18n": {
+        "fr": {
+          "name": "Surchauffe"
+        }, 
+        "en": {
+          "name": "Overheat"
+        }, 
+        "de": {
+          "name": "Hitzekoller"
+        }, 
+        "ko": {
+          "name": "\uc624\ubc84\ud788\ud2b8"
+        }, 
+        "it": {
+          "name": "Vampata"
+        }, 
+        "ja": {
+          "name": "\u30aa\u30fc\u30d0\u30fc\u30d2\u30fc\u30c8"
+        }, 
+        "es": {
+          "name": "Sofoco"
+        }
+      }, 
+      "duration": 4000, 
+      "critical": 0.0, 
+      "dps": 40.0, 
+      "power": 160, 
+      "charges": 1, 
+      "energy": 0, 
+      "type": "fire", 
+      "id": "overheat"
+    }, 
     "mud-slap": {
       "i18n": {
         "fr": {
@@ -9453,39 +14229,6 @@
       "type": "ground", 
       "id": "mud-slap"
     }, 
-    "x-scissor": {
-      "i18n": {
-        "fr": {
-          "name": "Plaie-Croix"
-        }, 
-        "en": {
-          "name": "X-Scissor"
-        }, 
-        "de": {
-          "name": "Kreuzschere"
-        }, 
-        "ko": {
-          "name": "\uc2dc\uc800\ud06c\ub85c\uc2a4"
-        }, 
-        "it": {
-          "name": "Forbice X"
-        }, 
-        "ja": {
-          "name": "\u30b7\u30b6\u30fc\u30af\u30ed\u30b9"
-        }, 
-        "es": {
-          "name": "Tijera X"
-        }
-      }, 
-      "duration": 2100, 
-      "critical": 0.05, 
-      "dps": 16.666666666666668, 
-      "power": 35, 
-      "charges": 3, 
-      "energy": 0, 
-      "type": "bug", 
-      "id": "x-scissor"
-    }, 
     "bite": {
       "i18n": {
         "fr": {
@@ -9515,9 +14258,75 @@
       "dps": 12.0, 
       "power": 6, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 4, 
       "type": "dark", 
       "id": "bite"
+    }, 
+    "zap-cannon": {
+      "i18n": {
+        "fr": {
+          "name": "\u00c9lecanon"
+        }, 
+        "en": {
+          "name": "Zap Cannon"
+        }, 
+        "de": {
+          "name": "Blitzkanone"
+        }, 
+        "ko": {
+          "name": "\uc804\uc790\ud3ec"
+        }, 
+        "it": {
+          "name": "Falcecannone"
+        }, 
+        "ja": {
+          "name": "\u3067\u3093\u3058\u307b\u3046"
+        }, 
+        "es": {
+          "name": "Electroca\u00f1\u00f3n"
+        }
+      }, 
+      "duration": 3700, 
+      "critical": 0.0, 
+      "dps": 37.83783783783784, 
+      "power": 140, 
+      "charges": 2, 
+      "energy": 0, 
+      "type": "electric", 
+      "id": "zap-cannon"
+    }, 
+    "hex": {
+      "i18n": {
+        "fr": {
+          "name": "Ch\u00e2timent"
+        }, 
+        "en": {
+          "name": "Hex"
+        }, 
+        "de": {
+          "name": "B\u00fcrde"
+        }, 
+        "ko": {
+          "name": "\ubcd1\uc0c1\ucca8\ubcd1"
+        }, 
+        "it": {
+          "name": "Sciagura"
+        }, 
+        "ja": {
+          "name": "\u305f\u305f\u308a\u3081"
+        }, 
+        "es": {
+          "name": "Infortunio"
+        }
+      }, 
+      "duration": 1200, 
+      "critical": null, 
+      "dps": 8.333333333333334, 
+      "power": 10, 
+      "charges": 0, 
+      "energy": 15, 
+      "type": "ghost", 
+      "id": "hex"
     }, 
     "transform": {
       "i18n": {
@@ -9576,12 +14385,12 @@
           "name": "Canto Helado"
         }
       }, 
-      "duration": 1400, 
+      "duration": 1200, 
       "critical": null, 
-      "dps": 10.714285714285714, 
-      "power": 15, 
+      "dps": 10.0, 
+      "power": 12, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 12, 
       "type": "ice", 
       "id": "ice-shard"
     }, 
@@ -9609,11 +14418,11 @@
           "name": "Poder Pasado"
         }
       }, 
-      "duration": 3600, 
-      "critical": 0.05, 
-      "dps": 9.722222222222223, 
-      "power": 35, 
-      "charges": 4, 
+      "duration": 3500, 
+      "critical": 0.0, 
+      "dps": 20.0, 
+      "power": 70, 
+      "charges": 3, 
       "energy": 0, 
       "type": "rock", 
       "id": "ancient-power"
@@ -9642,12 +14451,12 @@
           "name": "L\u00e1tigo Cepa"
         }
       }, 
-      "duration": 650, 
+      "duration": 600, 
       "critical": null, 
-      "dps": 10.769230769230768, 
+      "dps": 11.666666666666668, 
       "power": 7, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 6, 
       "type": "grass", 
       "id": "vine-whip"
     }, 
@@ -9675,12 +14484,12 @@
           "name": "Salpicadura"
         }
       }, 
-      "duration": 1230, 
+      "duration": 1730, 
       "critical": null, 
       "dps": 0.0, 
       "power": 0, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 20, 
       "type": "normal", 
       "id": "splash"
     }, 
@@ -9708,11 +14517,11 @@
           "name": "Foco Resplandor"
         }
       }, 
-      "duration": 3900, 
-      "critical": 0.05, 
-      "dps": 15.384615384615385, 
-      "power": 60, 
-      "charges": 3, 
+      "duration": 2700, 
+      "critical": 0.0, 
+      "dps": 37.03703703703704, 
+      "power": 100, 
+      "charges": 1, 
       "energy": 0, 
       "type": "steel", 
       "id": "flash-cannon"
@@ -9750,38 +14559,38 @@
       "type": "dragon", 
       "id": "twister"
     }, 
-    "bubble": {
+    "x-scissor": {
       "i18n": {
         "fr": {
-          "name": "\u00c9cume"
+          "name": "Plaie-Croix"
         }, 
         "en": {
-          "name": "Bubble"
+          "name": "X-Scissor"
         }, 
         "de": {
-          "name": "Blubber"
+          "name": "Kreuzschere"
         }, 
         "ko": {
-          "name": "\uac70\ud488"
+          "name": "\uc2dc\uc800\ud06c\ub85c\uc2a4"
         }, 
         "it": {
-          "name": "Bolla"
+          "name": "Forbice X"
         }, 
         "ja": {
-          "name": "\u3042\u308f"
+          "name": "\u30b7\u30b6\u30fc\u30af\u30ed\u30b9"
         }, 
         "es": {
-          "name": "Burbuja"
+          "name": "Tijera X"
         }
       }, 
-      "duration": 2300, 
-      "critical": null, 
-      "dps": 10.869565217391305, 
-      "power": 25, 
-      "charges": 0, 
-      "energy": 15, 
-      "type": "water", 
-      "id": "bubble"
+      "duration": 1600, 
+      "critical": 0.0, 
+      "dps": 28.125, 
+      "power": 45, 
+      "charges": 1, 
+      "energy": 0, 
+      "type": "bug", 
+      "id": "x-scissor"
     }, 
     "flamethrower": {
       "i18n": {
@@ -9807,47 +14616,146 @@
           "name": "Lanzallamas"
         }
       }, 
-      "duration": 2900, 
-      "critical": 0.05, 
-      "dps": 18.96551724137931, 
-      "power": 55, 
-      "charges": 2, 
+      "duration": 2200, 
+      "critical": 0.0, 
+      "dps": 31.818181818181817, 
+      "power": 70, 
+      "charges": 1, 
       "energy": 0, 
       "type": "fire", 
       "id": "flamethrower"
     }, 
-    "quick-attack": {
+    "water-gun": {
       "i18n": {
         "fr": {
-          "name": "Vive-Attaque"
+          "name": "Pistolet \u00e0 O"
         }, 
         "en": {
-          "name": "Quick Attack"
+          "name": "Water Gun"
         }, 
         "de": {
-          "name": "Ruckzuckhieb"
+          "name": "Aquaknarre"
         }, 
         "ko": {
-          "name": "\uc804\uad11\uc11d\ud654"
+          "name": "\ubb3c\ub300\ud3ec"
         }, 
         "it": {
-          "name": "Attacco Rapido"
+          "name": "Pistolacqua"
         }, 
         "ja": {
-          "name": "\u3067\u3093\u3053\u3046\u305b\u3063\u304b"
+          "name": "\u307f\u305a\u3067\u3063\u307d\u3046"
         }, 
         "es": {
-          "name": "Ataque R\u00e1pido"
+          "name": "Pistola Agua"
         }
       }, 
-      "duration": 1330, 
+      "duration": 500, 
       "critical": null, 
-      "dps": 7.518796992481203, 
-      "power": 10, 
+      "dps": 10.0, 
+      "power": 5, 
+      "charges": 0, 
+      "energy": 6, 
+      "type": "water", 
+      "id": "water-gun"
+    }, 
+    "wing-attack": {
+      "i18n": {
+        "fr": {
+          "name": "Cru-Aile"
+        }, 
+        "en": {
+          "name": "Wing Attack"
+        }, 
+        "de": {
+          "name": "Fl\u00fcgelschlag"
+        }, 
+        "ko": {
+          "name": "\ub0a0\uac1c\uce58\uae30"
+        }, 
+        "it": {
+          "name": "Attacco d'Ala"
+        }, 
+        "ja": {
+          "name": "\u3064\u3070\u3055\u3067\u3046\u3064"
+        }, 
+        "es": {
+          "name": "Ataque Ala"
+        }
+      }, 
+      "duration": 800, 
+      "critical": null, 
+      "dps": 10.0, 
+      "power": 8, 
+      "charges": 0, 
+      "energy": 9, 
+      "type": "flying", 
+      "id": "wing-attack"
+    }, 
+    "iron-tail": {
+      "i18n": {
+        "fr": {
+          "name": "Queue de Fer"
+        }, 
+        "en": {
+          "name": "Iron Tail"
+        }, 
+        "de": {
+          "name": "Eisenschweif"
+        }, 
+        "ko": {
+          "name": "\uc544\uc774\uc5b8\ud14c\uc77c"
+        }, 
+        "it": {
+          "name": "Codacciaio"
+        }, 
+        "ja": {
+          "name": "\u30a2\u30a4\u30a2\u30f3\u30c6\u30fc\u30eb"
+        }, 
+        "es": {
+          "name": "Cola F\u00e9rrea"
+        }
+      }, 
+      "duration": 1100, 
+      "critical": null, 
+      "dps": 13.636363636363635, 
+      "power": 15, 
       "charges": 0, 
       "energy": 7, 
-      "type": "normal", 
-      "id": "quick-attack"
+      "type": "steel", 
+      "id": "iron-tail"
+    }, 
+    "psybeam": {
+      "i18n": {
+        "fr": {
+          "name": "Rafale Psy"
+        }, 
+        "en": {
+          "name": "Psybeam"
+        }, 
+        "de": {
+          "name": "Psystrahl"
+        }, 
+        "ko": {
+          "name": "\ud658\uc0c1\ube54"
+        }, 
+        "it": {
+          "name": "Psicoraggio"
+        }, 
+        "ja": {
+          "name": "\u30b5\u30a4\u30b1\u3053\u3046\u305b\u3093"
+        }, 
+        "es": {
+          "name": "Psicorrayo"
+        }
+      }, 
+      "duration": 3200, 
+      "critical": 0.0, 
+      "dps": 21.875, 
+      "power": 70, 
+      "charges": 1, 
+      "energy": 0, 
+      "type": "psychic", 
+      "id": "psybeam"
     }, 
     "dragon-breath": {
       "i18n": {
@@ -9878,7 +14786,7 @@
       "dps": 12.0, 
       "power": 6, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 4, 
       "type": "dragon", 
       "id": "dragon-breath"
     }, 
@@ -9906,14 +14814,80 @@
           "name": "Disparo Lodo"
         }
       }, 
-      "duration": 550, 
+      "duration": 600, 
       "critical": null, 
-      "dps": 21.81818181818182, 
-      "power": 12, 
+      "dps": 8.333333333333334, 
+      "power": 5, 
       "charges": 0, 
       "energy": 7, 
       "type": "ground", 
       "id": "mud-shot"
+    }, 
+    "focus-blast": {
+      "i18n": {
+        "fr": {
+          "name": "Exploforce"
+        }, 
+        "en": {
+          "name": "Focus Blast"
+        }, 
+        "de": {
+          "name": "Fokussto\u00df"
+        }, 
+        "ko": {
+          "name": "\uae30\ud569\uad6c\uc2ac"
+        }, 
+        "it": {
+          "name": "Focalcolpo"
+        }, 
+        "ja": {
+          "name": "\u304d\u3042\u3044\u3060\u307e"
+        }, 
+        "es": {
+          "name": "Onda Certera"
+        }
+      }, 
+      "duration": 3500, 
+      "critical": 0.0, 
+      "dps": 40.0, 
+      "power": 140, 
+      "charges": 2, 
+      "energy": 0, 
+      "type": "fighting", 
+      "id": "focus-blast"
+    }, 
+    "infestation": {
+      "i18n": {
+        "fr": {
+          "name": "Harc\u00e8lement"
+        }, 
+        "en": {
+          "name": "Infestation"
+        }, 
+        "de": {
+          "name": "Plage"
+        }, 
+        "ko": {
+          "name": "\uc5c9\uaca8\ubd99\uae30"
+        }, 
+        "it": {
+          "name": "Assillo"
+        }, 
+        "ja": {
+          "name": "\u307e\u3068\u308f\u308a\u3064\u304f"
+        }, 
+        "es": {
+          "name": "Acoso"
+        }
+      }, 
+      "duration": 1100, 
+      "critical": null, 
+      "dps": 9.09090909090909, 
+      "power": 10, 
+      "charges": 0, 
+      "energy": 14, 
+      "type": "bug", 
+      "id": "infestation"
     }, 
     "peck": {
       "i18n": {
@@ -9939,9 +14913,9 @@
           "name": "Picotazo"
         }
       }, 
-      "duration": 1150, 
+      "duration": 1000, 
       "critical": null, 
-      "dps": 8.695652173913043, 
+      "dps": 10.0, 
       "power": 10, 
       "charges": 0, 
       "energy": 10, 
@@ -9972,11 +14946,11 @@
           "name": "Nitrocarga"
         }
       }, 
-      "duration": 3100, 
-      "critical": 0.05, 
-      "dps": 8.064516129032258, 
-      "power": 25, 
-      "charges": 4, 
+      "duration": 3800, 
+      "critical": 0.0, 
+      "dps": 18.421052631578945, 
+      "power": 70, 
+      "charges": 2, 
       "energy": 0, 
       "type": "fire", 
       "id": "flame-charge"
@@ -10005,14 +14979,47 @@
           "name": "Viento Aciago"
         }
       }, 
-      "duration": 3100, 
-      "critical": 0.05, 
-      "dps": 9.67741935483871, 
-      "power": 30, 
-      "charges": 4, 
+      "duration": 2300, 
+      "critical": 0.0, 
+      "dps": 21.73913043478261, 
+      "power": 50, 
+      "charges": 2, 
       "energy": 0, 
       "type": "ghost", 
       "id": "ominous-wind"
+    }, 
+    "brave-bird": {
+      "i18n": {
+        "fr": {
+          "name": "Rapace"
+        }, 
+        "en": {
+          "name": "Brave Bird"
+        }, 
+        "de": {
+          "name": "Sturzflug"
+        }, 
+        "ko": {
+          "name": "\ube0c\ub808\uc774\ube0c\ubc84\ub4dc"
+        }, 
+        "it": {
+          "name": "Baldeali"
+        }, 
+        "ja": {
+          "name": "\u30d6\u30ec\u30a4\u30d6\u30d0\u30fc\u30c9"
+        }, 
+        "es": {
+          "name": "P\u00e1jaro Osado"
+        }
+      }, 
+      "duration": 2000, 
+      "critical": 0.0, 
+      "dps": 45.0, 
+      "power": 90, 
+      "charges": 3, 
+      "energy": 0, 
+      "type": "flying", 
+      "id": "brave-bird"
     }, 
     "vice-grip": {
       "i18n": {
@@ -10047,6 +15054,39 @@
       "type": "normal", 
       "id": "vice-grip"
     }, 
+    "fury-cutter": {
+      "i18n": {
+        "fr": {
+          "name": "Taillade"
+        }, 
+        "en": {
+          "name": "Fury Cutter"
+        }, 
+        "de": {
+          "name": "Zornklinge"
+        }, 
+        "ko": {
+          "name": "\uc5f0\uc18d\uc790\ub974\uae30"
+        }, 
+        "it": {
+          "name": "Tagliofuria"
+        }, 
+        "ja": {
+          "name": "\u308c\u3093\u305e\u304f\u304e\u308a"
+        }, 
+        "es": {
+          "name": "Corte Furia"
+        }
+      }, 
+      "duration": 400, 
+      "critical": null, 
+      "dps": 7.5, 
+      "power": 3, 
+      "charges": 0, 
+      "energy": 6, 
+      "type": "bug", 
+      "id": "fury-cutter"
+    }, 
     "ember": {
       "i18n": {
         "fr": {
@@ -10071,14 +15111,113 @@
           "name": "Ascuas"
         }
       }, 
-      "duration": 1050, 
+      "duration": 1000, 
       "critical": null, 
-      "dps": 9.523809523809526, 
+      "dps": 10.0, 
       "power": 10, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 10, 
       "type": "fire", 
       "id": "ember"
+    }, 
+    "charge-beam": {
+      "i18n": {
+        "fr": {
+          "name": "Rayon Charg\u00e9"
+        }, 
+        "en": {
+          "name": "Charge Beam"
+        }, 
+        "de": {
+          "name": "Ladestrahl"
+        }, 
+        "ko": {
+          "name": "\ucc28\uc9c0\ube54"
+        }, 
+        "it": {
+          "name": "Raggioscossa"
+        }, 
+        "ja": {
+          "name": "\u30c1\u30e3\u30fc\u30b8\u30d3\u30fc\u30e0"
+        }, 
+        "es": {
+          "name": "Rayo Carga"
+        }
+      }, 
+      "duration": 1100, 
+      "critical": null, 
+      "dps": 7.2727272727272725, 
+      "power": 8, 
+      "charges": 0, 
+      "energy": 15, 
+      "type": "electric", 
+      "id": "charge-beam"
+    }, 
+    "rock-blast": {
+      "i18n": {
+        "fr": {
+          "name": "Boule Roc"
+        }, 
+        "en": {
+          "name": "Rock Blast"
+        }, 
+        "de": {
+          "name": "Felswurf"
+        }, 
+        "ko": {
+          "name": "\ub77d\ube14\ub808\uc2a4\ud2b8"
+        }, 
+        "it": {
+          "name": "Cadutamassi"
+        }, 
+        "ja": {
+          "name": "\u30ed\u30c3\u30af\u30d6\u30e9\u30b9\u30c8"
+        }, 
+        "es": {
+          "name": "Pedrada"
+        }
+      }, 
+      "duration": 2100, 
+      "critical": 0.0, 
+      "dps": 23.809523809523807, 
+      "power": 50, 
+      "charges": 2, 
+      "energy": 0, 
+      "type": "rock", 
+      "id": "rock-blast"
+    }, 
+    "power-gem": {
+      "i18n": {
+        "fr": {
+          "name": "Rayon Gemme"
+        }, 
+        "en": {
+          "name": "Power Gem"
+        }, 
+        "de": {
+          "name": "Juwelenkraft"
+        }, 
+        "ko": {
+          "name": "\ud30c\uc6cc\uc82c"
+        }, 
+        "it": {
+          "name": "Gemmoforza"
+        }, 
+        "ja": {
+          "name": "\u30d1\u30ef\u30fc\u30b8\u30a7\u30e0"
+        }, 
+        "es": {
+          "name": "Joya de Luz"
+        }
+      }, 
+      "duration": 2900, 
+      "critical": 0.0, 
+      "dps": 27.586206896551722, 
+      "power": 80, 
+      "charges": 2, 
+      "energy": 0, 
+      "type": "rock", 
+      "id": "power-gem"
     }, 
     "poison-jab": {
       "i18n": {
@@ -10138,10 +15277,10 @@
         }
       }, 
       "duration": 4900, 
-      "critical": 0.05, 
-      "dps": 24.489795918367346, 
-      "power": 120, 
-      "charges": 1, 
+      "critical": 0.0, 
+      "dps": 36.734693877551024, 
+      "power": 180, 
+      "charges": 2, 
       "energy": 0, 
       "type": "grass", 
       "id": "solar-beam"
@@ -10170,11 +15309,11 @@
           "name": "Trueno"
         }
       }, 
-      "duration": 4300, 
-      "critical": 0.05, 
-      "dps": 23.25581395348837, 
+      "duration": 2400, 
+      "critical": 0.0, 
+      "dps": 41.666666666666664, 
       "power": 100, 
-      "charges": 1, 
+      "charges": 3, 
       "energy": 0, 
       "type": "electric", 
       "id": "thunder"
@@ -10205,45 +15344,45 @@
       }, 
       "duration": 800, 
       "critical": null, 
-      "dps": 7.5, 
-      "power": 6, 
+      "dps": 10.0, 
+      "power": 8, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 10, 
       "type": "fighting", 
       "id": "karate-chop"
     }, 
-    "wing-attack": {
+    "night-shade": {
       "i18n": {
         "fr": {
-          "name": "Cru-Aile"
+          "name": "Ombre Nocturne"
         }, 
         "en": {
-          "name": "Wing Attack"
+          "name": "Night Shade"
         }, 
         "de": {
-          "name": "Fl\u00fcgelschlag"
+          "name": "Nachtnebel"
         }, 
         "ko": {
-          "name": "\ub0a0\uac1c\uce58\uae30"
+          "name": "\ub098\uc774\ud2b8\ud5e4\ub4dc"
         }, 
         "it": {
-          "name": "Attacco d'Ala"
+          "name": "Ombra Notturna"
         }, 
         "ja": {
-          "name": "\u3064\u3070\u3055\u3067\u3046\u3064"
+          "name": "\u30ca\u30a4\u30c8\u30d8\u30c3\u30c9"
         }, 
         "es": {
-          "name": "Ataque Ala"
+          "name": "Tinieblas"
         }
       }, 
-      "duration": 750, 
-      "critical": null, 
-      "dps": 12.0, 
-      "power": 9, 
-      "charges": 0, 
-      "energy": 7, 
-      "type": "flying", 
-      "id": "wing-attack"
+      "duration": 2600, 
+      "critical": 0.0, 
+      "dps": 23.076923076923077, 
+      "power": 60, 
+      "charges": 3, 
+      "energy": 0, 
+      "type": "ghost", 
+      "id": "night-shade"
     }, 
     "pound": {
       "i18n": {
@@ -10269,12 +15408,12 @@
           "name": "Destructor"
         }
       }, 
-      "duration": 540, 
+      "duration": 600, 
       "critical": null, 
-      "dps": 12.962962962962962, 
+      "dps": 11.666666666666668, 
       "power": 7, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 6, 
       "type": "normal", 
       "id": "pound"
     }, 
@@ -10335,14 +15474,47 @@
           "name": "Lanzarrocas"
         }
       }, 
-      "duration": 1360, 
+      "duration": 900, 
       "critical": null, 
-      "dps": 8.823529411764707, 
+      "dps": 13.333333333333334, 
       "power": 12, 
       "charges": 0, 
       "energy": 7, 
       "type": "rock", 
       "id": "rock-throw"
+    }, 
+    "bubble": {
+      "i18n": {
+        "fr": {
+          "name": "\u00c9cume"
+        }, 
+        "en": {
+          "name": "Bubble"
+        }, 
+        "de": {
+          "name": "Blubber"
+        }, 
+        "ko": {
+          "name": "\uac70\ud488"
+        }, 
+        "it": {
+          "name": "Bolla"
+        }, 
+        "ja": {
+          "name": "\u3042\u308f"
+        }, 
+        "es": {
+          "name": "Burbuja"
+        }
+      }, 
+      "duration": 1200, 
+      "critical": null, 
+      "dps": 10.0, 
+      "power": 12, 
+      "charges": 0, 
+      "energy": 14, 
+      "type": "water", 
+      "id": "bubble"
     }, 
     "thunder-punch": {
       "i18n": {
@@ -10368,11 +15540,11 @@
           "name": "Pu\u00f1o Trueno"
         }
       }, 
-      "duration": 2400, 
-      "critical": 0.05, 
-      "dps": 16.666666666666668, 
-      "power": 40, 
-      "charges": 3, 
+      "duration": 1800, 
+      "critical": 0.0, 
+      "dps": 25.0, 
+      "power": 45, 
+      "charges": 2, 
       "energy": 0, 
       "type": "electric", 
       "id": "thunder-punch"
@@ -10401,14 +15573,47 @@
           "name": "Megacuerno"
         }
       }, 
-      "duration": 3200, 
-      "critical": 0.05, 
-      "dps": 25.0, 
-      "power": 80, 
-      "charges": 1, 
+      "duration": 2200, 
+      "critical": 0.0, 
+      "dps": 40.90909090909091, 
+      "power": 90, 
+      "charges": 2, 
       "energy": 0, 
       "type": "bug", 
       "id": "megahorn"
+    }, 
+    "close-combat": {
+      "i18n": {
+        "fr": {
+          "name": "Close Combat"
+        }, 
+        "en": {
+          "name": "Close Combat"
+        }, 
+        "de": {
+          "name": "Nahkampf"
+        }, 
+        "ko": {
+          "name": "\uc778\ud30c\uc774\ud2b8"
+        }, 
+        "it": {
+          "name": "Zuffa"
+        }, 
+        "ja": {
+          "name": "\u30a4\u30f3\u30d5\u30a1\u30a4\u30c8"
+        }, 
+        "es": {
+          "name": "A Bocajarro"
+        }
+      }, 
+      "duration": 2300, 
+      "critical": 0.0, 
+      "dps": 43.47826086956522, 
+      "power": 100, 
+      "charges": 2, 
+      "energy": 0, 
+      "type": "fighting", 
+      "id": "close-combat"
     }, 
     "moonblast": {
       "i18n": {
@@ -10443,6 +15648,39 @@
       "type": "fairy", 
       "id": "moonblast"
     }, 
+    "gyro-ball": {
+      "i18n": {
+        "fr": {
+          "name": "Gyroballe"
+        }, 
+        "en": {
+          "name": "Gyro Ball"
+        }, 
+        "de": {
+          "name": "Gyroball"
+        }, 
+        "ko": {
+          "name": "\uc790\uc774\ub85c\ubcfc"
+        }, 
+        "it": {
+          "name": "Vortexpalla"
+        }, 
+        "ja": {
+          "name": "\u30b8\u30e3\u30a4\u30ed\u30dc\u30fc\u30eb"
+        }, 
+        "es": {
+          "name": "Giro Bola"
+        }
+      }, 
+      "duration": 3300, 
+      "critical": 0.0, 
+      "dps": 24.242424242424242, 
+      "power": 80, 
+      "charges": 3, 
+      "energy": 0, 
+      "type": "steel", 
+      "id": "gyro-ball"
+    }, 
     "drill-peck": {
       "i18n": {
         "fr": {
@@ -10467,11 +15705,11 @@
           "name": "Pico Taladro"
         }
       }, 
-      "duration": 2700, 
-      "critical": 0.05, 
-      "dps": 14.814814814814815, 
-      "power": 40, 
-      "charges": 3, 
+      "duration": 2300, 
+      "critical": 0.0, 
+      "dps": 26.08695652173913, 
+      "power": 60, 
+      "charges": 2, 
       "energy": 0, 
       "type": "flying", 
       "id": "drill-peck"
@@ -10500,12 +15738,12 @@
           "name": "\u00c1cido"
         }
       }, 
-      "duration": 1050, 
+      "duration": 800, 
       "critical": null, 
-      "dps": 9.523809523809526, 
-      "power": 10, 
+      "dps": 11.25, 
+      "power": 9, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 8, 
       "type": "poison", 
       "id": "acid"
     }, 
@@ -10533,12 +15771,12 @@
           "name": "Cabezazo Zen"
         }
       }, 
-      "duration": 1050, 
+      "duration": 1100, 
       "critical": null, 
-      "dps": 11.428571428571429, 
+      "dps": 10.90909090909091, 
       "power": 12, 
       "charges": 0, 
-      "energy": 4, 
+      "energy": 3, 
       "type": "psychic", 
       "id": "zen-headbutt"
     }, 
@@ -10566,12 +15804,12 @@
           "name": "Colmillo \u00cdgneo"
         }
       }, 
-      "duration": 840, 
+      "duration": 900, 
       "critical": null, 
-      "dps": 11.904761904761903, 
-      "power": 10, 
+      "dps": 12.222222222222223, 
+      "power": 11, 
       "charges": 0, 
-      "energy": 4, 
+      "energy": 8, 
       "type": "fire", 
       "id": "fire-fang"
     }, 
@@ -10599,14 +15837,47 @@
           "name": "Pu\u00f1o Bala"
         }
       }, 
-      "duration": 1200, 
+      "duration": 900, 
       "critical": null, 
-      "dps": 8.333333333333334, 
-      "power": 10, 
+      "dps": 8.88888888888889, 
+      "power": 8, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 10, 
       "type": "steel", 
       "id": "bullet-punch"
+    }, 
+    "volt-switch": {
+      "i18n": {
+        "fr": {
+          "name": "Change \u00c9clair"
+        }, 
+        "en": {
+          "name": "Volt Switch"
+        }, 
+        "de": {
+          "name": "Voltwechsel"
+        }, 
+        "ko": {
+          "name": "\ubcfc\ud2b8\uccb4\uc778\uc9c0"
+        }, 
+        "it": {
+          "name": "Invertivolt"
+        }, 
+        "ja": {
+          "name": "\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8"
+        }, 
+        "es": {
+          "name": "Voltiocambio"
+        }
+      }, 
+      "duration": 2300, 
+      "critical": null, 
+      "dps": 8.695652173913043, 
+      "power": 20, 
+      "charges": 0, 
+      "energy": 25, 
+      "type": "electric", 
+      "id": "volt-switch"
     }, 
     "rock-smash": {
       "i18n": {
@@ -10632,12 +15903,12 @@
           "name": "Golpe Roca"
         }
       }, 
-      "duration": 1410, 
+      "duration": 1300, 
       "critical": null, 
-      "dps": 10.638297872340425, 
+      "dps": 11.538461538461538, 
       "power": 15, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 10, 
       "type": "fighting", 
       "id": "rock-smash"
     }, 
@@ -10665,10 +15936,10 @@
           "name": "Llamarada"
         }
       }, 
-      "duration": 4100, 
-      "critical": 0.05, 
-      "dps": 24.390243902439025, 
-      "power": 100, 
+      "duration": 4200, 
+      "critical": 0.0, 
+      "dps": 33.333333333333336, 
+      "power": 140, 
       "charges": 1, 
       "energy": 0, 
       "type": "fire", 
@@ -10731,10 +16002,10 @@
           "name": "Zumbido"
         }
       }, 
-      "duration": 4250, 
-      "critical": 0.05, 
-      "dps": 17.647058823529413, 
-      "power": 75, 
+      "duration": 3700, 
+      "critical": 0.0, 
+      "dps": 24.324324324324326, 
+      "power": 90, 
       "charges": 2, 
       "energy": 0, 
       "type": "bug", 
@@ -10764,10 +16035,10 @@
           "name": "Onda \u00cdgnea"
         }
       }, 
-      "duration": 3800, 
-      "critical": 0.05, 
-      "dps": 21.052631578947366, 
-      "power": 80, 
+      "duration": 3000, 
+      "critical": 0.0, 
+      "dps": 31.666666666666668, 
+      "power": 95, 
       "charges": 1, 
       "energy": 0, 
       "type": "fire", 
@@ -10797,12 +16068,12 @@
           "name": "Picotazo Ven"
         }
       }, 
-      "duration": 575, 
+      "duration": 600, 
       "critical": null, 
-      "dps": 10.434782608695652, 
-      "power": 6, 
+      "dps": 8.333333333333334, 
+      "power": 5, 
       "charges": 0, 
-      "energy": 4, 
+      "energy": 7, 
       "type": "poison", 
       "id": "poison-sting"
     }, 
@@ -10830,11 +16101,11 @@
           "name": "Roca Afilada"
         }
       }, 
-      "duration": 3100, 
-      "critical": 0.5, 
-      "dps": 25.806451612903224, 
-      "power": 80, 
-      "charges": 1, 
+      "duration": 2300, 
+      "critical": 0.0, 
+      "dps": 43.47826086956522, 
+      "power": 100, 
+      "charges": 3, 
       "energy": 0, 
       "type": "rock", 
       "id": "stone-edge"
@@ -10868,7 +16139,7 @@
       "dps": 8.333333333333334, 
       "power": 5, 
       "charges": 0, 
-      "energy": 7, 
+      "energy": 8, 
       "type": "electric", 
       "id": "thunder-shock"
     }, 
@@ -10896,10 +16167,10 @@
           "name": "Bola Sombra"
         }
       }, 
-      "duration": 3080, 
-      "critical": 0.05, 
-      "dps": 14.61038961038961, 
-      "power": 45, 
+      "duration": 3000, 
+      "critical": 0.0, 
+      "dps": 33.333333333333336, 
+      "power": 100, 
       "charges": 3, 
       "energy": 0, 
       "type": "ghost", 
@@ -10971,104 +16242,137 @@
       "type": "dragon", 
       "id": "dragon-claw"
     }, 
-    "metal-claw": {
+    "discharge": {
       "i18n": {
         "fr": {
-          "name": "Griffe Acier"
+          "name": "Coup d'Jus"
         }, 
         "en": {
-          "name": "Metal Claw"
+          "name": "Discharge"
         }, 
         "de": {
-          "name": "Metallklaue"
+          "name": "Ladungssto\u00df"
         }, 
         "ko": {
-          "name": "\uba54\ud0c8\ud06c\ub85c\uc6b0"
+          "name": "\ubc29\uc804"
         }, 
         "it": {
-          "name": "Ferrartigli"
+          "name": "Scarica"
         }, 
         "ja": {
-          "name": "\u30e1\u30bf\u30eb\u30af\u30ed\u30fc"
+          "name": "\u307b\u3046\u3067\u3093"
         }, 
         "es": {
-          "name": "Garra Metal"
+          "name": "Chispazo"
         }
       }, 
-      "duration": 630, 
-      "critical": null, 
-      "dps": 19.04761904761905, 
-      "power": 12, 
-      "charges": 0, 
-      "energy": 7, 
-      "type": "steel", 
-      "id": "metal-claw"
-    }, 
-    "psybeam": {
-      "i18n": {
-        "fr": {
-          "name": "Rafale Psy"
-        }, 
-        "en": {
-          "name": "Psybeam"
-        }, 
-        "de": {
-          "name": "Psystrahl"
-        }, 
-        "ko": {
-          "name": "\ud658\uc0c1\ube54"
-        }, 
-        "it": {
-          "name": "Psicoraggio"
-        }, 
-        "ja": {
-          "name": "\u30b5\u30a4\u30b1\u3053\u3046\u305b\u3093"
-        }, 
-        "es": {
-          "name": "Psicorrayo"
-        }
-      }, 
-      "duration": 3800, 
-      "critical": 0.05, 
-      "dps": 10.526315789473683, 
-      "power": 40, 
-      "charges": 4, 
+      "duration": 2500, 
+      "critical": 0.0, 
+      "dps": 26.0, 
+      "power": 65, 
+      "charges": 3, 
       "energy": 0, 
-      "type": "psychic", 
-      "id": "psybeam"
+      "type": "electric", 
+      "id": "discharge"
     }, 
-    "cross-chop": {
+    "future-sight": {
       "i18n": {
         "fr": {
-          "name": "Coup-Croix"
+          "name": "Prescience"
         }, 
         "en": {
-          "name": "Cross Chop"
+          "name": "Future Sight"
         }, 
         "de": {
-          "name": "Kreuzhieb"
+          "name": "Seher"
         }, 
         "ko": {
-          "name": "\ud06c\ub85c\uc2a4\ucd19"
+          "name": "\ubbf8\ub798\uc608\uc9c0"
         }, 
         "it": {
-          "name": "Incrocolpo"
+          "name": "Divinazione"
         }, 
         "ja": {
-          "name": "\u30af\u30ed\u30b9\u30c1\u30e7\u30c3\u30d7"
+          "name": "\u307f\u3089\u3044\u3088\u3061"
         }, 
         "es": {
-          "name": "Tajo Cruzado"
+          "name": "Premonici\u00f3n"
         }
       }, 
-      "duration": 2000, 
-      "critical": 0.25, 
-      "dps": 30.0, 
-      "power": 60, 
+      "duration": 2700, 
+      "critical": 0.0, 
+      "dps": 44.44444444444444, 
+      "power": 120, 
       "charges": 1, 
       "energy": 0, 
+      "type": "psychic", 
+      "id": "future-sight"
+    }, 
+    "quick-attack": {
+      "i18n": {
+        "fr": {
+          "name": "Vive-Attaque"
+        }, 
+        "en": {
+          "name": "Quick Attack"
+        }, 
+        "de": {
+          "name": "Ruckzuckhieb"
+        }, 
+        "ko": {
+          "name": "\uc804\uad11\uc11d\ud654"
+        }, 
+        "it": {
+          "name": "Attacco Rapido"
+        }, 
+        "ja": {
+          "name": "\u3067\u3093\u3053\u3046\u305b\u3063\u304b"
+        }, 
+        "es": {
+          "name": "Ataque R\u00e1pido"
+        }
+      }, 
+      "duration": 800, 
+      "critical": null, 
+      "dps": 10.0, 
+      "power": 8, 
+      "charges": 0, 
+      "energy": 10, 
+      "type": "normal", 
+      "id": "quick-attack"
+    }, 
+    "counter": {
+      "i18n": {
+        "fr": {
+          "name": "Riposte"
+        }, 
+        "en": {
+          "name": "Counter"
+        }, 
+        "de": {
+          "name": "Konter"
+        }, 
+        "ko": {
+          "name": "\uce74\uc6b4\ud130"
+        }, 
+        "it": {
+          "name": "Contrattacco"
+        }, 
+        "ja": {
+          "name": "\u30ab\u30a6\u30f3\u30bf\u30fc"
+        }, 
+        "es": {
+          "name": "Contraataque"
+        }
+      }, 
+      "duration": 900, 
+      "critical": null, 
+      "dps": 13.333333333333334, 
+      "power": 12, 
+      "charges": 0, 
+      "energy": 8, 
       "type": "fighting", 
-      "id": "cross-chop"
+      "id": "counter"
     }, 
     "iron-head": {
       "i18n": {
@@ -11094,14 +16398,47 @@
           "name": "Cabeza de Hierro"
         }
       }, 
-      "duration": 2000, 
-      "critical": 0.05, 
-      "dps": 15.0, 
-      "power": 30, 
+      "duration": 1900, 
+      "critical": 0.0, 
+      "dps": 31.578947368421055, 
+      "power": 60, 
       "charges": 3, 
       "energy": 0, 
       "type": "steel", 
       "id": "iron-head"
+    }, 
+    "air-slash": {
+      "i18n": {
+        "fr": {
+          "name": "Lame d'Air"
+        }, 
+        "en": {
+          "name": "Air Slash"
+        }, 
+        "de": {
+          "name": "Luftschnitt"
+        }, 
+        "ko": {
+          "name": "\uc5d0\uc5b4\uc2ac\ub798\uc2dc"
+        }, 
+        "it": {
+          "name": "Eterelama"
+        }, 
+        "ja": {
+          "name": "\u30a8\u30a2\u30b9\u30e9\u30c3\u30b7\u30e5"
+        }, 
+        "es": {
+          "name": "Tajo A\u00e9reo"
+        }
+      }, 
+      "duration": 1200, 
+      "critical": null, 
+      "dps": 11.666666666666668, 
+      "power": 14, 
+      "charges": 0, 
+      "energy": 10, 
+      "type": "flying", 
+      "id": "air-slash"
     }, 
     "brick-break": {
       "i18n": {
@@ -11128,10 +16465,10 @@
         }
       }, 
       "duration": 1600, 
-      "critical": 0.25, 
-      "dps": 18.75, 
-      "power": 30, 
-      "charges": 3, 
+      "critical": 0.0, 
+      "dps": 25.0, 
+      "power": 40, 
+      "charges": 2, 
       "energy": 0, 
       "type": "fighting", 
       "id": "brick-break"
@@ -11160,10 +16497,10 @@
           "name": "Onda T\u00f3xica"
         }
       }, 
-      "duration": 3400, 
-      "critical": 0.05, 
-      "dps": 20.58823529411765, 
-      "power": 70, 
+      "duration": 3200, 
+      "critical": 0.0, 
+      "dps": 34.375, 
+      "power": 110, 
       "charges": 1, 
       "energy": 0, 
       "type": "poison", 
@@ -11229,53 +16566,53 @@
       ], 
       "id": "steel"
     }, 
-    "ghost": {
+    "water": {
       "double_to": [
-        "ghost", 
-        "psychic"
+        "ground", 
+        "rock", 
+        "fire"
       ], 
-      "no_to": [
-        "normal"
-      ], 
+      "no_to": [], 
       "half_from": [
-        "poison", 
-        "bug"
+        "steel", 
+        "fire", 
+        "water", 
+        "ice"
       ], 
       "double_from": [
-        "ghost", 
-        "dark"
+        "grass", 
+        "electric"
       ], 
-      "no_from": [
-        "normal", 
-        "fighting"
-      ], 
+      "no_from": [], 
       "i18n": {
         "fr": {
-          "name": "Spectre"
+          "name": "Eau"
         }, 
         "en": {
-          "name": "Ghost"
+          "name": "Water"
         }, 
         "de": {
-          "name": "Geist"
+          "name": "Wasser"
         }, 
         "ko": {
-          "name": "\uace0\uc2a4\ud2b8"
+          "name": "\ubb3c"
         }, 
         "it": {
-          "name": "Spettro"
+          "name": "Acqua"
         }, 
         "ja": {
-          "name": "\u30b4\u30fc\u30b9\u30c8"
+          "name": "\u307f\u305a"
         }, 
         "es": {
-          "name": "Fantasma"
+          "name": "Agua"
         }
       }, 
       "half_to": [
-        "dark"
+        "water", 
+        "grass", 
+        "dragon"
       ], 
-      "id": "ghost"
+      "id": "water"
     }, 
     "electric": {
       "double_to": [
@@ -11611,53 +16948,101 @@
       ], 
       "id": "dragon"
     }, 
-    "water": {
+    "dark": {
       "double_to": [
-        "ground", 
-        "rock", 
-        "fire"
+        "ghost", 
+        "psychic"
       ], 
       "no_to": [], 
       "half_from": [
-        "steel", 
-        "fire", 
-        "water", 
-        "ice"
+        "ghost", 
+        "dark"
       ], 
       "double_from": [
-        "grass", 
-        "electric"
+        "fighting", 
+        "bug", 
+        "fairy"
       ], 
-      "no_from": [], 
+      "no_from": [
+        "psychic"
+      ], 
       "i18n": {
         "fr": {
-          "name": "Eau"
+          "name": "T\u00e9n\u00e8bres"
         }, 
         "en": {
-          "name": "Water"
+          "name": "Dark"
         }, 
         "de": {
-          "name": "Wasser"
+          "name": "Unlicht"
         }, 
         "ko": {
-          "name": "\ubb3c"
+          "name": "\uc545"
         }, 
         "it": {
-          "name": "Acqua"
+          "name": "Buio"
         }, 
         "ja": {
-          "name": "\u307f\u305a"
+          "name": "\u3042\u304f"
         }, 
         "es": {
-          "name": "Agua"
+          "name": "Siniestro"
         }
       }, 
       "half_to": [
-        "water", 
-        "grass", 
-        "dragon"
+        "fighting", 
+        "dark", 
+        "fairy"
       ], 
-      "id": "water"
+      "id": "dark"
+    }, 
+    "ghost": {
+      "double_to": [
+        "ghost", 
+        "psychic"
+      ], 
+      "no_to": [
+        "normal"
+      ], 
+      "half_from": [
+        "poison", 
+        "bug"
+      ], 
+      "double_from": [
+        "ghost", 
+        "dark"
+      ], 
+      "no_from": [
+        "normal", 
+        "fighting"
+      ], 
+      "i18n": {
+        "fr": {
+          "name": "Spectre"
+        }, 
+        "en": {
+          "name": "Ghost"
+        }, 
+        "de": {
+          "name": "Geist"
+        }, 
+        "ko": {
+          "name": "\uace0\uc2a4\ud2b8"
+        }, 
+        "it": {
+          "name": "Spettro"
+        }, 
+        "ja": {
+          "name": "\u30b4\u30fc\u30b9\u30c8"
+        }, 
+        "es": {
+          "name": "Fantasma"
+        }
+      }, 
+      "half_to": [
+        "dark"
+      ], 
+      "id": "ghost"
     }, 
     "poison": {
       "double_to": [
@@ -11761,54 +17146,6 @@
         "steel"
       ], 
       "id": "rock"
-    }, 
-    "dark": {
-      "double_to": [
-        "ghost", 
-        "psychic"
-      ], 
-      "no_to": [], 
-      "half_from": [
-        "ghost", 
-        "dark"
-      ], 
-      "double_from": [
-        "fighting", 
-        "bug", 
-        "fairy"
-      ], 
-      "no_from": [
-        "psychic"
-      ], 
-      "i18n": {
-        "fr": {
-          "name": "T\u00e9n\u00e8bres"
-        }, 
-        "en": {
-          "name": "Dark"
-        }, 
-        "de": {
-          "name": "Unlicht"
-        }, 
-        "ko": {
-          "name": "\uc545"
-        }, 
-        "it": {
-          "name": "Buio"
-        }, 
-        "ja": {
-          "name": "\u3042\u304f"
-        }, 
-        "es": {
-          "name": "Siniestro"
-        }
-      }, 
-      "half_to": [
-        "fighting", 
-        "dark", 
-        "fairy"
-      ], 
-      "id": "dark"
     }, 
     "fighting": {
       "double_to": [
